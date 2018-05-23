@@ -27,14 +27,14 @@ void insert(struct hashtable_item *hashmap[], int num, int loc)
     temp->value = loc;
     temp->next = NULL;
     
-    if(hashmap[hash_index] == NULL)
+    if (hashmap[hash_index] == NULL)
     {
         hashmap[hash_index] = temp;
     }        
     else
     {
         current = hashmap[hash_index];
-        while(current->next != NULL)
+        while (current->next != NULL)
             current = current->next;
         current->next = temp;
     }
@@ -49,9 +49,9 @@ int get_value(struct hashtable_item *hashmap[], int num)
     hash_index = get_hashindex(num);
     current = hashmap[hash_index];
     
-    while(current != NULL)
+    while (current != NULL)
     {
-        if(current->key == num)
+        if (current->key == num)
         {
             //found=1;
             value = current->value;
@@ -63,19 +63,19 @@ int get_value(struct hashtable_item *hashmap[], int num)
 }
 int* twoSum(int* nums, int numsSize, int target)
 {
-    int i, found;
+    int found;
     //int SIZE = 100;
     struct hashtable_item *hashmap[100];
     int *sum;
     sum = malloc(2*sizeof(int));
     sum[0] = -1;
     sum[1] = -1;
-    for(i=0; i<100; i++)
+    for (int i = 0; i < 100; ++i)
         hashmap[i] = NULL;
 
-	for(i=0; i<numsSize; i++)
+	for (int i = 0; i < numsSize; ++i)
 	{
-			if(get_value(hashmap, nums[i])==INT_MAX) //if doesnt exist
+			if (get_value(hashmap, nums[i]) == INT_MAX) //if doesnt exist
             {
                 insert(hashmap, target-nums[i], i);
             }					

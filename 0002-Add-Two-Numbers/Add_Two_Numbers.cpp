@@ -52,6 +52,15 @@ private:
     }
 };
 
+void deleteListNode(ListNode *l1)
+{
+    while (l1 != nullptr)
+    {
+        ListNode* p = l1->next;
+        delete l1;
+        l1 = p;
+    }
+}
 int main()
 {
     ListNode *l1 = new ListNode(0);
@@ -66,8 +75,8 @@ int main()
         std::cout << ret->val << std::endl;
         ret = ret->next;
     }
-    delete l1;
-    delete l2;
-    delete ret;
+    deleteListNode(l1);
+    deleteListNode(l2);
+    deleteListNode(ret);
     return 0;
 }
