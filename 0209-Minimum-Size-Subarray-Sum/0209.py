@@ -9,7 +9,7 @@ class Solution:
         r = -1
         sum_all = 0
         nums_len = len(nums)
-        res = nums_len + 1
+        minLength = nums_len + 1
         while l < nums_len:
             if r + 1 < nums_len and sum_all < s:
                 r += 1
@@ -19,12 +19,12 @@ class Solution:
                 l += 1
             
             if sum_all >= s:
-                res = min(res, r - l + 1)
+                minLength = minLength(minLength, r - l + 1)
 
-        if res == nums_len + 1:
+        if minLength == nums_len + 1:
             return 0
         
-        return res
+        return minLength
         
 
 if __name__ == "__main__":

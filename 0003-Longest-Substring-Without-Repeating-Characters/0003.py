@@ -16,5 +16,5 @@ class Solution:
 
 
 if __name__ == '__main__':
-    str_i = ''
+    str_i = 'dvdf'
     print(Solution().lengthOfLongestSubstring(str_i))

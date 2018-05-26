@@ -12,19 +12,20 @@ class Solution
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) 
     {
-        ListNode* ret = nullptr;
-        ListNode** p = &ret;
+        ListNode* dumHead = new ListNode(0);
+        ListNode* p = dumHead;
         int add = 0;
         while (l1 || l2 || add)
         {
             int val = get_value(l1) + get_value(l2) + add;
             add = val / 10;
-            ListNode* node = new ListNode(val % 10);
-            *p = node;
-            p = &((*p)->next);
+            p->next = new ListNode(val % 10);
+            p = p->next;
             l1 = get_p(l1);
             l2 = get_p(l2);
         }
+        ListNode* ret = dumHead->next;
+        delete dumHead;
         return ret;
     }
 private:
