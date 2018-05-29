@@ -17,3 +17,9 @@ LeetCode
 |011|[Container With Most Water](https://leetcode.com/problems/queue-reconstruction-by-height/) | c | [c++]() |python|||Medium|
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman) | c | [c++]() |python|||Medium|
 |013|[Roman to Integer](https://leetcode.com/problems/sum-of-left-leaves/) | c | [c++]() |python|||Easy|
+|026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | c | [c++](./0026-Remove-Duplicates-from-Sorted-Array/0026.cpp) |[python](./0026-Remove-Duplicates-from-Sorted-Array/0026.py)|||Easy|
+|027|[Remove Element](https://leetcode.com/problems/remove-element/) | c | [c++](./0027-Remove-Element/0027.cpp) |[python](./0027-Remove-Element/0027.py)|||Easy|
+|075|[Sort Colors](https://leetcode.com/problems/sort-colors/) | c | [c++](./0075-Sort-Colors/0075.cpp) |[python](./0075-Sort-Colors/0075.py)|||Medium|
+|080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | c | [c++]() |[python](./0080-Remove-Duplicates-from-Sorted-Array-II/0080.py)|||Medium|
+|088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | c | [c++](./0088-Merge-Sorted-Array/0088.cpp) |[python](./0088-Merge-Sorted-Array/0088.py)|||Easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | c | [c++](./0283-Move-Zeroes/0283.cpp) |[python](./0283-Move-Zeroes/0283.py)|||Easy|
