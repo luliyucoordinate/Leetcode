@@ -5,37 +5,6 @@ using namespace std;
 
 static int x = []() {std::ios::sync_with_stdio(false); cin.tie(0); return 0; }();
 
-class Solution {
-public:
-    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) 
-    {
-        vector<int> all_list = nums1;
-        for (int i = m; i < n + m; ++i)
-        {
-            all_list[i] = nums2[i - m];
-        }
-        int i = 0, j = m;
-        for (int k = 0; k < m + n; ++k)
-        {
-            if (i > m - 1)
-            {
-                nums1[k] = all_list[j++];
-            }
-            else if (j > m + n - 1)
-            {
-                nums1[k] = all_list[i++];
-            }
-            else if (all_list[i] < all_list[j])
-            {
-                nums1[k] = all_list[i++];
-            }
-            else
-            {
-                nums1[k] = all_list[j++];
-            }
-        }
-    }
-};
 class Solution 
 {
 public:
@@ -53,6 +22,10 @@ public:
         while (n >= 0) 
         {
             nums1[pos--] = nums2[n--];
+        }
+        while (m >= 0) 
+        {
+            nums1[pos--] = nums2[m--];
         }
     }
 };

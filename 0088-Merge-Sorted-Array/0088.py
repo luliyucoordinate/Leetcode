@@ -7,25 +7,23 @@ class Solution:
         :type n: int
         :rtype: void Do not return anything, modify nums1 in-place instead.
         """
-        nums1[m:] = nums2[:n]
-        all_list = nums1.copy()
-        all_len = m + n
-
-        i = 0
-        j = m
-        for k in range(all_len):
-            if i > m - 1:
-                nums1[k] = all_list[j]
-                j += 1
-            elif j > all_len - 1:
-                nums1[k] = all_list[i]
-                i += 1
-            elif all_list[i] < all_list[j]:
-                nums1[k] = all_list[i]
-                i += 1
+        pos = m + n - 1
+        m -= 1
+        n -= 1
+        while m >= 0 and n >= 0:
+            if nums1[m] > nums2[n]:
+                nums1[pos] = nums1[m]
+                pos -= 1
+                m -= 1
             else:
-                nums1[k] = all_list[j]
-                j += 1
+                nums1[pos] = nums2[n]
+                pos -= 1
+                n -= 1
+
+        while n >= 0:
+            nums1[pos] = nums2[n]
+            pos -= 1
+            n -= 1
         
 if __name__ == "__main__":
     nums1 = [1,2,3,0,0,0]

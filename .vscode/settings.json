@@ -5,6 +5,7 @@
         "vector": "c",
         "xhash": "c",
         "xstring": "c",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "algorithm": "cpp"
     }
 }

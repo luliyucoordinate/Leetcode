@@ -22,4 +22,9 @@ LeetCode
 |075|[Sort Colors](https://leetcode.com/problems/sort-colors/) | c | [c++](./0075-Sort-Colors/0075.cpp) |[python](./0075-Sort-Colors/0075.py)|||Medium|
 |080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | c | [c++]() |[python](./0080-Remove-Duplicates-from-Sorted-Array-II/0080.py)|||Medium|
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | c | [c++](./0088-Merge-Sorted-Array/0088.cpp) |[python](./0088-Merge-Sorted-Array/0088.py)|||Easy|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | c | [c++](./0125-Valid-Palindrome/0125.cpp) |[python](./0125-Valid-Palindrome/0125.py)|||Easy|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | c | [c++](./0167-Two-Sum-II-Input-array-is-sorted/0167.cpp) |[python](./0167-Two-Sum-II-Input-array-is-sorted/0167.py)|||Easy|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | c | [c++](./0215-Kth-Largest-Element-in-an-Array/0215.cpp) |[python](./0215-Kth-Largest-Element-in-an-Array/0215.py)|||Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | c | [c++](./0283-Move-Zeroes/0283.cpp) |[python](./0283-Move-Zeroes/0283.py)|||Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/) | c | [c++](./0344-Reverse-String/0344.cpp) |[python](./0344-Reverse-String/0344.py)|||Easy|
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | c | [c++](./0345-Reverse-Vowels-of-a-String/0345.cpp) |[python](./0345-Reverse-Vowels-of-a-String/0345.py)|||Easy|
