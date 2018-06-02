@@ -6,20 +6,20 @@ class Solution:
         :rtype: int
         """
         l = 0
-        r = -1
+        r = 0
         sum_all = 0
         nums_len = len(nums)
         minLength = nums_len + 1
         while l < nums_len:
-            if r + 1 < nums_len and sum_all < s:
-                r += 1
+            if r < nums_len and sum_all < s:
                 sum_all += nums[r]
+                r += 1
             else:
                 sum_all -= nums[l]
                 l += 1
             
             if sum_all >= s:
-                minLength = minLength(minLength, r - l + 1)
+                minLength = min(minLength, r - l + 1)
 
         if minLength == nums_len + 1:
             return 0

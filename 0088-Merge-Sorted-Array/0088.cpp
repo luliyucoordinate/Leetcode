@@ -23,10 +23,6 @@ public:
         {
             nums1[pos--] = nums2[n--];
         }
-        while (m >= 0) 
-        {
-            nums1[pos--] = nums2[m--];
-        }
     }
 };
 int main()
