@@ -25,9 +25,13 @@ LeetCode
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | c | [c++](./0088-Merge-Sorted-Array/0088.cpp) |[python](./0088-Merge-Sorted-Array/0088.py)|||Easy|
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | c | [c++](./0125-Valid-Palindrome/0125.cpp) |[python](./0125-Valid-Palindrome/0125.py)|||Easy|
 |0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | c | [c++](./0167-Two-Sum-II-Input-array-is-sorted/0167.cpp) |[python](./0167-Two-Sum-II-Input-array-is-sorted/0167.py)|||Easy|
+|0202|[Happy Number](https://leetcode.com/problems/happy-number/) | c | [c++](./0202-Happy-Number/0202.cpp) |[python](./0202-Happy-Number/0202.py)|||Easy|
 |0209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | c | [c++](./0209-Minimum-Size-Subarray-Sum/0209.cpp) |[python](./0209-Minimum-Size-Subarray-Sum/0209.py)|||Medium|
 |0215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | c | [c++](./0215-Kth-Largest-Element-in-an-Array/0215.cpp) |[python](./0215-Kth-Largest-Element-in-an-Array/0215.py)|||Medium|
+|0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | c | [c++](./0242-Valid-Anagram/0242.cpp) |[python](./0242-Valid-Anagram/0242.py)|||Easy|
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | c | [c++](./0283-Move-Zeroes/0283.cpp) |[python](./0283-Move-Zeroes/0283.py)|||Easy|
 |0344|[Reverse String](https://leetcode.com/problems/reverse-string/) | c | [c++](./0344-Reverse-String/0344.cpp) |[python](./0344-Reverse-String/0344.py)|||Easy|
 |0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | c | [c++](./0345-Reverse-Vowels-of-a-String/0345.cpp) |[python](./0345-Reverse-Vowels-of-a-String/0345.py)|||Easy|
+|0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | c | [c++](./0349-Intersection-of-Two-Arrays/0349.cpp) |[python](./0349-Intersection-of-Two-Arrays/0349.py)|||Easy|
+|0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | c | [c++](./0350-Intersection-of-Two-Arrays-II/0350.cpp) |[python](./0350-Intersection-of-Two-Arrays-II/0350.py)|||Easy|
 |0438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | c | [c++](./0438-Find-All-Anagrams-in-a-String/0438.cpp) |[python](./0438-Find-All-Anagrams-in-a-String/0438.py)|||Easy|

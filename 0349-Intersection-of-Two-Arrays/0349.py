@@ -5,16 +5,8 @@ class Solution:
         :type nums2: List[int]
         :rtype: List[int]
         """
-        record, result = {}, []
-        for num in nums1:
-            record[num] = record.get(num, 0) + 1
-                
-        for num in nums2:
-            if num in record and record[num]:
-                result.append(num)
-        return result
-
-
+        result = set([i for i in nums1 if i in nums2])
+        return list(result)
 
 if __name__ == "__main__":
     nums1 = [1, 2, 2, 1]
