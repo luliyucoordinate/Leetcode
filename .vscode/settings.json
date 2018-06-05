@@ -7,6 +7,11 @@
         "xstring": "c",
         "ostream": "cpp",
         "algorithm": "cpp",
-        "limits": "cpp"
+        "limits": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "xlocale": "cpp",
+        "initializer_list": "cpp",
+        "type_traits": "cpp"
     }
 }
