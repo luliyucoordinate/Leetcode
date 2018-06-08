@@ -32,20 +32,3 @@ int main()
     }
     return 0;
 }
-template<class K, class E>
-void hashTable<K, E>::erase(const K& theKey)
-{
-    int b = search(theKey);
-    if (table[b] == nullptr || table[b]->first != theKey) return;
-    int i = (int)hash(theKey) % divisor;
-    int j = i + 1;
-    do
-    {
-        if ((int)hash(table[j]->first) % divisor == j) break;
-        table[j - 1]->first = table[j]->first;
-        table[j - 1]->second = table[j]->second;
-        j = (j + 1) % divisor;
-    }while(table[j] != nullptr || table[j]->first != theKey);
-    delete table[j];
-    table[j] = nullptr;
-}

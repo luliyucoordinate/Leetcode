@@ -17,6 +17,7 @@ LeetCode
 |0011|[Container With Most Water](https://leetcode.com/problems/queue-reconstruction-by-height/) | c | [c++](./0011-Container-With-Most-Water/0011.cpp)|[python](./0011-Container-With-Most-Water/0011.cpp)|||Medium|
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman) | c | [c++]() |python|||Medium|
 |0013|[Roman to Integer](https://leetcode.com/problems/sum-of-left-leaves/) | c | [c++]() |python|||Easy|
+|0015|[3Sum](https://leetcode.com/problems/3sum/) | c | [c++](./0015-3Sum/0015.cpp) |[python](./0015-3Sum/0015.py)|||Medium|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | c | [c++](./0026-Remove-Duplicates-from-Sorted-Array/0026.cpp) |[python](./0026-Remove-Duplicates-from-Sorted-Array/0026.py)|||Easy|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | c | [c++](./0027-Remove-Element/0027.cpp) |[python](./0027-Remove-Element/0027.py)|||Easy|
 |0075|[Sort Colors](https://leetcode.com/problems/sort-colors/) | c | [c++](./0075-Sort-Colors/0075.cpp) |[python](./0075-Sort-Colors/0075.py)|||Medium|
