@@ -18,6 +18,8 @@ LeetCode
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman) | c | [c++]() |python|||Medium|
 |0013|[Roman to Integer](https://leetcode.com/problems/sum-of-left-leaves/) | c | [c++]() |python|||Easy|
 |0015|[3Sum](https://leetcode.com/problems/3sum/) | c | [c++](./0015-3Sum/0015.cpp) |[python](./0015-3Sum/0015.py)|||Medium|
+|0016|[3Sum Closest](https://leetcode.com/problems/3Sum-Closest/) | c | [c++](./0016-3Sum-Closest/0016.cpp) |[python](./0016-3Sum-Closest/0016.py)|||Medium|
+|0018|[4Sum](https://leetcode.com/problems/4sum/) | c | [c++](./0018-4Sum/0018.cpp) |[python](./0018-4Sum/0018.py)|||Medium|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | c | [c++](./0026-Remove-Duplicates-from-Sorted-Array/0026.cpp) |[python](./0026-Remove-Duplicates-from-Sorted-Array/0026.py)|||Easy|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | c | [c++](./0027-Remove-Element/0027.cpp) |[python](./0027-Remove-Element/0027.py)|||Easy|
 |0075|[Sort Colors](https://leetcode.com/problems/sort-colors/) | c | [c++](./0075-Sort-Colors/0075.cpp) |[python](./0075-Sort-Colors/0075.py)|||Medium|
@@ -39,3 +41,4 @@ LeetCode
 |0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | c | [c++](./0350-Intersection-of-Two-Arrays-II/0350.cpp) |[python](./0350-Intersection-of-Two-Arrays-II/0350.py)|||Easy|
 |0438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | c | [c++](./0438-Find-All-Anagrams-in-a-String/0438.cpp) |[python](./0438-Find-All-Anagrams-in-a-String/0438.py)|||Easy|
 |0451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | c | [c++](./0451-Sort-Characters-By-Frequency/0451.cpp) |[python](./0451-Sort-Characters-By-Frequency/0451.py)|||Easy|
+|0454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | c | [c++](./0454-4Sum-II/0454.cpp) |[python](./0454-4Sum-II/0454.py)|||Medium|

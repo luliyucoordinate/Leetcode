@@ -13,7 +13,6 @@ class Solution:
 
         neg = list(filter(lambda x: x < 0, nums_hash))
         pos = list(filter(lambda x: x>= 0, nums_hash))
-        print(neg, pos)
 
         for i in neg:
             for j in pos:

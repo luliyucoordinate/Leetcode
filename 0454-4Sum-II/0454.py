@@ -7,6 +7,7 @@ class Solution:
         :type D: List[int]
         :rtype: int
         """
+        assert(len(A) == len(B) == len(C) == len(D))
         record = {}
         for i in C:
             for j in D:
