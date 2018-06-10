@@ -12,6 +12,12 @@
         "xutility": "cpp",
         "xlocale": "cpp",
         "initializer_list": "cpp",
-        "type_traits": "cpp"
+        "type_traits": "cpp",
+        "iosfwd": "cpp",
+        "deque": "cpp",
+        "sstream": "cpp",
+        "cmath": "cpp",
+        "iostream": "cpp",
+        "utility": "cpp"
     }
 }

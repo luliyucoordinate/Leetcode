@@ -15,11 +15,12 @@ class Solution:
                     distance = dis(i, j)
                     record[distance] = record.get(distance, 0) + 1
 
-            for _, val in record.items():
+            for val in record.values():
                 if val >= 2:
                     result += (val - 1)* val
 
         return result
+
 
 if __name__ == "__main__":
     points = [[0,0],[1,0],[-1,0],[0,1],[0,-1]]

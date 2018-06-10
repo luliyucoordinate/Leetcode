@@ -22,8 +22,9 @@ LeetCode
 |0018|[4Sum](https://leetcode.com/problems/4sum/) | c | [c++](./0018-4Sum/0018.cpp) |[python](./0018-4Sum/0018.py)|||Medium|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | c | [c++](./0026-Remove-Duplicates-from-Sorted-Array/0026.cpp) |[python](./0026-Remove-Duplicates-from-Sorted-Array/0026.py)|||Easy|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | c | [c++](./0027-Remove-Element/0027.cpp) |[python](./0027-Remove-Element/0027.py)|||Easy|
+|0056|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | c | [c++](./0049-Group-Anagrams/0056.cpp) |[python](./0049-Group-Anagrams/0056.py)|||Medium|
 |0075|[Sort Colors](https://leetcode.com/problems/sort-colors/) | c | [c++](./0075-Sort-Colors/0075.cpp) |[python](./0075-Sort-Colors/0075.py)|||Medium|
-|0075|[Sort Colors](https://leetcode.com/problems/sort-colors/) | c | [c++](./0075-Sort-Colors/0075.cpp) |[python](./0075-Sort-Colors/0075.py)|||Easy|
+|0076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | c | [c++](./0076-Minimum-Window-Substring/0076.cpp) |[python](./0076-Minimum-Window-Substring/0076.py)|||Easy|
 |0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | c | [c++]() |[python](./0080-Remove-Duplicates-from-Sorted-Array-II/0080.py)|||Medium|
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | c | [c++](./0088-Merge-Sorted-Array/0088.cpp) |[python](./0088-Merge-Sorted-Array/0088.py)|||Easy|
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | c | [c++](./0125-Valid-Palindrome/0125.cpp) |[python](./0125-Valid-Palindrome/0125.py)|||Easy|
@@ -40,5 +41,6 @@ LeetCode
 |0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | c | [c++](./0349-Intersection-of-Two-Arrays/0349.cpp) |[python](./0349-Intersection-of-Two-Arrays/0349.py)|||Easy|
 |0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | c | [c++](./0350-Intersection-of-Two-Arrays-II/0350.cpp) |[python](./0350-Intersection-of-Two-Arrays-II/0350.py)|||Easy|
 |0438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | c | [c++](./0438-Find-All-Anagrams-in-a-String/0438.cpp) |[python](./0438-Find-All-Anagrams-in-a-String/0438.py)|||Easy|
+|0447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | c | [c++](./0447-Number-of-Boomerangs/0447.cpp) |[python](./0447-Number-of-Boomerangs/0447.py)|||Easy|
 |0451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | c | [c++](./0451-Sort-Characters-By-Frequency/0451.cpp) |[python](./0451-Sort-Characters-By-Frequency/0451.py)|||Easy|
 |0454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | c | [c++](./0454-4Sum-II/0454.cpp) |[python](./0454-4Sum-II/0454.py)|||Medium|
