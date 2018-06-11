@@ -12,16 +12,14 @@ class Solution:
         """
         pre = None
         cur = head
-        lat = head.next
 
-        while lat != None:
+        while cur != None:
+            lat = cur.next
             cur.next = pre
             pre = cur
             cur = lat
-            lat = lat.next
 
-        cur.next = pre
-        return cur
+        return pre
 
 def createList():
     head = ListNode(0)

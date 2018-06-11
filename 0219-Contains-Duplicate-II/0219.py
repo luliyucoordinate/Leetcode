@@ -5,18 +5,12 @@ class Solution:
         :type k: int
         :rtype: bool
         """
-        record = list()
+        record = {}
         for i, num in enumerate(nums):
-            if num in record:
+            if num in record and i - record[num] <= k:
                 return True
-
-            record.append(num)
-
-            if len(record) == k + 1:
-                record.remove(nums[i - k]) 
-
+            record[num] = i
         return False
-
 
 if __name__ == "__main__":
     points = [1,0,1,1]
