@@ -11,20 +11,16 @@ class Solution:
         :type val: int
         :rtype: ListNode
         """
-        dumHead = ListNode(0) #head
-        dumHead.next = head
-        cur = dumHead
+        h = ListNode(-1) #head
+        h.next = head
+        cur = h
         while cur.next != None:
             delNode = cur.next
             if delNode.val == val:
                 cur.next = delNode.next
-                delNode = None
             else:
                 cur = cur.next
-
-        retNode = dumHead.next
-        dumHead = None
-        return retNode
+        return h.next
 
 def createList():
     head = ListNode(0)

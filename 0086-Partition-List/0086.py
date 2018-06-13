@@ -3,21 +3,43 @@ class ListNode:
     def __init__(self, x):
         self.val = x
         self.next = None
-int __partition(T arr[], int l, int r){
 
-    T v = arr[l];
+# class Solution:
+#     def partition(self, head, x):
+#         """
+#         :type head: ListNode
+#         :type x: int
+#         :rtype: ListNode
+#         """
+#         if head == None or head.next == None:
+#             return head
 
-    int j = l; // arr[l+1...j] < v ; arr[j+1...i) > v
-    for( int i = l + 1 ; i <= r ; i ++ )
-        if( arr[i] < v ){
-            j ++;
-            swap( arr[j] , arr[i] );
-        }
+#         pre_min, pre_max, cur_min, cur_max = None, None, None, None
+#         cur = head
 
-    swap( arr[l] , arr[j]);
+#         while cur != None:
+#             if cur.val < x and pre_min == None:
+#                 pre_min = cur_min = cur
+#             elif cur.val >= x and pre_max == None:
+#                 pre_max = cur_max = cur
+#             elif cur.val < x and pre_min != None:
+#                 cur_min.next = cur
+#                 cur_min = cur_min.next
+#             elif cur.val >= x and pre_max != None:
+#                 cur_max.next = cur
+#                 cur_max = cur_max.next
 
-    return j;
-}
+#             cur = cur.next
+
+#         if cur_min != None:
+#             cur_min.next = pre_max
+
+#         if cur_max != None:
+#             cur_max.next = None
+
+#         if pre_min != None:
+#             return pre_min
+#         return pre_max
 
 class Solution:
     def partition(self, head, x):
@@ -26,27 +48,35 @@ class Solution:
         :type x: int
         :rtype: ListNode
         """
-        h = ListNode(x)
-        h.next = head
-        pre = h
+        if head == None or head.next == None:
+            return head
+
         cur = head
+        pre_min = cur_min = ListNode(-1)
+        pre_max = cur_max = ListNode(-1)
+
         while cur != None:
-            while pre.next.val < x:
-                pre = pre.next
+            if cur.val < x:
+                cur_min.next = cur
+                cur_min = cur_min.next
+            else:
+                cur_max.next = cur
+                cur_max = cur_max.next
 
             cur = cur.next
 
-        
-
+        cur_min.next = pre_max.next
+        cur_max.next = None
+        return pre_min.next
 
 def createList():
     head = ListNode(0)
     cur = head
-    cur.next = ListNode(0)
-    cur.next.next = ListNode(1)
-    cur.next.next.next = ListNode(1)
+    cur.next = ListNode(1)
+    cur.next.next = ListNode(3)
+    cur.next.next.next = ListNode(0)
     return head
-            
+
 def printList(head):
     cur = head
     while cur != None:
@@ -58,5 +88,6 @@ def printList(head):
 if __name__ == "__main__":
     head = createList()
     printList(head)
-    res = Solution().partition(head)
+    x = 1
+    res = Solution().partition(head, x)
     printList(res)

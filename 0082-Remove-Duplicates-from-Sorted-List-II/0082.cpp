@@ -9,23 +9,31 @@ struct ListNode {
 };
 
 static int x = []() {std::ios::sync_with_stdio(false); cin.tie(0); return 0; }();
-
 class Solution 
 {
 public:
     ListNode* deleteDuplicates(ListNode* head) 
     {
-        if (head == nullptr || head->next == nullptr)
-        {
-            return head;
-        }
-        ListNode* pre = nullptr;
+        ListNode* h = new ListNode(-1);
+        h->next = head;
+        ListNode* pre = h;
         ListNode* cur = head;
         while (cur != nullptr)
         {
-            pre = cur;
-            cur = cur->next;
-            while (cur != nullptr && cur->val == pre->val)
+            bool duplicate = false;
+            while (cur->next != nullptr && cur->val == cur->next->val)
+            {
+                ListNode* delNode = cur;
+                cur = cur->next;
+                delete delNode;
+                duplicate = true;
+            }
+            if (duplicate == false)
+            {
+                pre = cur;
+                cur = cur->next;
+            }
+            else
             {
                 pre->next = cur->next;
                 ListNode* delNode = cur;
@@ -33,7 +41,7 @@ public:
                 delete delNode;
             }
         }
-        return head;
+        return h->next;
     }
 };
 
