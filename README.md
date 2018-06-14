@@ -21,6 +21,7 @@ LeetCode
 |0016|[3Sum Closest](https://leetcode.com/problems/3Sum-Closest/) | c | [c++](./0016-3Sum-Closest/0016.cpp) |[python](./0016-3Sum-Closest/0016.py)|||Medium|
 |0018|[4Sum](https://leetcode.com/problems/4sum/) | c | [c++](./0018-4Sum/0018.cpp) |[python](./0018-4Sum/0018.py)|||Medium|
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | c | [c++](./0021-Merge-Two-Sorted-Lists/0021.cpp) |[python](./0021-Merge-Two-Sorted-Lists/0021.py)|||Easy|
+|0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | c | [c++](./0445-Add-Two-Numbers-II/0024.cpp) |[python](./0445-Add-Two-Numbers-II/0024.py)|||Medium|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | c | [c++](./0026-Remove-Duplicates-from-Sorted-Array/0026.cpp) |[python](./0026-Remove-Duplicates-from-Sorted-Array/0026.py)|||Easy|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | c | [c++](./0027-Remove-Element/0027.cpp) |[python](./0027-Remove-Element/0027.py)|||Easy|
 |0056|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | c | [c++](./0049-Group-Anagrams/0056.cpp) |[python](./0049-Group-Anagrams/0056.py)|||Medium|

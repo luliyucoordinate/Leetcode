@@ -5,27 +5,39 @@ class ListNode:
         self.next = None
 
 class Solution:
-    def swapPairs(self, head):
+    def _reverseGroup(self, pre, lat):
+        lpre = pre.next
+        cur = lpre.next
+        while cur != lat:
+            lpre.next = cur.next
+            cur.next = pre.next
+            pre.next = cur
+            cur = lpre.next
+
+        return lpre
+
+    def reverseKGroup(self, head, k):
         """
         :type head: ListNode
+        :type k: int
         :rtype: ListNode
         """
         h = ListNode(-1)
         h.next = head
         pre = h
-        while pre.next != None and pre.next.next != None:
-            node1 = pre.next
-            node2 = node1.next
-            lat = node2.next
-
-            pre.next = node2            
-            node2.next = node1
-            node1.next = lat
-            
-            pre = node1
-
+        cur = head
+        
+        t = 1
+        while cur != None:
+            if t % k == 0:
+                pre = self._reverseGroup(pre, cur.next)
+                cur = pre.next
+            else:
+                cur = cur.next
+            t += 1
+           
         return h.next
-
+        
 
 
 def createList():
@@ -47,5 +59,5 @@ def printList(head):
 if __name__ == "__main__":
     head = createList()
     printList(head)
-    res = Solution().swapPairs(head)
+    res = Solution().reverseKGroup(head, 3)
     printList(res)
