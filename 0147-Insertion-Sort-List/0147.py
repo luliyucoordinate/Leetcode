@@ -11,12 +11,23 @@ class Solution:
         :type head: ListNode
         :rtype: ListNode
         """
+        h = ListNode(-1)
+        h.next = head
+        pre = h
+        cur = head
+        while cur != None:
+            if pre and pre.val > cur.val:
+                pre = h
+            while pre.next != None and pre.next.val < cur.val:
+                pre = pre.next
+            pre.next, pre.next.next, cur = cur, pre.next, cur.next 
+        return h.next
   
 
 def createList():
     head = ListNode(0)
     cur = head
-    for i in range(1, 2):
+    for i in range(5, 1, -1):
         cur.next = ListNode(i)
         cur = cur.next
     return head
@@ -32,5 +43,5 @@ def printList(head):
 if __name__ == "__main__":
     head = createList()
     printList(head)
-    res = Solution().reverseKGroup(head, 2)
+    res = Solution().insertionSortList(head)
     printList(res)
