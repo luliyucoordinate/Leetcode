@@ -20,11 +20,13 @@ LeetCode
 |0015|[3Sum](https://leetcode.com/problems/3sum/) | c | [c++](./0015-3Sum/0015.cpp) |[python](./0015-3Sum/0015.py)|||Medium|
 |0016|[3Sum Closest](https://leetcode.com/problems/3Sum-Closest/) | c | [c++](./0016-3Sum-Closest/0016.cpp) |[python](./0016-3Sum-Closest/0016.py)|||Medium|
 |0018|[4Sum](https://leetcode.com/problems/4sum/) | c | [c++](./0018-4Sum/0018.cpp) |[python](./0018-4Sum/0018.py)|||Medium|
+|0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | c | [c++](./0019-Remove-Nth-Node-From-End-of-List/0019.cpp) |[python](./0019-Remove-Nth-Node-From-End-of-List/0019.py)|||Medium|
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | c | [c++](./0021-Merge-Two-Sorted-Lists/0021.cpp) |[python](./0021-Merge-Two-Sorted-Lists/0021.py)|||Easy|
 |0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | c | [c++](./0445-Add-Two-Numbers-II/0024.cpp) |[python](./0445-Add-Two-Numbers-II/0024.py)|||Medium|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | c | [c++](./0026-Remove-Duplicates-from-Sorted-Array/0026.cpp) |[python](./0026-Remove-Duplicates-from-Sorted-Array/0026.py)|||Easy|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | c | [c++](./0027-Remove-Element/0027.cpp) |[python](./0027-Remove-Element/0027.py)|||Easy|
 |0056|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | c | [c++](./0049-Group-Anagrams/0056.cpp) |[python](./0049-Group-Anagrams/0056.py)|||Medium|
+|0061|[Rotate List](https://leetcode.com/problems/rotate-list/) | c | [c++](./0061-Rotate-List/0061.cpp) |[python](./0061-Rotate-List/0061.py)|||Medium|
 |0075|[Sort Colors](https://leetcode.com/problems/sort-colors/) | c | [c++](./0075-Sort-Colors/0075.cpp) |[python](./0075-Sort-Colors/0075.py)|||Medium|
 |0076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | c | [c++](./0076-Minimum-Window-Substring/0076.cpp) |[python](./0076-Minimum-Window-Substring/0076.py)|||Easy|
 |0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | c | [c++]() |[python](./0080-Remove-Duplicates-from-Sorted-Array-II/0080.py)|||Medium|
@@ -34,6 +36,7 @@ LeetCode
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | c | [c++](./0088-Merge-Sorted-Array/0088.cpp) |[python](./0088-Merge-Sorted-Array/0088.py)|||Easy|
 |0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | c | [c++](./0092-Reverse-Linked-List-II/0092.cpp) |[python](./0092-Reverse-Linked-List-II/0092.py)|||Medium|
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | c | [c++](./0125-Valid-Palindrome/0125.cpp) |[python](./0125-Valid-Palindrome/0125.py)|||Easy|
+|0143|[Reorder-List](https://leetcode.com/problems/reorder-list/) | c | [c++](./0143-Reorder-List/0143.cpp) |[python](./0143-Reorder-List/0143.py)|||Medium|
 |0147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | c | [c++](./0147-Insertion-Sort-List/0147.cpp) |[python](./0147-Insertion-Sort-List/0147.py)|||Medium|
 |0148|[Sort List](https://leetcode.com/problems/sort-list/) | c | [c++](./0148-Sort-List/0148.cpp) |[python](./0148-Sort-List/0148.py)|||Medium|
 |0149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | c | [c++](./0149-Max-Points-on-a-Line/0149.cpp) |[python](./0149-Max-Points-on-a-Line/0149.py)|||Hard|
@@ -46,6 +49,8 @@ LeetCode
 |0215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | c | [c++](./0215-Kth-Largest-Element-in-an-Array/0215.cpp) |[python](./0215-Kth-Largest-Element-in-an-Array/0215.py)|||Medium|
 |0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | c | [c++](./0217-Contains-Duplicate/0217.cpp) |[python](./0217-Contains-Duplicate/0217.py)|||Easy|
 |0219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | c | [c++](./0219-Contains-Duplicate-II/0219.cpp) |[python](./0219-Contains-Duplicate-II/0219.py)|||Easy|
+|0234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | c | [c++](./0234-Palindrome-Linked-List/0234.cpp) |[python](./0234-Palindrome-Linked-List/0234.py)|||Medium|
+|0237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | c | [c++](./0237-Delete-Node-in-a-Linked-List/0237.cpp) |[python](./0237-Delete-Node-in-a-Linked-List/0237.py)|||Easy|
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | c | [c++](./0242-Valid-Anagram/0242.cpp) |[python](./0242-Valid-Anagram/0242.py)|||Easy|
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | c | [c++](./0283-Move-Zeroes/0283.cpp) |[python](./0283-Move-Zeroes/0283.py)|||Easy|
 |0290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | c | [c++](./0290-Word-Pattern/0290.cpp) |[python](./0290-Word-Pattern/0290.py)|||Easy|

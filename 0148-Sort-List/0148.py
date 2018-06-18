@@ -7,21 +7,10 @@ class ListNode:
 
 class Solution:
     def _merge(self, head1, head2):
-        if head1 == None:
-            return head2
-        if head2 == None:
-            return head1
+        if head1 == None or head2 == None:
+            return head2 or head1
 
         h = ListNode(-1)
-
-        # ret = None
-        # if head1.val < head2.val:
-        #     ret = head1
-        #     head1 = head1.next
-        # else:
-        #     ret = head2
-        #     head2 = head2.next
-
         tmp = h
         while head1 != None and head2 != None:
             if head1.val < head2.val:
@@ -50,8 +39,7 @@ class Solution:
             lat = lat.next.next
             pre = pre.next
 
-        lat = pre
-        lat = lat.next
+        lat = pre.next
         pre.next = None
         return self._merge(self.sortList(head), self.sortList(lat))
 

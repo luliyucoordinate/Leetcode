@@ -5,32 +5,37 @@ class ListNode(object):
         self.next = None
 
 class Solution:
-    def removeNthFromEnd(self, head, n):
+    def rotateRight(self, head, k):
         """
         :type head: ListNode
-        :type n: int
+        :type k: int
         :rtype: ListNode
         """
-        h = ListNode(-1)
-        h.next = head
-        p, q = h, h
+        if head == None or head.next == None:
+            return head
 
-        for _ in range(n + 1):
-            assert (q)
+        pre = head
+        count = 1
+        while pre.next != None:
+            count += 1
+            pre = pre.next
+
+        pre.next = head
+        n = count - k%count
+        q = pre
+
+        for _ in range(n):
             q = q.next
 
-        while q != None:
-            p = p.next
-            q = q.next
+        ret = q.next
+        q.next = None
+        return ret
 
-        p.next = p.next.next
-        return h.next
-        
 
 def createList():
     head = ListNode(0)
     cur = head
-    for i in range(1, 10):
+    for i in range(1, 3):
         cur.next = ListNode(i)
         cur = cur.next
     return head
@@ -46,5 +51,5 @@ def printList(head):
 if __name__ == "__main__":
     head = createList()
     printList(head)
-    res = Solution().removeNthFromEnd(head, 2)
+    res = Solution().rotateRight(head, 4)
     printList(res)

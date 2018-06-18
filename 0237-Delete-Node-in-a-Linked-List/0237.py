@@ -4,7 +4,7 @@ class ListNode(object):
         self.val = x
         self.next = None
 
-class Solution(object):
+class Solution:
     def deleteNode(self, node):
         """
         :type node: ListNode
@@ -17,9 +17,7 @@ class Solution(object):
             node = None
              
         node.val = node.next.val
-        delNode = node.next
-        node.next = delNode.next
-        delNode = None
+        node.next = node.next.next
         
 
 def createList():
