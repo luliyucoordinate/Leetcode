@@ -13,15 +13,16 @@ class Solution:
         if head == None or head.next == None:
             return
 
-        pre = lat = head
-        while lat.next != None and lat.next.next != None:
+        pre = head
+        lat = head.next
+        while lat != None and lat.next != None:
             pre = pre.next
             lat = lat.next.next
 
-        cur = pre.next
+        p = pre.next
         pre.next = None
         # reverse
-        p = cur
+        
         cur = None        
         while p != None:
             q = p.next

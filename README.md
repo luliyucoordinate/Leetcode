@@ -21,12 +21,14 @@ LeetCode
 |0016|[3Sum Closest](https://leetcode.com/problems/3Sum-Closest/) | c | [c++](./0016-3Sum-Closest/0016.cpp) |[python](./0016-3Sum-Closest/0016.py)|||Medium|
 |0018|[4Sum](https://leetcode.com/problems/4sum/) | c | [c++](./0018-4Sum/0018.cpp) |[python](./0018-4Sum/0018.py)|||Medium|
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | c | [c++](./0019-Remove-Nth-Node-From-End-of-List/0019.cpp) |[python](./0019-Remove-Nth-Node-From-End-of-List/0019.py)|||Medium|
+|0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | c | [c++](./0020-Valid-Parentheses/0020.cpp) |[python](./0020-Valid-Parentheses/0020.py)|||Easy|
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | c | [c++](./0021-Merge-Two-Sorted-Lists/0021.cpp) |[python](./0021-Merge-Two-Sorted-Lists/0021.py)|||Easy|
 |0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | c | [c++](./0445-Add-Two-Numbers-II/0024.cpp) |[python](./0445-Add-Two-Numbers-II/0024.py)|||Medium|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | c | [c++](./0026-Remove-Duplicates-from-Sorted-Array/0026.cpp) |[python](./0026-Remove-Duplicates-from-Sorted-Array/0026.py)|||Easy|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | c | [c++](./0027-Remove-Element/0027.cpp) |[python](./0027-Remove-Element/0027.py)|||Easy|
 |0056|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | c | [c++](./0049-Group-Anagrams/0056.cpp) |[python](./0049-Group-Anagrams/0056.py)|||Medium|
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/) | c | [c++](./0061-Rotate-List/0061.cpp) |[python](./0061-Rotate-List/0061.py)|||Medium|
+|0071|[Simplify Path](https://leetcode.com/problems/simplify-path/) | c | [c++](./0071-Simplify-Path/0071.cpp) |[python](./0071-Simplify-Path/0071.py)|||Medium|
 |0075|[Sort Colors](https://leetcode.com/problems/sort-colors/) | c | [c++](./0075-Sort-Colors/0075.cpp) |[python](./0075-Sort-Colors/0075.py)|||Medium|
 |0076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | c | [c++](./0076-Minimum-Window-Substring/0076.cpp) |[python](./0076-Minimum-Window-Substring/0076.py)|||Easy|
 |0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | c | [c++]() |[python](./0080-Remove-Duplicates-from-Sorted-Array-II/0080.py)|||Medium|
@@ -40,6 +42,7 @@ LeetCode
 |0147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | c | [c++](./0147-Insertion-Sort-List/0147.cpp) |[python](./0147-Insertion-Sort-List/0147.py)|||Medium|
 |0148|[Sort List](https://leetcode.com/problems/sort-list/) | c | [c++](./0148-Sort-List/0148.cpp) |[python](./0148-Sort-List/0148.py)|||Medium|
 |0149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | c | [c++](./0149-Max-Points-on-a-Line/0149.cpp) |[python](./0149-Max-Points-on-a-Line/0149.py)|||Hard|
+|0150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | c | [c++](./0150-Evaluate-Reverse-Polish-Notation/0150.cpp) |[python](./0150-Evaluate-Reverse-Polish-Notation/0150.py)|||Medium|
 |0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | c | [c++](./0167-Two-Sum-II-Input-array-is-sorted/0167.cpp) |[python](./0167-Two-Sum-II-Input-array-is-sorted/0167.py)|||Easy|
 |0202|[Happy Number](https://leetcode.com/problems/happy-number/) | c | [c++](./0202-Happy-Number/0202.cpp) |[python](./0202-Happy-Number/0202.py)|||Easy|
 |0203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | c | [c++](./0203-Remove-Linked-List-Elements/0203.cpp) |[python](./0203-Remove-Linked-List-Elements/0203.py)|||Easy|

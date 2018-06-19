@@ -18,12 +18,8 @@ class Solution:
                 if match[top] != i:
                     return False
 
-        if len(stack) != 0:
-            return False
-        return True
+        return len(stack) == 0
 
-
-        
 
 if __name__ == "__main__":
     s = "()"
