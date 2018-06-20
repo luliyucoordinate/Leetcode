@@ -37,8 +37,11 @@ LeetCode
 |0086|[Partition List](https://leetcode.com/problems/partition-list/) | c | [c++](./0086-Partition-List/0086.cpp) |[python](./0086-Partition-List/0086.py)|||Medium|
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | c | [c++](./0088-Merge-Sorted-Array/0088.cpp) |[python](./0088-Merge-Sorted-Array/0088.py)|||Easy|
 |0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | c | [c++](./0092-Reverse-Linked-List-II/0092.cpp) |[python](./0092-Reverse-Linked-List-II/0092.py)|||Medium|
+|0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | c | [c++](./0094-Binary-Tree-Inorder-Traversal/0094.cpp) |[python](./0094-Binary-Tree-Inorder-Traversal/0094.py)|||Medium|
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | c | [c++](./0125-Valid-Palindrome/0125.cpp) |[python](./0125-Valid-Palindrome/0125.py)|||Easy|
 |0143|[Reorder-List](https://leetcode.com/problems/reorder-list/) | c | [c++](./0143-Reorder-List/0143.cpp) |[python](./0143-Reorder-List/0143.py)|||Medium|
+|0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | c | [c++](./0144-Binary-Tree-Preorder-Traversal/0144.cpp) |[python](./0144-Binary-Tree-Preorder-Traversal/0144.py)|||Medium|
+|0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | c | [c++](./0145-Binary-Tree-Postorder-Traversal/0145.cpp) |[python](./0145-Binary-Tree-Postorder-Traversal/0145.py)|||hard|
 |0147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | c | [c++](./0147-Insertion-Sort-List/0147.cpp) |[python](./0147-Insertion-Sort-List/0147.py)|||Medium|
 |0148|[Sort List](https://leetcode.com/problems/sort-list/) | c | [c++](./0148-Sort-List/0148.cpp) |[python](./0148-Sort-List/0148.py)|||Medium|
 |0149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | c | [c++](./0149-Max-Points-on-a-Line/0149.cpp) |[python](./0149-Max-Points-on-a-Line/0149.py)|||Hard|

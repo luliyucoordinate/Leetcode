@@ -9,15 +9,15 @@ class Solution:
     def __init__(self):
         self.ret = []
         
-    def preorderTraversal(self, root):
+    def inorderTraversal(self, root):
         """
         :type root: TreeNode
         :rtype: List[int]
         """
         if root != None:
+            self.inorderTraversal(root.left)
             self.ret.append(root.val)
-            self.preorderTraversal(root.left)
-            self.preorderTraversal(root.right)
+            self.inorderTraversal(root.right)
             
         return self.ret
 
@@ -61,4 +61,4 @@ if __name__ == "__main__":
     root = [1,None,2,3]
     treeRoot = createTree(root)
     printTree(treeRoot)
-    print(Solution().preorderTraversal(treeRoot))
+    print(Solution().inorderTraversal(treeRoot))
