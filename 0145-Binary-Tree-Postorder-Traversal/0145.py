@@ -56,6 +56,8 @@ def createTree(root):
             node.right = TreeNode(rightNumber)
             nodeQueue.append(node.right)
 
+        front += 1
+
     return Root
 
 def printTree(root):

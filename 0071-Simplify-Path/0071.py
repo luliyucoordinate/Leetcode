@@ -5,10 +5,18 @@ class Solution:
         :rtype: str
         """
         stack = list()
-        for p in path:
-            if p == '/' or p == '.':
-                stack.append(p)
+        path = [p for p in path.split('/') if p]
+        for f in path:
+            if f == '.': 
+                continue
+            elif f == '..': 
+                if stack: 
+                    stack.pop()
+            else: 
+                stack.append(f)
+
+        return '/'+'/'.join(stack)
 
 if __name__ == "__main__":
-    path = "/a/./b/../../c/"
+    path = "//..."
     print(Solution().simplifyPath(path))
