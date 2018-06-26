@@ -62,12 +62,12 @@ def createTree(root):
 
 def printTree(root):
     if root != None:
-        print(root.val)
         printTree(root.left)
-        printTree(root.right)       
+        printTree(root.right) 
+        print(root.val)      
             
 if __name__ == "__main__":
     root = [1,None,2,3]
     treeRoot = createTree(root)
     printTree(treeRoot)
-    print(Solution().inorderTraversal(treeRoot))
+    print(Solution().postorderTraversal(treeRoot))
