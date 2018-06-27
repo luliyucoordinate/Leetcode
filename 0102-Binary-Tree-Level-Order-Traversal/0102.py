@@ -11,28 +11,19 @@ class Solution:
         :type root: TreeNode
         :rtype: List[List[int]]
         """
-        ret = []
-        if root == None:
-            return ret
+        q, result = [root], []
+        while any(q):
+            tmp = list()
+            for _ in range(len(q)):
+                node = q.pop(0)
+                tmp.append(node.val)
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
 
-        from queue import Queue
-        q = Queue()
-        q.put((root, 0))
-        while not q.empty():
-            node, level = q.get()
-
-            if level == len(ret):
-                ret.append([])
-                
-            ret[level].append(node.val)
-
-            if node.left != None:
-                q.put((node.left, level + 1))
-
-            if node.right != None:
-                q.put((node.right, level + 1))
-
-        return ret
+            result.append(tmp)
+        return result
 
 def createTree(root):
     if root == None:
@@ -61,6 +52,8 @@ def createTree(root):
             rightNumber = item
             node.right = TreeNode(rightNumber)
             nodeQueue.append(node.right)
+        
+        front += 1
 
     return Root
 

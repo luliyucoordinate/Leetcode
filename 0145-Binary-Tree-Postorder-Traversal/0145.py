@@ -6,27 +6,21 @@ class TreeNode:
         self.right = None
 
 class Solution:
+    def __init__(self):
+        self.ret = []
+        
     def postorderTraversal(self, root):
         """
         :type root: TreeNode
         :rtype: List[int]
         """
-        result = list()
-        if root == None:
-            return result
-        
-        stack = list()
-        stack.append(root)
-        while len(stack) != 0:
-            top = stack.pop()
-            result.append(top.val)
-            if top.right != None:
-                stack.append(top.right)
-            if top.left != None:
-                stack.append(top.left)
-                       
-        return result
-        
+        if root != None:
+            self.postorderTraversal(root.left)
+            self.postorderTraversal(root.right)
+            self.ret.append(root.val)
+            
+        return self.ret
+
 
 def createTree(root):
     if root == None:
