@@ -5,25 +5,43 @@ class TreeNode:
         self.left = None
         self.right = None
 
+# class Solution:
+#     def levelOrder(self, root):
+#         """
+#         :type root: TreeNode
+#         :rtype: List[List[int]]
+#         """
+#         q, result = [root], []
+#         while any(q):
+#             tmp = list()
+#             for _ in range(len(q)):
+#                 node = q.pop(0)
+#                 tmp.append(node.val)
+#                 if node.left:
+#                     q.append(node.left)
+#                 if node.right:
+#                     q.append(node.right)
+
+#             result.append(tmp)
+#         return result
 class Solution:
+    def _levelOrder(self, level, result, node):
+        if node:
+            if level == len(result):
+                result.append([])
+                
+            result[level].append(node.val)
+            self._levelOrder(level+1, result, node.left)
+            self._levelOrder(level+1, result, node.right)
+
     def levelOrder(self, root):
         """
         :type root: TreeNode
         :rtype: List[List[int]]
         """
-        q, result = [root], []
-        while any(q):
-            tmp = list()
-            for _ in range(len(q)):
-                node = q.pop(0)
-                tmp.append(node.val)
-                if node.left:
-                    q.append(node.left)
-                if node.right:
-                    q.append(node.right)
-
-            result.append(tmp)
-        return result
+        level, result = 0, list()
+        self._levelOrder(level, result, root)
+        return result 
 
 def createTree(root):
     if root == None:

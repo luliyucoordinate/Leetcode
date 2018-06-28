@@ -25,7 +25,7 @@ class Solution:
             tmpResult.append(tmp)
 
         result = [i[-1] for i in tmpResult]
-        return result
+        return result    
 
 def createTree(root):
     if root == None:

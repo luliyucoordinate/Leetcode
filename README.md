@@ -62,6 +62,7 @@ LeetCode
 |0234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | c | [c++](./0234-Palindrome-Linked-List/0234.cpp) |[python](./0234-Palindrome-Linked-List/0234.py)|||Medium|
 |0237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | c | [c++](./0237-Delete-Node-in-a-Linked-List/0237.cpp) |[python](./0237-Delete-Node-in-a-Linked-List/0237.py)|||Easy|
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | c | [c++](./0242-Valid-Anagram/0242.cpp) |[python](./0242-Valid-Anagram/0242.py)|||Easy|
+|0279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | c | [c++](./0279-Perfect-Squares/0279.cpp) |[python](./0279-Perfect-Squares/0279.py)|||Medium|
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | c | [c++](./0283-Move-Zeroes/0283.cpp) |[python](./0283-Move-Zeroes/0283.py)|||Easy|
 |0290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | c | [c++](./0290-Word-Pattern/0290.cpp) |[python](./0290-Word-Pattern/0290.py)|||Easy|
 |0328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | c | [c++](./0328-Odd-Even-Linked-List/0328.cpp) |[python](./0328-Odd-Even-Linked-List/0328.py)|||Medium|

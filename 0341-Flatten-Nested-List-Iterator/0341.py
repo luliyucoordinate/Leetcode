@@ -20,27 +20,43 @@ class NestedInteger(object):
        """
 
 class NestedIterator(object):
-
     def __init__(self, nestedList):
         """
         Initialize your data structure here.
         :type nestedList: List[NestedInteger]
         """
-        
+        self.stack = [[nestedList, 0]]
 
     def next(self):
         """
         :rtype: int
         """
-        
+        self.hasNext()
+        nextedList, i = self.stack[-1]
+        self.stack[-1][1] += 1
+        return nextedList[i].getInteger()
 
     def hasNext(self):
         """
         :rtype: bool
         """
+        s = self.stack
+        while s:
+            nestedList, i = s[-1]
+            if i == len(nestedList):
+                s.pop()
+            else:
+                x = nestedList[i]
+                if x.isInteger():
+                    return True
+
+                s[-1][1] += 1
+                s.append([x.getList(), 0])
+
+        return False
 
 if __name__ == "__main__":
-    root = [1,None,2,3]
-    treeRoot = createTree(root)
-    printTree(treeRoot)
-    print(Solution().inorderTraversal(treeRoot))
+    root = [[1,1],2,[1,1]]
+    N_iter = NestedIterator(root)
+    while N_iter.hasNext():
+        print(N_iter.next())
