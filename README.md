@@ -23,6 +23,7 @@ LeetCode
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | c | [c++](./0019-Remove-Nth-Node-From-End-of-List/0019.cpp) |[python](./0019-Remove-Nth-Node-From-End-of-List/0019.py)|||Medium|
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | c | [c++](./0020-Valid-Parentheses/0020.cpp) |[python](./0020-Valid-Parentheses/0020.py)|||Easy|
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | c | [c++](./0021-Merge-Two-Sorted-Lists/0021.cpp) |[python](./0021-Merge-Two-Sorted-Lists/0021.py)|||Easy|
+|0023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | c | [c++](./0023-Merge-k-Sorted-Lists/0023.cpp) |[python](./0023-Merge-k-Sorted-Lists/0023.py)|||Hard|
 |0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | c | [c++](./0445-Add-Two-Numbers-II/0024.cpp) |[python](./0445-Add-Two-Numbers-II/0024.py)|||Medium|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | c | [c++](./0026-Remove-Duplicates-from-Sorted-Array/0026.cpp) |[python](./0026-Remove-Duplicates-from-Sorted-Array/0026.py)|||Easy|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | c | [c++](./0027-Remove-Element/0027.cpp) |[python](./0027-Remove-Element/0027.py)|||Easy|
@@ -42,6 +43,8 @@ LeetCode
 |0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | c | [c++](./0103-Binary-Tree-Zigzag-Level-Order-Traversal/0103.cpp) |[python](./0103-Binary-Tree-Zigzag-Level-Order-Traversal/0103.py)|||Medium|
 |0107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | c | [c++](./0107-Binary-Tree-Level-Order-Traversal-II/0107.cpp) |[python](./0107-Binary-Tree-Level-Order-Traversal-II/0107.py)|||Easy|
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | c | [c++](./0125-Valid-Palindrome/0125.cpp) |[python](./0125-Valid-Palindrome/0125.py)|||Easy|
+|0126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | c | [c++](./0126-Word-Ladder-II/0126.cpp) |[python](./0126-Word-Ladder-II/0126.py)|||hard|
+|0127|[Word Ladder](https://leetcode.com/problems/word-ladder/) | c | [c++](./0127-Word-Ladder/0127.cpp) |[python](./0127-Word-Ladder/0127.py)|||Medium|
 |0143|[Reorder-List](https://leetcode.com/problems/reorder-list/) | c | [c++](./0143-Reorder-List/0143.cpp) |[python](./0143-Reorder-List/0143.py)|||Medium|
 |0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | c | [c++](./0144-Binary-Tree-Preorder-Traversal/0144.cpp) |[python](./0144-Binary-Tree-Preorder-Traversal/0144.py)|||Medium|
 |0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | c | [c++](./0145-Binary-Tree-Postorder-Traversal/0145.cpp) |[python](./0145-Binary-Tree-Postorder-Traversal/0145.py)|||hard|
@@ -69,6 +72,7 @@ LeetCode
 |0341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | c | [c++](./0341-Flatten-Nested-List-Iterator/0341.cpp) |[python](./0341-Flatten-Nested-List-Iterator/0341.py)|||Medium|
 |0344|[Reverse String](https://leetcode.com/problems/reverse-string/) | c | [c++](./0344-Reverse-String/0344.cpp) |[python](./0344-Reverse-String/0344.py)|||Easy|
 |0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | c | [c++](./0345-Reverse-Vowels-of-a-String/0345.cpp) |[python](./0345-Reverse-Vowels-of-a-String/0345.py)|||Easy|
+|0347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | c | [c++](./0347-Top-K-Frequent-Elements/0347.cpp) |[python](./0347-Top-K-Frequent-Elements/0347.py)|||Medium|
 |0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | c | [c++](./0349-Intersection-of-Two-Arrays/0349.cpp) |[python](./0349-Intersection-of-Two-Arrays/0349.py)|||Easy|
 |0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | c | [c++](./0350-Intersection-of-Two-Arrays-II/0350.cpp) |[python](./0350-Intersection-of-Two-Arrays-II/0350.py)|||Easy|
 |0438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | c | [c++](./0438-Find-All-Anagrams-in-a-String/0438.cpp) |[python](./0438-Find-All-Anagrams-in-a-String/0438.py)|||Easy|
