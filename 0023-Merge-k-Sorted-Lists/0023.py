@@ -4,21 +4,27 @@ class ListNode:
         self.val = x
         self.next = None
 
-class Solution:
+class Solution(object):
     def mergeKLists(self, lists):
         """
         :type lists: List[ListNode]
         :rtype: ListNode
         """
+        import heapq 
         result = ListNode(-1)
         cur = result
+        p = list()
+        x = 0
         for i in lists:
             while i:
-                val = i.val
-                cur.next = ListNode(val)
-                cur = cur.next
+                heapq.heappush(p, (i.val, x, i))
                 i = i.next
-        
+                x += 1
+
+        while p:
+            cur.next = heapq.heappop(p)[1]
+            cur = cur.next
+
         return result.next
 
 def createList():
