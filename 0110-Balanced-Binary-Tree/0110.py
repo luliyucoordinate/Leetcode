@@ -11,24 +11,14 @@ class Solution:
         :type root: TreeNode
         :rtype: bool
         """
-        if not root:
-            return True
+        def height(root):
+            if not root:
+                return 0
 
-        def height(node, h):
-            if not node:
-                return h
+            left = height(root.left)
+            right = height(root.right)
+            if left == -1 or right == -1 or abs(left - right) > 1:
+                return -1
 
-            return max(height(node.left, h + 1), height(node.right, h + 1))
-
-        if abs(height(root.left, 0) - height(root.right, 0)) > 1:
-            return False
-
-        return self.isBalanced(root.left) and self.isBalanced(root.right)
-        
-        
-
-if __name__ == "__main__":
-    root = [3,9,20,None,None,15,7]
-    print(Solution().isBalanced(root))
-
-        
+            return max(left, right) + 1
+        return height(root) != -1
