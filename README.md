@@ -46,6 +46,7 @@ LeetCode
 |0107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | c | [c++](./0107-Binary-Tree-Level-Order-Traversal-II/0107.cpp) |[python](./0107-Binary-Tree-Level-Order-Traversal-II/0107.py)|||Easy|
 |0110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | c | [c++](./0110-Balanced-Binary-Tree/0110.cpp) |[python](./0110-Balanced-Binary-Tree/0110.py)|||Easy|
 |0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | c | [c++](./0111-Minimum-Depth-of-Binary-Tree/0111.cpp) |[python](./0111-Minimum-Depth-of-Binary-Tree/0111.py)|||Easy|
+|0112|[Path Sum](https://leetcode.com/problems/path-sum/) | c | [c++](./0112-Path-Sum/0112.cpp) |[python](./0112-Path-Sum/0112.py)|||Easy|
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | c | [c++](./0125-Valid-Palindrome/0125.cpp) |[python](./0125-Valid-Palindrome/0125.py)|||Easy|
 |0126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | c | [c++](./0126-Word-Ladder-II/0126.cpp) |[python](./0126-Word-Ladder-II/0126.py)|||hard|
 |0127|[Word Ladder](https://leetcode.com/problems/word-ladder/) | c | [c++](./0127-Word-Ladder/0127.cpp) |[python](./0127-Word-Ladder/0127.py)|||Medium|
@@ -81,6 +82,7 @@ LeetCode
 |0347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | c | [c++](./0347-Top-K-Frequent-Elements/0347.cpp) |[python](./0347-Top-K-Frequent-Elements/0347.py)|||Medium|
 |0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | c | [c++](./0349-Intersection-of-Two-Arrays/0349.cpp) |[python](./0349-Intersection-of-Two-Arrays/0349.py)|||Easy|
 |0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | c | [c++](./0350-Intersection-of-Two-Arrays-II/0350.cpp) |[python](./0350-Intersection-of-Two-Arrays-II/0350.py)|||Easy|
+|0404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | c | [c++](./0404-Sum-of-Left-Leaves/0404.cpp) |[python](./0404-Sum-of-Left-Leaves/0404.py)|||Easy|
 |0438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | c | [c++](./0438-Find-All-Anagrams-in-a-String/0438.cpp) |[python](./0438-Find-All-Anagrams-in-a-String/0438.py)|||Easy|
 |0445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | c | [c++](./0445-Add-Two-Numbers-II/0445.cpp) |[python](./0445-Add-Two-Numbers-II/0445.py)|||Medium|
 |0447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | c | [c++](./0447-Number-of-Boomerangs/0447.cpp) |[python](./0447-Number-of-Boomerangs/0447.py)|||Easy|
