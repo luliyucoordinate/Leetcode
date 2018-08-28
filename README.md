@@ -47,6 +47,7 @@ LeetCode
 |0110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | c | [c++](./0110-Balanced-Binary-Tree/0110.cpp) |[python](./0110-Balanced-Binary-Tree/0110.py)|||Easy|
 |0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | c | [c++](./0111-Minimum-Depth-of-Binary-Tree/0111.cpp) |[python](./0111-Minimum-Depth-of-Binary-Tree/0111.py)|||Easy|
 |0112|[Path Sum](https://leetcode.com/problems/path-sum/) | c | [c++](./0112-Path-Sum/0112.cpp) |[python](./0112-Path-Sum/0112.py)|||Easy|
+|0113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | c | [c++](./0113-Path-Sum-II/0113.cpp) |[python](./0113-Path-Sum-II/0113.py)|||Easy|
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | c | [c++](./0125-Valid-Palindrome/0125.cpp) |[python](./0125-Valid-Palindrome/0125.py)|||Easy|
 |0126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | c | [c++](./0126-Word-Ladder-II/0126.cpp) |[python](./0126-Word-Ladder-II/0126.py)|||hard|
 |0127|[Word Ladder](https://leetcode.com/problems/word-ladder/) | c | [c++](./0127-Word-Ladder/0127.cpp) |[python](./0127-Word-Ladder/0127.py)|||Medium|
@@ -72,6 +73,7 @@ LeetCode
 |0234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | c | [c++](./0234-Palindrome-Linked-List/0234.cpp) |[python](./0234-Palindrome-Linked-List/0234.py)|||Medium|
 |0237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | c | [c++](./0237-Delete-Node-in-a-Linked-List/0237.cpp) |[python](./0237-Delete-Node-in-a-Linked-List/0237.py)|||Easy|
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | c | [c++](./0242-Valid-Anagram/0242.cpp) |[python](./0242-Valid-Anagram/0242.py)|||Easy|
+|0242|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | c | [c++](./0257-Binary-Tree-Paths/0257.cpp) |[python](./0257-Binary-Tree-Paths/0257.py)|||Easy|
 |0279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | c | [c++](./0279-Perfect-Squares/0279.cpp) |[python](./0279-Perfect-Squares/0279.py)|||Medium|
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | c | [c++](./0283-Move-Zeroes/0283.cpp) |[python](./0283-Move-Zeroes/0283.py)|||Easy|
 |0290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | c | [c++](./0290-Word-Pattern/0290.cpp) |[python](./0290-Word-Pattern/0290.py)|||Easy|
