@@ -39,6 +39,7 @@ LeetCode
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | c | [c++](./0088-Merge-Sorted-Array/0088.cpp) |[python](./0088-Merge-Sorted-Array/0088.py)|||Easy|
 |0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | c | [c++](./0092-Reverse-Linked-List-II/0092.cpp) |[python](./0092-Reverse-Linked-List-II/0092.py)|||Medium|
 |0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | c | [c++](./0094-Binary-Tree-Inorder-Traversal/0094.cpp) |[python](./0094-Binary-Tree-Inorder-Traversal/0094.py)|||Medium|
+|0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | c | [c++](./0098-Validate-Binary-Search-Tree/0098.cpp) |[python](./0098-Validate-Binary-Search-Tree/0098.py)|||Medium|
 |0100|[Same Tree](https://leetcode.com/problems/same-tree/) | c | [c++](./0100-Same-Tree/0100.cpp) |[python](./0100-Same-Tree/0100.py)|||Easy|
 |0102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | c | [c++](./0102-Binary-Tree-Level-Order-Traversal/0102.cpp) |[python](./0102-Binary-Tree-Level-Order-Traversal/0102.py)|||Medium|
 |0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | c | [c++](./0103-Binary-Tree-Zigzag-Level-Order-Traversal/0103.cpp) |[python](./0103-Binary-Tree-Zigzag-Level-Order-Traversal/0103.py)|||Medium|
@@ -72,6 +73,7 @@ LeetCode
 |0222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | c | [c++](./0222-Count-Complete-Tree-Nodes/0222.cpp) |[python](./0222-Count-Complete-Tree-Nodes/0222.py)|||Medium|
 |0226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | c | [c++](./0226-Invert-Binary-Tree/0226.cpp) |[python](./0226-Invert-Binary-Tree/0226.py)|||Easy|
 |0234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | c | [c++](./0234-Palindrome-Linked-List/0234.cpp) |[python](./0234-Palindrome-Linked-List/0234.py)|||Medium|
+|0235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | c | [c++](./0235-Lowest-Common-Ancestor-of-a-Binary-Search Tree/0235.cpp) |[python](./0235-Lowest-Common-Ancestor-of-a-Binary-Search Tree/0235.py)|||Easy|
 |0237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | c | [c++](./0237-Delete-Node-in-a-Linked-List/0237.cpp) |[python](./0237-Delete-Node-in-a-Linked-List/0237.py)|||Easy|
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | c | [c++](./0242-Valid-Anagram/0242.cpp) |[python](./0242-Valid-Anagram/0242.py)|||Easy|
 |0242|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | c | [c++](./0257-Binary-Tree-Paths/0257.cpp) |[python](./0257-Binary-Tree-Paths/0257.py)|||Easy|

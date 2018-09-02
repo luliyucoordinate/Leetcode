@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include <vector>
+#include <unordered_map>
 #include <algorithm>
 using namespace std;
 
@@ -20,13 +20,14 @@ public:
     {
         if (root == nullptr) return 0;
         int result = 0;
-        vector<int> freq(1, 0);
+        unordered_map<int, int> freq;
+        freq[0] = 1;
         dfs(root, 0, freq, result, sum);
         return result;
     }
 
 private:
-    void dfs(TreeNode* node, int pathSum, vector<int>& freq, int& result, int sum)
+    void dfs(TreeNode* node, int pathSum, unordered_map<int, int>& freq, int& result, int sum)
     {
         pathSum += node->val;
         result += freq[pathSum - sum];
