@@ -16,12 +16,12 @@ public:
         return result;
     }
 private:
-    vector<string> letterMap = {            
+    const vector<string> letterMap = {            
                         " ","","abc",
                         "def","ghi","jkl",
                         "mno","pqrs","tuv","wxyz"};
 
-    void findCombination(string& digits, int index, string s, vector<string>& res)
+    void findCombination(const string& digits, int index, const string& s, vector<string>& res)
     {
         if (digits.length() == index) 
         {
