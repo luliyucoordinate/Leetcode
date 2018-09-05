@@ -75,6 +75,7 @@ LeetCode
 |0219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | c | [c++](./0219-Contains-Duplicate-II/0219.cpp) |[python](./0219-Contains-Duplicate-II/0219.py)|||Easy|
 |0222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | c | [c++](./0222-Count-Complete-Tree-Nodes/0222.cpp) |[python](./0222-Count-Complete-Tree-Nodes/0222.py)|||Medium|
 |0226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | c | [c++](./0226-Invert-Binary-Tree/0226.cpp) |[python](./0226-Invert-Binary-Tree/0226.py)|||Easy|
+|0230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | c | [c++](./0230-Kth-Smallest-Element-in-a-BST/0230.cpp) |[python](./0230-Kth-Smallest-Element-in-a-BST/0230.py)|||Medium|
 |0234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | c | [c++](./0234-Palindrome-Linked-List/0234.cpp) |[python](./0234-Palindrome-Linked-List/0234.py)|||Medium|
 |0235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | c | [c++](./0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/0235.cpp) |[python](./0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/0235.py)|||Easy|
 |0237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | c | [c++](./0237-Delete-Node-in-a-Linked-List/0237.cpp) |[python](./0237-Delete-Node-in-a-Linked-List/0237.py)|||Easy|
