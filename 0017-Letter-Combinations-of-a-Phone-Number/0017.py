@@ -48,3 +48,8 @@ class Solution:
         
         chars = [l_map.get(d) for d in digits]
         return [''.join(x) for x in itertools.product(*chars)]
+
+
+if __name__ == '__main__':
+    digits = '23'
+    print(Solution().letterCombinations(digits))
