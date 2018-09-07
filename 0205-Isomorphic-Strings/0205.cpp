@@ -27,6 +27,6 @@ int main()
 {
     string pattern = "egg";
     string str = "add";
-    cout << Solution().wordPattern(pattern, str) << endl;
+    cout << Solution().isIsomorphic(pattern, str) << endl;
     return 0;
 }
