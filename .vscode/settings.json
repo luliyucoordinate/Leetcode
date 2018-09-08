@@ -49,6 +49,13 @@
         "xtr1common": "cpp",
         "stack": "cpp",
         "array": "cpp",
-        "string_view": "cpp"
+        "string_view": "cpp",
+        "climits": "cpp",
+        "*.tcc": "cpp",
+        "clocale": "cpp",
+        "cwctype": "cpp",
+        "fstream": "cpp",
+        "functional": "cpp",
+        "optional": "cpp"
     }
 }

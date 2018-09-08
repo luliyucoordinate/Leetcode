@@ -28,17 +28,21 @@ LeetCode
 |0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | c | [c++](./0445-Add-Two-Numbers-II/0024.cpp) |[python](./0445-Add-Two-Numbers-II/0024.py)|||Medium|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | c | [c++](./0026-Remove-Duplicates-from-Sorted-Array/0026.cpp) |[python](./0026-Remove-Duplicates-from-Sorted-Array/0026.py)|||Easy|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | c | [c++](./0027-Remove-Element/0027.cpp) |[python](./0027-Remove-Element/0027.py)|||Easy|
-|0056|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | c | [c++](./0049-Group-Anagrams/0056.cpp) |[python](./0049-Group-Anagrams/0056.py)|||Medium|
+|0046|[Permutations](https://leetcode.com/problems/permutations/) | c | [c++](./0046-Permutations/0046.cpp) |[python](./0046-Permutations/0046.py)|||Medium|
+|0047|[Permutations II](https://leetcode.com/problems/permutations-ii/) | c | [c++](./0047-Permutations-II/0047.cpp) |[python](./0047-Permutations-II/0047.py)|||Medium|
+|0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | c | [c++](./0049-Group-Anagrams/0049.cpp) |[python](./0049-Group-Anagrams/0049.py)|||Medium|
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/) | c | [c++](./0061-Rotate-List/0061.cpp) |[python](./0061-Rotate-List/0061.py)|||Medium|
 |0071|[Simplify Path](https://leetcode.com/problems/simplify-path/) | c | [c++](./0071-Simplify-Path/0071.cpp) |[python](./0071-Simplify-Path/0071.py)|||Medium|
 |0075|[Sort Colors](https://leetcode.com/problems/sort-colors/) | c | [c++](./0075-Sort-Colors/0075.cpp) |[python](./0075-Sort-Colors/0075.py)|||Medium|
 |0076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | c | [c++](./0076-Minimum-Window-Substring/0076.cpp) |[python](./0076-Minimum-Window-Substring/0076.py)|||Easy|
+|0077|[Combinations](https://leetcode.com/problems/combinations/) | c | [c++](./0077-Combinations/0077.cpp) |[python](./0077-Combinations/0077.py)|||Medium|
 |0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | c | [c++]() |[python](./0080-Remove-Duplicates-from-Sorted-Array-II/0080.py)|||Medium|
 |0082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | c | [c++](./0082-Remove-Duplicates-from-Sorted-List-II/0082.cpp) |[python](./0082-Remove-Duplicates-from-Sorted-List-II/0082.py)|||Medium|
 |0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | c | [c++](./0083-Remove-Duplicates-from-Sorted-List/0083.cpp) |[python](./0083-Remove-Duplicates-from-Sorted-List/0083.py)|||Easy|
 |0086|[Partition List](https://leetcode.com/problems/partition-list/) | c | [c++](./0086-Partition-List/0086.cpp) |[python](./0086-Partition-List/0086.py)|||Medium|
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | c | [c++](./0088-Merge-Sorted-Array/0088.cpp) |[python](./0088-Merge-Sorted-Array/0088.py)|||Easy|
 |0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | c | [c++](./0092-Reverse-Linked-List-II/0092.cpp) |[python](./0092-Reverse-Linked-List-II/0092.py)|||Medium|
+|0093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | c | [c++](./0093-Restore-IP-Addresses/0093.cpp) |[python](./0093-Restore-IP-Addresses/0093.py)|||Medium|
 |0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | c | [c++](./0094-Binary-Tree-Inorder-Traversal/0094.cpp) |[python](./0094-Binary-Tree-Inorder-Traversal/0094.py)|||Medium|
 |0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | c | [c++](./0098-Validate-Binary-Search-Tree/0098.cpp) |[python](./0098-Validate-Binary-Search-Tree/0098.py)|||Medium|
 |0100|[Same Tree](https://leetcode.com/problems/same-tree/) | c | [c++](./0100-Same-Tree/0100.cpp) |[python](./0100-Same-Tree/0100.py)|||Easy|
@@ -55,6 +59,7 @@ LeetCode
 |0126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | c | [c++](./0126-Word-Ladder-II/0126.cpp) |[python](./0126-Word-Ladder-II/0126.py)|||hard|
 |0127|[Word Ladder](https://leetcode.com/problems/word-ladder/) | c | [c++](./0127-Word-Ladder/0127.cpp) |[python](./0127-Word-Ladder/0127.py)|||Medium|
 |0129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | c | [c++](./0129-Sum-Root-to-Leaf-Numbers/0129.cpp) |[python](./0129-Sum-Root-to-Leaf-Numbers/0129.py)|||Medium|
+|0131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | c | [c++](./0131-Palindrome-Partitioning/0131.cpp) |[python](./0131-Palindrome-Partitioning/0131.py)|||Medium|
 |0143|[Reorder-List](https://leetcode.com/problems/reorder-list/) | c | [c++](./0143-Reorder-List/0143.cpp) |[python](./0143-Reorder-List/0143.py)|||Medium|
 |0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | c | [c++](./0144-Binary-Tree-Preorder-Traversal/0144.cpp) |[python](./0144-Binary-Tree-Preorder-Traversal/0144.py)|||Medium|
 |0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | c | [c++](./0145-Binary-Tree-Postorder-Traversal/0145.cpp) |[python](./0145-Binary-Tree-Postorder-Traversal/0145.py)|||hard|
