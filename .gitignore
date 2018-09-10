@@ -19,7 +19,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # vscode
-.vscode
+.vscode/*
 # =========================
 # Operating System Files
 # =========================
