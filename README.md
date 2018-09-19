@@ -33,6 +33,7 @@ LeetCode
 |0046|[Permutations](https://leetcode.com/problems/permutations/) | c | [c++](./src/0046-Permutations/0046.cpp) |[python](./src/0046-Permutations/0046.py)|||Medium|
 |0047|[Permutations II](https://leetcode.com/problems/permutations-ii/) | c | [c++](./src/0047-Permutations-II/0047.cpp) |[python](./src/0047-Permutations-II/0047.py)|||Medium|
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | c | [c++](./src/0049-Group-Anagrams/0049.cpp) |[python](./src/0049-Group-Anagrams/0049.py)|||Medium|
+|0051|[N-Queens](https://leetcode.com/problems/n-queens/) | c | [c++](./src/0051-N-Queens/0051.cpp) |[python](./src/0051-N-Queens/0051.py)|||Hard|
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/) | c | [c++](./src/0061-Rotate-List/0061.cpp) |[python](./src/0061-Rotate-List/0061.py)|||Medium|
 |0071|[Simplify Path](https://leetcode.com/problems/simplify-path/) | c | [c++](./src/0071-Simplify-Path/0071.cpp) |[python](./src/0071-Simplify-Path/0071.py)|||Medium|
 |0075|[Sort Colors](https://leetcode.com/problems/sort-colors/) | c | [c++](./src/0075-Sort-Colors/0075.cpp) |[python](./src/0075-Sort-Colors/0075.py)|||Medium|
@@ -61,14 +62,14 @@ LeetCode
 |0112|[Path Sum](https://leetcode.com/problems/path-sum/) | c | [c++](./src/0112-Path-Sum/0112.cpp) |[python](./src/0112-Path-Sum/0112.py)|||Easy|
 |0113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | c | [c++](./src/0113-Path-Sum-II/0113.cpp) |[python](./src/0113-Path-Sum-II/0113.py)|||Medium|
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | c | [c++](./src/0125-Valid-Palindrome/0125.cpp) |[python](./src/0125-Valid-Palindrome/0125.py)|||Easy|
-|0126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | c | [c++](./src/0126-Word-Ladder-II/0126.cpp) |[python](./src/0126-Word-Ladder-II/0126.py)|||hard|
+|0126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | c | [c++](./src/0126-Word-Ladder-II/0126.cpp) |[python](./src/0126-Word-Ladder-II/0126.py)|||Hard|
 |0127|[Word Ladder](https://leetcode.com/problems/word-ladder/) | c | [c++](./src/0127-Word-Ladder/0127.cpp) |[python](./src/0127-Word-Ladder/0127.py)|||Medium|
 |0129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | c | [c++](./src/0129-Sum-Root-to-Leaf-Numbers/0129.cpp) |[python](./src/0129-Sum-Root-to-Leaf-Numbers/0129.py)|||Medium|
 |0130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | c | [c++](./src/0130-Surrounded-Regions/0130.cpp) |[python](./src/0130-Surrounded-Regions/0130.py)|||Medium|
 |0131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | c | [c++](./src/0131-Palindrome-Partitioning/0131.cpp) |[python](./src/0131-Palindrome-Partitioning/0131.py)|||Medium|
 |0143|[Reorder-List](https://leetcode.com/problems/reorder-list/) | c | [c++](./src/0143-Reorder-List/0143.cpp) |[python](./src/0143-Reorder-List/0143.py)|||Medium|
 |0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | c | [c++](./src/0144-Binary-Tree-Preorder-Traversal/0144.cpp) |[python](./src/0144-Binary-Tree-Preorder-Traversal/0144.py)|||Medium|
-|0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | c | [c++](./src/0145-Binary-Tree-Postorder-Traversal/0145.cpp) |[python](./src/0145-Binary-Tree-Postorder-Traversal/0145.py)|||hard|
+|0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | c | [c++](./src/0145-Binary-Tree-Postorder-Traversal/0145.cpp) |[python](./src/0145-Binary-Tree-Postorder-Traversal/0145.py)|||Hard|
 |0147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | c | [c++](./src/0147-Insertion-Sort-List/0147.cpp) |[python](./src/0147-Insertion-Sort-List/0147.py)|||Medium|
 |0148|[Sort List](https://leetcode.com/problems/sort-list/) | c | [c++](./src/0148-Sort-List/0148.cpp) |[python](./src/0148-Sort-List/0148.py)|||Medium|
 |0149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | c | [c++](./src/0149-Max-Points-on-a-Line/0149.cpp) |[python](./src/0149-Max-Points-on-a-Line/0149.py)|||Hard|
