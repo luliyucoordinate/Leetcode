@@ -35,6 +35,7 @@ LeetCode
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | c | [c++](./src/0049-Group-Anagrams/0049.cpp) |[python](./src/0049-Group-Anagrams/0049.py)|||Medium|
 |0051|[N-Queens](https://leetcode.com/problems/n-queens/) | c | [c++](./src/0051-N-Queens/0051.cpp) |[python](./src/0051-N-Queens/0051.py)|||Hard|
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/) | c | [c++](./src/0061-Rotate-List/0061.cpp) |[python](./src/0061-Rotate-List/0061.py)|||Medium|
+|0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) | c | [c++](./src/0062-Unique-Paths/0062.cpp) |[python](./src/0062-Unique-Paths/0062.py)|||Medium|
 |0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | c | [c++](./src/0064-Minimum-Path-Sum/0064.cpp) |[python](./src/0064-Minimum-Path-Sum/0064.py)|||Medium|
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | c | [c++](./src0070-Climbing-Stairs/0070.cpp) |[python](./src/0070-Climbing-Stairs/0070.py)|||Easy|
 |0071|[Simplify Path](https://leetcode.com/problems/simplify-path/) | c | [c++](./src/0071-Simplify-Path/0071.cpp) |[python](./src/0071-Simplify-Path/0071.py)|||Medium|
