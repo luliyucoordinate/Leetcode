@@ -108,7 +108,7 @@ LeetCode
 |0290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | c | [c++](./src/0290-Word-Pattern/0290.cpp) |[python](./src/0290-Word-Pattern/0290.py)|||Easy|
 |0300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | c | [c++](./src/0300-Longest-Increasing-Subsequence/0300.cpp) |[python](./src/0300-Longest-Increasing-Subsequence/0300.py)|||Medium|
 |0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | c | [c++](./src/0309-Best-Time-to-Buy-and-Sel-Stock-with-Cooldown/0309.cpp) |[python](./src/0309-Best-Time-to-Buy-and-Sel-Stock-with-Cooldown/0309.py)|||Medium|
-|0322|[0322-Coin-Change](https://leetcode.com/problems/coin-change/) | c | [c++](./src/https://leetcode.com/problems/coin-change/0322.cpp) |[python](./src/https://leetcode.com/problems/coin-change/0322.py)|||Medium|
+|0322|[0322-Coin-Change](https://leetcode.com/problems/coin-change/) | c | [c++](./src/0322-Coin-Change/0322.cpp) |[python](./src/0322-Coin-Change/0322.py)|||Medium|
 |0328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | c | [c++](./src/0328-Odd-Even-Linked-List/0328.cpp) |[python](./src/0328-Odd-Even-Linked-List/0328.py)|||Medium|
 |0337|[House Robber III](https://leetcode.com/problems/house-robber-iii/) | c | [c++](./src/0328-Odd-Even-Linked-List/0337.cpp) |[python](./src/0328-Odd-Even-Linked-List/0337.py)|||Medium|
 |0341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | c | [c++](./src/0341-Flatten-Nested-List-Iterator/0341.cpp) |[python](./src/0341-Flatten-Nested-List-Iterator/0341.py)|||Medium|
