@@ -129,3 +129,4 @@ LeetCode
 |0450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | c | [c++](./src/0450-Delete-Node-in-a-BST/0450.cpp) |[python](./src/0450-Delete-Node-in-a-BST/0450.py)|||Medium|
 |0451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | c | [c++](./src/0451-Sort-Characters-By-Frequency/0451.cpp) |[python](./src/0451-Sort-Characters-By-Frequency/0451.py)|||Easy|
 |0454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | c | [c++](./src/0454-4Sum-II/0454.cpp) |[python](./src/0454-4Sum-II/0454.py)|||Medium|
+|0474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | c | [c++](./src/0474-Ones-and-Zeroes/0474.cpp) |[python](./src/0474-Ones-and-Zeroes/0474.py)|||Medium|
