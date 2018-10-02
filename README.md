@@ -73,6 +73,7 @@ LeetCode
 |0129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | c | [c++](./src/0129-Sum-Root-to-Leaf-Numbers/0129.cpp) |[python](./src/0129-Sum-Root-to-Leaf-Numbers/0129.py)|||Medium|
 |0130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | c | [c++](./src/0130-Surrounded-Regions/0130.cpp) |[python](./src/0130-Surrounded-Regions/0130.py)|||Medium|
 |0131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | c | [c++](./src/0131-Palindrome-Partitioning/0131.cpp) |[python](./src/0131-Palindrome-Partitioning/0131.py)|||Medium|
+|0139|[Word Break](https://leetcode.com/problems/word-break/) | c | [c++](./src/0139-Word-Break/0139.cpp) |[python](./src/0139-Word-Break/0139.py)|||Medium|
 |0143|[Reorder-List](https://leetcode.com/problems/reorder-list/) | c | [c++](./src/0143-Reorder-List/0143.cpp) |[python](./src/0143-Reorder-List/0143.py)|||Medium|
 |0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | c | [c++](./src/0144-Binary-Tree-Preorder-Traversal/0144.cpp) |[python](./src/0144-Binary-Tree-Preorder-Traversal/0144.py)|||Medium|
 |0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | c | [c++](./src/0145-Binary-Tree-Postorder-Traversal/0145.cpp) |[python](./src/0145-Binary-Tree-Postorder-Traversal/0145.py)|||Hard|
@@ -129,4 +130,5 @@ LeetCode
 |0450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | c | [c++](./src/0450-Delete-Node-in-a-BST/0450.cpp) |[python](./src/0450-Delete-Node-in-a-BST/0450.py)|||Medium|
 |0451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | c | [c++](./src/0451-Sort-Characters-By-Frequency/0451.cpp) |[python](./src/0451-Sort-Characters-By-Frequency/0451.py)|||Easy|
 |0454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | c | [c++](./src/0454-4Sum-II/0454.cpp) |[python](./src/0454-4Sum-II/0454.py)|||Medium|
+|0455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | c | [c++](./src/0455-Assign-Cookies/0455.cpp) |[python](./src/0455-Assign-Cookies/0455.py)|||Easy|
 |0474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | c | [c++](./src/0474-Ones-and-Zeroes/0474.cpp) |[python](./src/0474-Ones-and-Zeroes/0474.py)|||Medium|
