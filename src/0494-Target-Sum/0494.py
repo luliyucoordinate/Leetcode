@@ -1,18 +1,3 @@
-# class Solution:
-#     def findTargetSumWays(self, nums, S):
-#         total = sum(nums)
-#         A = total + S
-#         if total < abs(S) or A % 2 == 1:
-#             return 0
-#         A = A // 2
-#         count = [0] * (A + 1)
-#         count[0] = 1
-#         partial = 0
-#         for n in nums:
-#             partial += n
-#             for i in range(min(A, partial), n-1, -1):
-#                 count[i] += count[i - n]
-#         return count[A]
 class Solution:
     def findTargetSumWays(self, nums, S):
         """
