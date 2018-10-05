@@ -3,23 +3,19 @@
 using namespace std;
 
 static int x = [](){std::ios::sync_with_stdio(false);cin.tie(0);return 0;}();
-
 class Solution
 {
 public:
     void moveZeroes(vector<int>& nums)
     {
         int k = 0; //[0,...,k)
-        for (int i = 0; i < nums.size(); ++i)
+        for (unsigned int i = 0; i < nums.size(); ++i)
         {
-            if (nums[i] != 0)
+            if (nums[i])
             {
-                nums[k++] = nums[i];
+                if (k != i) swap(nums[k++], nums[i]);
+                else ++k;
             }
-        }
-        for (int i = k; i < nums.size(); ++i)
-        {
-            nums[i] = 0;
         }
     }
 };
