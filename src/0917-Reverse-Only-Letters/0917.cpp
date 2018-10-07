@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
+#include <cctype>
 using  namespace std;
 
 static int x = []() {std::ios::sync_with_stdio(false); cin.tie(0); return 0; }();
@@ -12,12 +13,12 @@ public:
         int l = 0, r = S.size() - 1;
         while (l < r)
         {
-            if (!('a' <= S[l] and S[l] <= 'z') and !('A' <= S[l] and S[l] <= 'Z'))
+            if (!isalpha(S[l]))
             {
                 ++l;
                 continue;
             }
-            if (!('a' <= S[r] and S[r] <= 'z') and !('A' <= S[r] and S[r] <= 'Z'))
+            if (!isalpha(S[r]))
             {
                 --r;
                 continue;
