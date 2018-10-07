@@ -136,3 +136,4 @@ LeetCode
 |0474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | c | [c++](./src/0474-Ones-and-Zeroes/0474.cpp) |[python](./src/0474-Ones-and-Zeroes/0474.py)|||Medium|
 |0494|[Target Sum](https://leetcode.com/problems/target-sum/) | c | [c++](./src/0494-Target-Sum/0494.cpp) |[python](./src/0494-Target-Sum/0494.py)|||Medium|
 |0917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | c | [c++](./src/0917-Reverse-Only-Letters/0917.cpp) |[python](./src/0917-Reverse-Only-Letters/0917.py)|||Easy|
+|0918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | c | [c++](./src/0918-Maximum-Sum-Circular-Subarray/0918.cpp) |[python](./src/0918-Maximum-Sum-Circular-Subarray/0918.py)|||Medium|
