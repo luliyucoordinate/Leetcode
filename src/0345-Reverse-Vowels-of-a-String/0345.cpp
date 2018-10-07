@@ -15,7 +15,12 @@ public:
         {
             l = s.find_first_of(vowels, l);
             r = s.find_last_of(vowels, r);
-            if (l < r) swap(s[l++], s[r--]);
+            if (l < r)
+            {
+                char tmp = s[l];
+                s[l++] = s[r];
+                s[r--] = tmp;
+            }
         }
         return s;
     }
