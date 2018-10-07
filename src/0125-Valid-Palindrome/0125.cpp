@@ -1,41 +1,22 @@
-#pragma once
 #include <string>
 #include <iostream>
 #include <cctype>
 using namespace std;
 
 static int x = []() {std::ios::sync_with_stdio(false); cin.tie(0); return 0; }();
-
 class Solution 
 {
 public:
-    bool _isEqual(char l, char r)
-    {
-        if ('A' <= l && l <= 'Z') l += 32;
-        if ('A' <= r && r <= 'Z') r += 32;
-        return l == r;
-    }
     bool isPalindrome(string s) 
     {
-        int l = 0;
-        int r = s.size() - 1;
-        while (l < r)
+        if (s.empty()) return true; 
+        int s_size = s.size();
+        int i = 0;
+        while (i < s_size) 
         {
-            if (!(bool)isalnum(s[l]))
-            {
-                ++l;
-                continue;
-            }
-            if (!(bool)isalnum(s[r]))
-            {
-                --r;
-                continue;
-            }
-            if (!_isEqual(s[l], s[r])) return false;
-            else
-            {
-                ++l; --r;
-            }
+            if (!isalnum(s[s_size])) { s_size--; continue; }
+            if (!isalnum(s[i])) { i++; continue; }   
+            if (tolower(s[i++]) != tolower(s[s_size--])) return false;
         }
         return true;
     }
