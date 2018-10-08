@@ -34,6 +34,7 @@ LeetCode
 |0047|[Permutations II](https://leetcode.com/problems/permutations-ii/) | c | [c++](./src/0047-Permutations-II/0047.cpp) |[python](./src/0047-Permutations-II/0047.py)|||Medium|
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | c | [c++](./src/0049-Group-Anagrams/0049.cpp) |[python](./src/0049-Group-Anagrams/0049.py)|||Medium|
 |0051|[N-Queens](https://leetcode.com/problems/n-queens/) | c | [c++](./src/0051-N-Queens/0051.cpp) |[python](./src/0051-N-Queens/0051.py)|||Hard|
+|0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | c | [c++](./src/0053-Maximum-Subarray/0053.cpp) |[python](./src/0053-Maximum-Subarray/0053.py)|||Easy|
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/) | c | [c++](./src/0061-Rotate-List/0061.cpp) |[python](./src/0061-Rotate-List/0061.py)|||Medium|
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) | c | [c++](./src/0062-Unique-Paths/0062.cpp) |[python](./src/0062-Unique-Paths/0062.py)|||Medium|
 |0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | c | [c++](./src/0063-Unique-Paths-II/0063.cpp) |[python](./src/0063-Unique-Paths-II/0063.py)|||Medium|
