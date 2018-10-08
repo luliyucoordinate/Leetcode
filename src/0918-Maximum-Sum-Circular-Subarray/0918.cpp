@@ -9,29 +9,15 @@ class Solution
 public:
     int maxSubarraySumCircular(vector<int>& A) 
     {
-        int max_A = *max_element(A.begin(), A.end());
-        if (max_A < 0) return max_A;
-        int result1 = kadane(A);
-        int result2 = 0;
-        for (unsigned int i = 0; i < A.size(); ++i)
+        if (A.empty()) return 0;
+        int total = 0, max_result = A[0], cur_max = 0, min_result = A[0], cur_min = 0;
+        for (unsigned int i = 0; i < A.size(); i++) 
         {
-            result2 += A[i];
-            A[i] = -A[i];
+            total += A[i];
+            max_result = max(max_result, cur_max = A[i] + max(0, cur_max));
+            min_result = min(min_result, cur_min = A[i] + min(0, cur_min));
         }
-        result2 += kadane(A);
-        return max(result1, result2);
-    }
-private:
-    int kadane(vector<int>& nums)
-    {
-        int cur = 0, result = 0;
-        for (auto& num :nums)
-        {
-            cur += num;
-            if (cur < 0) cur = 0;
-            if (result < cur) result = cur;
-        }
-        return result;
+        return max_result < 0 ? max_result : max(max_result, total - min_result);
     }
 };
 int main()
