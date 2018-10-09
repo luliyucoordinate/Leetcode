@@ -14,7 +14,8 @@ class Solution:
         q, result = [root], []
         while any(q):
             tmp = list()
-            for _ in range(len(q)):
+            len_q = len(q)
+            for _ in range(len_q):
                 node = q.pop(0)
                 tmp.append(node.val)
                 if node.left:
