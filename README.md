@@ -139,3 +139,4 @@ LeetCode
 |0917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | c | [c++](./src/0917-Reverse-Only-Letters/0917.cpp) |[python](./src/0917-Reverse-Only-Letters/0917.py)|||Easy|
 |0918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | c | [c++](./src/0918-Maximum-Sum-Circular-Subarray/0918.cpp) |[python](./src/0918-Maximum-Sum-Circular-Subarray/0918.py)|||Medium|
 |0919|[Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/) | c | [c++](./src/0919-Complete-Binary-Tree-Inserter/0919.cpp) |[python](./src/0919-Complete-Binary-Tree-Inserter/0919.py)|||Medium|
+|0920|[Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/) | c | [c++](./src/0920-Number-of-Music-Playlists/0920.cpp) |[python](./src/0920-Number-of-Music-Playlists/0920.py)|||Medium|
