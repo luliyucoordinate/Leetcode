@@ -1,10 +1,8 @@
 #include <iostream>
 #include <vector>
-#include <cassert>
 using namespace std;
 
 static int x = []() {std::ios::sync_with_stdio(false); cin.tie(0); return 0; }();
-
 class Solution
 {
 public:
@@ -14,18 +12,11 @@ public:
         int r = numbers.size() - 1;
         while (l < r)
         {
-            if (numbers[l] + numbers[r] == target)
-            {
-                return { l + 1, r + 1 };
-            }
-            else if (numbers[l] + numbers[r] < target)
-            {
-                ++l;
-            }
-            else
-            {
-                --r;
-            }
+            int sum = numbers[l] + numbers[r];
+            int diff = sum - target;
+            if (diff == 0) return { l + 1, r + 1 };
+            else if (diff < 0) ++l;
+            else --r;
         }
         return {};
     }
