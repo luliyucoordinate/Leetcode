@@ -12,8 +12,7 @@ public:
         int r = numbers.size() - 1;
         while (l < r)
         {
-            int sum = numbers[l] + numbers[r];
-            int diff = sum - target;
+            int diff = numbers[l] - target + numbers[r];
             if (diff == 0) return { l + 1, r + 1 };
             else if (diff < 0) ++l;
             else --r;
