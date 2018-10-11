@@ -1,42 +1,34 @@
+from collections import defaultdict
 class Solution:
     def minWindow(self, s, t):
-        """
-        :type s: str
-        :type t: str
-        :rtype: str
-        """
-        from collections import Counter
-        s_len, t_len = len(s), len(t)
-        count = t_len
-        tChar = Counter(t)
+        mem = defaultdict(int)
+        for c in t:
+            mem[c] += 1
+        t_len = len(t)
+        
+        minL, minR = 0, float('inf')
+        
         l = 0
-        r = 0
-        minLength = s_len + t_len + 1
-        result = str()
-        while l < s_len:   
-            if r < s_len:
-                print(l, r, count)
-                if tChar[s[r]] >= 1:
-                    count -= 1
-                tChar[s[r]] -= 1
-                r += 1
-                if count == 0:
-                    if r - l < minLength:
-                        minLength = r - l
-                        result = s[l:r]
-            else:
-                print(l, r, count)
-                if tChar[s[l]] >= 0:
-                    count += 1
-                tChar[s[l]] += 1
+        for r, c in enumerate(s):
+            if mem[c] > 0:
+                t_len -= 1
+            mem[c] -= 1
+                
+            if t_len == 0:
+                while mem[s[l]] < 0:
+                    mem[s[l]] += 1
+                    l += 1
+                    
+                if r - l < minR - minL:
+                    minL, minR = l, r
+                
+                mem[s[l]] += 1
+                t_len += 1
                 l += 1
-                if count == 0:
-                    if r - l < minLength:
-                        minLength = r - l
-                        result = s[l:r]
-        return result
+        
+        return '' if minR == float('inf') else s[minL:minR+1]
         
 if __name__ == "__main__":
-    s = "abc"
-    p = "b"
-    print(Solution().minWindow(s, p))
+    s = "ADOBECODEBANC"
+    t = "ABC"
+    print(Solution().minWindow(s, t))
