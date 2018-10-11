@@ -1,9 +1,9 @@
 class Solution:
-    """
-    :type s: str
-    :rtype: int
-    """
     def lengthOfLongestSubstring(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
         start = maxLength = 0
         usedChar = {}
         for index, char in enumerate(s):
