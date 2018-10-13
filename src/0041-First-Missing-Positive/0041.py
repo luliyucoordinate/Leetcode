@@ -4,23 +4,18 @@ class Solution:
         :type nums: List[int]
         :rtype: int
         """
-        if not nums:
-            return 1
+        nums_len = len(nums)
+        for i in range(nums_len):
+             while nums[i] > 0 and nums[i] <= nums_len\
+                        and nums[nums[i]-1]!=nums[i]:
+                nums[nums[i]-1],nums[i] = nums[i],nums[nums[i]-1]
 
-        max_len = max(nums)+1
-        mem = [0]*max_len
-        mem[0] = 1
-        for num in nums:
-            if num > 0:
-                mem[num] = 1
+        for i in range(nums_len):
+            if nums[i] != i + 1:
+                return i + 1
 
-        for i, val in enumerate(mem):
-            if val != 1:
-                return i
-
-        return max_len
-
-        
+        return nums_len + 1
+      
 if __name__ == "__main__":
     nums = [3,4,-1,1]
     print(Solution().firstMissingPositive(nums))

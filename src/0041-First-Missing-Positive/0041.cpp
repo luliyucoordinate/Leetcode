@@ -9,19 +9,19 @@ class Solution
 public:
     int firstMissingPositive(vector<int>& nums) 
     {
-        if (nums.empty()) return 1;
-        int max_len = *max_element(nums.begin(), nums.end()) + 1;
-        vector<int> mem(max_len, 0);
-        mem[0] = 1;
-        for (auto& num : nums)
+        for (unsigned int i = 0; i < nums.size(); ++i)
         {
-            if (num > 0) mem[num] = 1;
+            while (nums[i] > 0 and nums[i] <= nums.size()
+                and nums[nums[i] - 1] != nums[i])
+            {
+                swap(nums[nums[i] - 1], nums[i]);
+            }
         }
-        for (unsigned int i = 0; i < mem.size(); ++i)
+        for (unsigned int i = 0; i < nums.size(); ++i)
         {
-            if (mem[i] != 1) return i;
+            if (nums[i] != i + 1) return i + 1;
         }
-        return max_len;
+        return nums.size() + 1;
     }
 };
 int main()
