@@ -8,16 +8,16 @@ class Solution
 public:
     int minAddToMakeValid(string S) 
     {
-        int result= 0, tmp = 0;
+        int right= 0, left = 0;
         for (auto& s : S)
         {
-            s == '(' ? ++tmp: --tmp;
-            if (tmp == -1) 
+            s == '(' ? ++left: --left;
+            if (left == -1) 
             {
-                ++result; ++tmp;
+                ++right; ++left;
             }
         }
-        return result + tmp;
+        return right + left;
     }
 };
 int main()

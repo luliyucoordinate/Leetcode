@@ -4,14 +4,14 @@ class Solution:
         :type S: str
         :rtype: int
         """
-        result, tmp, = 0, 0
+        right, left, = 0, 0
         for s in S:
-            tmp += 1 if s == '(' else -1
-            if tmp == -1:
-                result += 1
-                tmp += 1
+            left += 1 if s == '(' else -1
+            if left == -1:
+                right += 1
+                left += 1
 
-        return result + tmp
+        return right + left
 
 if __name__ == "__main__":
     S = ""
