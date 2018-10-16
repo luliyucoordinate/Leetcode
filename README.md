@@ -144,3 +144,4 @@ LeetCode
 |0920|[Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/) | c | [c++](./src/0920-Number-of-Music-Playlists/0920.cpp) |[python](./src/0920-Number-of-Music-Playlists/0920.py)|||Medium|
 |0921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | c | [c++](./src/0921-Minimum-Add-to-Make-Parentheses-Valid/0921.cpp) |[python](./src/0921-Minimum-Add-to-Make-Parentheses-Valid/0921.py)|||Medium|
 |0922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | c | [c++](./src/0922-Sort-Array-By-Parity-II/0922.cpp) |[python](./src/0922-Sort-Array-By-Parity-II/0922.py)|||Easy|
+|0923|[3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | c | [c++](./src/0923-3Sum-With-Multiplicity/0923.cpp) |[python](./src/0923-3Sum-With-Multiplicity/0923.py)|||Medium|
