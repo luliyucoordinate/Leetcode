@@ -32,6 +32,7 @@ LeetCode
 |0039|[Combination Sum](https://leetcode.com/problems/combination-sum/) | c | [c++](./src/0039-Combination-Sum/0039.cpp) |[python](./src/0039-Combination-Sum/0039.py)|||Medium|
 |0040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | c | [c++](./src/0040-Combination-Sum-II/0040.cpp) |[python](./src/0040-Combination-Sum-II/0040.py)|||Medium|
 |0041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | c | [c++](./src/0041-First-Missing-Positive/0041.cpp) |[python](./src/0041-First-Missing-Positive/0041.py)|||Hard|
+|0045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/) | c | [c++](./src/0045-Jump-Game-II/0045.cpp) |[python](./src/0045-Jump-Game-II/0045.py)|||Hard|
 |0046|[Permutations](https://leetcode.com/problems/permutations/) | c | [c++](./src/0046-Permutations/0046.cpp) |[python](./src/0046-Permutations/0046.py)|||Medium|
 |0047|[Permutations II](https://leetcode.com/problems/permutations-ii/) | c | [c++](./src/0047-Permutations-II/0047.cpp) |[python](./src/0047-Permutations-II/0047.py)|||Medium|
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | c | [c++](./src/0049-Group-Anagrams/0049.cpp) |[python](./src/0049-Group-Anagrams/0049.py)|||Medium|
