@@ -38,6 +38,7 @@ LeetCode
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | c | [c++](./src/0049-Group-Anagrams/0049.cpp) |[python](./src/0049-Group-Anagrams/0049.py)|||Medium|
 |0051|[N-Queens](https://leetcode.com/problems/n-queens/) | c | [c++](./src/0051-N-Queens/0051.cpp) |[python](./src/0051-N-Queens/0051.py)|||Hard|
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | c | [c++](./src/0053-Maximum-Subarray/0053.cpp) |[python](./src/0053-Maximum-Subarray/0053.py)|||Easy|
+|0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | c | [c++](./src/0054-Spiral-Matrix/0054.cpp) |[python](./src/0054-Spiral-Matrix/0054.py)|||Medium|
 |0055|[Jump Game](https://leetcode.com/problems/jump-game/) | c | [c++](./src/0055-Jump-Game/0055.cpp) |[python](./src/0055-Jump-Game/0055.py)|||Medium|
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/) | c | [c++](./src/0061-Rotate-List/0061.cpp) |[python](./src/0061-Rotate-List/0061.py)|||Medium|
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) | c | [c++](./src/0062-Unique-Paths/0062.cpp) |[python](./src/0062-Unique-Paths/0062.py)|||Medium|
