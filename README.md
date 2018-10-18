@@ -40,6 +40,7 @@ LeetCode
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | c | [c++](./src/0053-Maximum-Subarray/0053.cpp) |[python](./src/0053-Maximum-Subarray/0053.py)|||Easy|
 |0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | c | [c++](./src/0054-Spiral-Matrix/0054.cpp) |[python](./src/0054-Spiral-Matrix/0054.py)|||Medium|
 |0055|[Jump Game](https://leetcode.com/problems/jump-game/) | c | [c++](./src/0055-Jump-Game/0055.cpp) |[python](./src/0055-Jump-Game/0055.py)|||Medium|
+|0059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | c | [c++](./src/0059-Spiral-Matrix-II/0059.cpp) |[python](./src/0059-Spiral-Matrix-II/0059.py)|||Hard|
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/) | c | [c++](./src/0061-Rotate-List/0061.cpp) |[python](./src/0061-Rotate-List/0061.py)|||Medium|
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) | c | [c++](./src/0062-Unique-Paths/0062.cpp) |[python](./src/0062-Unique-Paths/0062.py)|||Medium|
 |0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | c | [c++](./src/0063-Unique-Paths-II/0063.cpp) |[python](./src/0063-Unique-Paths-II/0063.py)|||Medium|
