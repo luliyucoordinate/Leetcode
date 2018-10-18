@@ -30,6 +30,6 @@ public:
 };
 int main()
 {
-    vector<int> nums = {-1};
-    cout << Solution().spiralOrder(nums);
+    vector<vector<int>> nums = {{1,2,3}}; 
+    auto result = Solution().spiralOrder(nums);
 }
