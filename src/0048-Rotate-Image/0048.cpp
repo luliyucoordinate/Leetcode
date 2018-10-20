@@ -4,18 +4,21 @@
 using namespace std;
 
 static int x = []() {std::ios::sync_with_stdio(false); cin.tie(0); return 0; }();
-class Solution {
+class Solution 
+{
 public:
     void rotate(vector<vector<int>>& matrix) 
     {
-        reverse(matrix.begin(), matrix.end());
-        for (unsigned int i = 0;i < matrix.size(); ++i)
+        unsigned int n = matrix.size();
+        for(unsigned int i = 0; i < n/2; ++i)
         {
-            for (unsigned int j = 0; j < i; ++j)
+            for(unsigned int j = i; j < n - 1 - i; ++j)
             {
-                int tmp = matrix[i][j];
-                matrix[i][j] = matrix[j][i];
-                matrix[j][i] = tmp;
+                int temp = matrix[i][j];
+                matrix[i][j] = matrix[n-1-j][i];
+                matrix[n-1-j][i] = matrix[n-1-i][n-1-j];
+                matrix[n-1-i][n-1-j] = matrix[j][n-1-i];
+                matrix[j][n-1-i] = temp;
             }
         }
     }
