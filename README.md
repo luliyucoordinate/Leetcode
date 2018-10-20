@@ -28,6 +28,7 @@ LeetCode
 |0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | c | [c++](./src/0445-Add-Two-Numbers-II/0024.cpp) |[python](./src/0445-Add-Two-Numbers-II/0024.py)|||Medium|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | c | [c++](./src/0026-Remove-Duplicates-from-Sorted-Array/0026.cpp) |[python](./src/0026-Remove-Duplicates-from-Sorted-Array/0026.py)|||Easy|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | c | [c++](./src/0027-Remove-Element/0027.cpp) |[python](./src/0027-Remove-Element/0027.py)|||Easy|
+|0031|[Next Permutation](https://leetcode.com/problems/next-permutation/) | c | [c++](./src/0031-Next-Permutation/0031.cpp) |[python](./src/0031-Next-Permutation/0031.py)|||Medium|
 |0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | c | [c++](./src/0035-Search-Insert-Position/0027.cpp) |[python](./src/0035-Search-Insert-Position/0027.py)|||Easy|
 |0039|[Combination Sum](https://leetcode.com/problems/combination-sum/) | c | [c++](./src/0039-Combination-Sum/0039.cpp) |[python](./src/0039-Combination-Sum/0039.py)|||Medium|
 |0040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | c | [c++](./src/0040-Combination-Sum-II/0040.cpp) |[python](./src/0040-Combination-Sum-II/0040.py)|||Medium|
