@@ -44,6 +44,7 @@ LeetCode
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | c | [c++](./src/0053-Maximum-Subarray/0053.cpp) |[python](./src/0053-Maximum-Subarray/0053.py)|||Easy|
 |0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | c | [c++](./src/0054-Spiral-Matrix/0054.cpp) |[python](./src/0054-Spiral-Matrix/0054.py)|||Medium|
 |0055|[Jump Game](https://leetcode.com/problems/jump-game/) | c | [c++](./src/0055-Jump-Game/0055.cpp) |[python](./src/0055-Jump-Game/0055.py)|||Medium|
+|0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | c | [c++](./src/0056-Merge-Intervals/0055.cpp) |[python](./src/0056-Merge-Intervals/0055.py)|||Medium|
 |0059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | c | [c++](./src/0059-Spiral-Matrix-II/0059.cpp) |[python](./src/0059-Spiral-Matrix-II/0059.py)|||Hard|
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/) | c | [c++](./src/0061-Rotate-List/0061.cpp) |[python](./src/0061-Rotate-List/0061.py)|||Medium|
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) | c | [c++](./src/0062-Unique-Paths/0062.cpp) |[python](./src/0062-Unique-Paths/0062.py)|||Medium|
@@ -153,3 +154,4 @@ LeetCode
 |0921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | c | [c++](./src/0921-Minimum-Add-to-Make-Parentheses-Valid/0921.cpp) |[python](./src/0921-Minimum-Add-to-Make-Parentheses-Valid/0921.py)|||Medium|
 |0922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | c | [c++](./src/0922-Sort-Array-By-Parity-II/0922.cpp) |[python](./src/0922-Sort-Array-By-Parity-II/0922.py)|||Easy|
 |0923|[3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | c | [c++](./src/0923-3Sum-With-Multiplicity/0923.cpp) |[python](./src/0923-3Sum-With-Multiplicity/0923.py)|||Medium|
+|0925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | c | [c++](./src/0925-Long-Pressed-Name/0925.cpp) |[python](./src/0925-Long-Pressed-Name/0925.py)|||Easy|
