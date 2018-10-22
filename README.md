@@ -155,3 +155,4 @@ LeetCode
 |0922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | c | [c++](./src/0922-Sort-Array-By-Parity-II/0922.cpp) |[python](./src/0922-Sort-Array-By-Parity-II/0922.py)|||Easy|
 |0923|[3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | c | [c++](./src/0923-3Sum-With-Multiplicity/0923.cpp) |[python](./src/0923-3Sum-With-Multiplicity/0923.py)|||Medium|
 |0925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | c | [c++](./src/0925-Long-Pressed-Name/0925.cpp) |[python](./src/0925-Long-Pressed-Name/0925.py)|||Easy|
+|0926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | c | [c++](./src/0926-Flip-String-to-Monotone-Increasing/0926.cpp) |[python](./src/0926-Flip-String-to-Monotone-Increasing/0926.py)|||Medium|
