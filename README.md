@@ -50,6 +50,7 @@ LeetCode
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) | c | [c++](./src/0062-Unique-Paths/0062.cpp) |[python](./src/0062-Unique-Paths/0062.py)|||Medium|
 |0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | c | [c++](./src/0063-Unique-Paths-II/0063.cpp) |[python](./src/0063-Unique-Paths-II/0063.py)|||Medium|
 |0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | c | [c++](./src/0064-Minimum-Path-Sum/0064.cpp) |[python](./src/0064-Minimum-Path-Sum/0064.py)|||Medium|
+|0066|[Plus One](https://leetcode.com/problems/plus-one/) | c | [c++](./src/0066-Plus-One/0066.cpp) |[python](./src/0066-Plus-One/0066.py)|||Easy|
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | c | [c++](./src0070-Climbing-Stairs/0070.cpp) |[python](./src/0070-Climbing-Stairs/0070.py)|||Easy|
 |0071|[Simplify Path](https://leetcode.com/problems/simplify-path/) | c | [c++](./src/0071-Simplify-Path/0071.cpp) |[python](./src/0071-Simplify-Path/0071.py)|||Medium|
 |0075|[Sort Colors](https://leetcode.com/problems/sort-colors/) | c | [c++](./src/0075-Sort-Colors/0075.cpp) |[python](./src/0075-Sort-Colors/0075.py)|||Medium|
@@ -156,3 +157,4 @@ LeetCode
 |0923|[3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | c | [c++](./src/0923-3Sum-With-Multiplicity/0923.cpp) |[python](./src/0923-3Sum-With-Multiplicity/0923.py)|||Medium|
 |0925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | c | [c++](./src/0925-Long-Pressed-Name/0925.cpp) |[python](./src/0925-Long-Pressed-Name/0925.py)|||Easy|
 |0926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | c | [c++](./src/0926-Flip-String-to-Monotone-Increasing/0926.cpp) |[python](./src/0926-Flip-String-to-Monotone-Increasing/0926.py)|||Medium|
+|0927|[Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | c | [c++](./src/0927-Three-Equal-Parts/0927.cpp) |[python](./src/0927-Three-Equal-Parts/0927.py)|||Medium|
