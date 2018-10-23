@@ -54,6 +54,7 @@ LeetCode
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | c | [c++](./src0070-Climbing-Stairs/0070.cpp) |[python](./src/0070-Climbing-Stairs/0070.py)|||Easy|
 |0071|[Simplify Path](https://leetcode.com/problems/simplify-path/) | c | [c++](./src/0071-Simplify-Path/0071.cpp) |[python](./src/0071-Simplify-Path/0071.py)|||Medium|
 |0073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | c | [c++](./src/0073-Set-Matrix-Zeroes/0073.cpp) |[python](./src/0073-Set-Matrix-Zeroes/0073.py)|||Medium|
+|0074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | c | [c++](./src/0074-Search-a-2D-Matrix/0074.cpp) |[python](./src/0074-Search-a-2D-Matrix/0074.py)|||Medium|
 |0075|[Sort Colors](https://leetcode.com/problems/sort-colors/) | c | [c++](./src/0075-Sort-Colors/0075.cpp) |[python](./src/0075-Sort-Colors/0075.py)|||Medium|
 |0076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | c | [c++](./src/0076-Minimum-Window-Substring/0076.cpp) |[python](./src/0076-Minimum-Window-Substring/0076.py)|||Easy|
 |0077|[Combinations](https://leetcode.com/problems/combinations/) | c | [c++](./src/0077-Combinations/0077.cpp) |[python](./src/0077-Combinations/0077.py)|||Medium|
