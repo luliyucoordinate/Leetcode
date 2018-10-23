@@ -1,4 +1,3 @@
-import bisect
 class Solution:
     def searchMatrix(self, matrix, target):
         """
@@ -6,12 +5,22 @@ class Solution:
         :type target: int
         :rtype: bool
         """
-        i = bisect.bisect(matrix, [target])
-        if i < len(matrix) and matrix[i][0] == target:
-            return True
-        row = matrix[i-1]
-        j = bisect.bisect_left(row, target)
-        return j < len(row) and row[j] == target
+        if not matrix:
+            return False
+        r, c = len(matrix), len(matrix[0])
+        left, right = 0, r*c
+
+        while left < right:
+            mid = (left+right)//2
+            m, n = mid//c, mid%c
+            if matrix[m][n] == target:
+                return True
+            elif matrix[m][n] < target:
+                left = mid + 1
+            else:
+                right = mid
+            
+        return False
         
 
 if __name__ == "__main__":
