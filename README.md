@@ -61,6 +61,7 @@ LeetCode
 |0078|[Subsets](https://leetcode.com/problems/subsets/) | c | [c++](./src/0078-Subsets/0078.cpp) |[python](./src/0078-Subsets/0078.py)|||Medium|
 |0079|[Word Search](https://leetcode.com/problems/word-search/) | c | [c++](./src/0079-Word-Search/0079.cpp) |[python](./src/0079-Word-Search/0079.py)|||Medium|
 |0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | c | [c++]() |[python](./src/0080-Remove-Duplicates-from-Sorted-Array-II/0080.py)|||Medium|
+|0081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | c | [c++](./src/0081-Search-in-Rotated-Sorted-Array-II/0081.py) |[python](./src/0081-Search-in-Rotated-Sorted-Array-II/0081.py)|||Medium|
 |0082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | c | [c++](./src/0082-Remove-Duplicates-from-Sorted-List-II/0082.cpp) |[python](./src/0082-Remove-Duplicates-from-Sorted-List-II/0082.py)|||Medium|
 |0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | c | [c++](./src/0083-Remove-Duplicates-from-Sorted-List/0083.cpp) |[python](./src/0083-Remove-Duplicates-from-Sorted-List/0083.py)|||Easy|
 |0086|[Partition List](https://leetcode.com/problems/partition-list/) | c | [c++](./src/0086-Partition-List/0086.cpp) |[python](./src/0086-Partition-List/0086.py)|||Medium|
