@@ -84,6 +84,7 @@ LeetCode
 |0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | c | [c++](./src/0111-Minimum-Depth-of-Binary-Tree/0111.cpp) |[python](./src/0111-Minimum-Depth-of-Binary-Tree/0111.py)|||Easy|
 |0112|[Path Sum](https://leetcode.com/problems/path-sum/) | c | [c++](./src/0112-Path-Sum/0112.cpp) |[python](./src/0112-Path-Sum/0112.py)|||Easy|
 |0113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | c | [c++](./src/0113-Path-Sum-II/0113.cpp) |[python](./src/0113-Path-Sum-II/0113.py)|||Medium|
+|0118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | c | [c++](./src/0118-Pascal's-Triangle/0118.cpp) |[python](./src/0118-Pascal's-Triangle/0118.py)|||Easy|
 |0120|[Triangle](https://leetcode.com/problems/triangle/) | c | [c++](./src/0120-Triangle/0120.cpp) |[python](./src/0120-Triangle/0120.py)|||Medium|
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | c | [c++](./src/0125-Valid-Palindrome/0125.cpp) |[python](./src/0125-Valid-Palindrome/0125.py)|||Easy|
 |0126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | c | [c++](./src/0126-Word-Ladder-II/0126.cpp) |[python](./src/0126-Word-Ladder-II/0126.py)|||Hard|
