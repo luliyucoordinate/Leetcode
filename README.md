@@ -87,6 +87,7 @@ LeetCode
 |0118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | c | [c++](./src/0118-Pascal's-Triangle/0118.cpp) |[python](./src/0118-Pascal's-Triangle/0118.py)|||Easy|
 |0119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | c | [c++](./src/0119-Pascal's-Triangle-II/0119.cpp) |[python](./src/0119-Pascal's-Triangle-II/0119.py)|||Easy|
 |0120|[Triangle](https://leetcode.com/problems/triangle/) | c | [c++](./src/0120-Triangle/0120.cpp) |[python](./src/0120-Triangle/0120.py)|||Medium|
+|0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | c | [c++](./src/0121-Best-Time-to-Buy-and-Sell-Stock/0121.cpp) |[python](./src/0121-Best-Time-to-Buy-and-Sell-Stock/0121.py)|||Medium|
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | c | [c++](./src/0125-Valid-Palindrome/0125.cpp) |[python](./src/0125-Valid-Palindrome/0125.py)|||Easy|
 |0126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | c | [c++](./src/0126-Word-Ladder-II/0126.cpp) |[python](./src/0126-Word-Ladder-II/0126.py)|||Hard|
 |0127|[Word Ladder](https://leetcode.com/problems/word-ladder/) | c | [c++](./src/0127-Word-Ladder/0127.cpp) |[python](./src/0127-Word-Ladder/0127.py)|||Medium|
