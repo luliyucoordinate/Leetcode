@@ -158,6 +158,7 @@ LeetCode
 |0455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | c | [c++](./src/0455-Assign-Cookies/0455.cpp) |[python](./src/0455-Assign-Cookies/0455.py)|||Easy|
 |0474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | c | [c++](./src/0474-Ones-and-Zeroes/0474.cpp) |[python](./src/0474-Ones-and-Zeroes/0474.py)|||Medium|
 |0494|[Target Sum](https://leetcode.com/problems/target-sum/) | c | [c++](./src/0494-Target-Sum/0494.cpp) |[python](./src/0494-Target-Sum/0494.py)|||Medium|
+|0560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | c | [c++](./src/0560-Subarray-Sum-Equals-K/0560.cpp) |[python](./src/0560-Subarray-Sum-Equals-K/0560.py)|||Medium|
 |0917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | c | [c++](./src/0917-Reverse-Only-Letters/0917.cpp) |[python](./src/0917-Reverse-Only-Letters/0917.py)|||Easy|
 |0918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | c | [c++](./src/0918-Maximum-Sum-Circular-Subarray/0918.cpp) |[python](./src/0918-Maximum-Sum-Circular-Subarray/0918.py)|||Medium|
 |0919|[Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/) | c | [c++](./src/0919-Complete-Binary-Tree-Inserter/0919.cpp) |[python](./src/0919-Complete-Binary-Tree-Inserter/0919.py)|||Medium|
@@ -169,3 +170,4 @@ LeetCode
 |0926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | c | [c++](./src/0926-Flip-String-to-Monotone-Increasing/0926.cpp) |[python](./src/0926-Flip-String-to-Monotone-Increasing/0926.py)|||Medium|
 |0927|[Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | c | [c++](./src/0927-Three-Equal-Parts/0927.cpp) |[python](./src/0927-Three-Equal-Parts/0927.py)|||Medium|
 |0929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | c | [c++](./src/0925-Long-Pressed-Name/0925.cpp) |[python](./src/0925-Long-Pressed-Name/0925.py)|||Easy|
+|0930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | c | [c++](./src/0927-Three-Equal-Parts/0927.cpp) |[python](./src/0927-Three-Equal-Parts/0927.py)|||Medium|
