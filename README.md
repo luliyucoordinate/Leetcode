@@ -89,6 +89,7 @@ LeetCode
 |0120|[Triangle](https://leetcode.com/problems/triangle/) | c | [c++](./src/0120-Triangle/0120.cpp) |[python](./src/0120-Triangle/0120.py)|||Medium|
 |0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | c | [c++](./src/0121-Best-Time-to-Buy-and-Sell-Stock/0121.cpp) |[python](./src/0121-Best-Time-to-Buy-and-Sell-Stock/0121.py)|||Easy|
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | c | [c++](./src/0122-Best-Time-to-Buy-and-Sell-Stock-II/0122.cpp) |[python](./src/0122-Best-Time-to-Buy-and-Sell-Stock-II/0122.py)|||Easy|
+|0123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | c | [c++](./src/0123-Best-Time-to-Buy-and-Sell-Stock-III/0123.cpp) |[python](./src/0123-Best-Time-to-Buy-and-Sell-Stock-III/0123.py)|||Hard|
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | c | [c++](./src/0125-Valid-Palindrome/0125.cpp) |[python](./src/0125-Valid-Palindrome/0125.py)|||Easy|
 |0126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | c | [c++](./src/0126-Word-Ladder-II/0126.cpp) |[python](./src/0126-Word-Ladder-II/0126.py)|||Hard|
 |0127|[Word Ladder](https://leetcode.com/problems/word-ladder/) | c | [c++](./src/0127-Word-Ladder/0127.cpp) |[python](./src/0127-Word-Ladder/0127.py)|||Medium|
@@ -167,3 +168,4 @@ LeetCode
 |0925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | c | [c++](./src/0925-Long-Pressed-Name/0925.cpp) |[python](./src/0925-Long-Pressed-Name/0925.py)|||Easy|
 |0926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | c | [c++](./src/0926-Flip-String-to-Monotone-Increasing/0926.cpp) |[python](./src/0926-Flip-String-to-Monotone-Increasing/0926.py)|||Medium|
 |0927|[Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | c | [c++](./src/0927-Three-Equal-Parts/0927.cpp) |[python](./src/0927-Three-Equal-Parts/0927.py)|||Medium|
+|0929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | c | [c++](./src/0925-Long-Pressed-Name/0925.cpp) |[python](./src/0925-Long-Pressed-Name/0925.py)|||Easy|
