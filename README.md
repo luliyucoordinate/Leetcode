@@ -171,3 +171,4 @@ LeetCode
 |0927|[Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | c | [c++](./src/0927-Three-Equal-Parts/0927.cpp) |[python](./src/0927-Three-Equal-Parts/0927.py)|||Medium|
 |0929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | c | [c++](./src/0925-Long-Pressed-Name/0925.cpp) |[python](./src/0925-Long-Pressed-Name/0925.py)|||Easy|
 |0930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | c | [c++](./src/0927-Three-Equal-Parts/0927.cpp) |[python](./src/0927-Three-Equal-Parts/0927.py)|||Medium|
+|0931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | c | [c++](./src/0927-Three-Equal-Parts/0927.cpp) |[python](./src/0927-Three-Equal-Parts/0927.py)|||Medium|
