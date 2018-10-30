@@ -169,6 +169,7 @@ LeetCode
 |0925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | c | [c++](./src/0925-Long-Pressed-Name/0925.cpp) |[python](./src/0925-Long-Pressed-Name/0925.py)|||Easy|
 |0926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | c | [c++](./src/0926-Flip-String-to-Monotone-Increasing/0926.cpp) |[python](./src/0926-Flip-String-to-Monotone-Increasing/0926.py)|||Medium|
 |0927|[Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | c | [c++](./src/0927-Three-Equal-Parts/0927.cpp) |[python](./src/0927-Three-Equal-Parts/0927.py)|||Medium|
-|0929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | c | [c++](./src/0925-Long-Pressed-Name/0925.cpp) |[python](./src/0925-Long-Pressed-Name/0925.py)|||Easy|
-|0930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | c | [c++](./src/0927-Three-Equal-Parts/0927.cpp) |[python](./src/0927-Three-Equal-Parts/0927.py)|||Medium|
-|0931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | c | [c++](./src/0927-Three-Equal-Parts/0927.cpp) |[python](./src/0927-Three-Equal-Parts/0927.py)|||Medium|
+|0929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | c | [c++](./src/0929-Unique-Email-Addresses/0929.cpp) |[python](./src/0929-Unique-Email-Addresses/0929.py)|||Easy|
+|0930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | c | [c++](./src/0930-Binary-Subarrays-With-Sum/0930.cpp) |[python](./src/0930-Binary-Subarrays-With-Sum/0930.py)|||Medium|
+|0931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | c | [c++](./src/0931-Minimum-Falling-Path-Sum/0931.cpp) |[python](./src/0931-Minimum-Falling-Path-Sum/0931.py)|||Medium|
+|0932|[Beautiful Array](https://leetcode.com/problems/minimum-falling-path-sum/) | c | [c++](./src/0932-Beautiful-Array/0932.cpp) |[python](./src/0932-Beautiful-Array/0932.py)|||Medium|
