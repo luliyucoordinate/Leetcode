@@ -10,15 +10,35 @@ class Solution
 public:
     int numSubarraysWithSum(vector<int>& A, int S) 
     {
-        int result = 0, cur_sum = 0;
-        unordered_map<int, int> sum_dict = {{0, 1}};
-        for (auto& num : A)
+        vector<int> zeros;
+        int result = 0, cnt = 0;
+        if (A.empty()) return result;
+        for (auto num : A)
         {
-            cur_sum += num;
-            result += sum_dict[cur_sum - S];
-            sum_dict[cur_sum]++;
+            if (num) 
+            {
+                zeros.push_back(cnt); cnt = 0;
+            }
+            else cnt++;
         }
-        return result;
+        zeros.push_back(cnt);
+        if (S)
+        {
+            for (unsigned int i = 0; i < zeros.size() - S; ++i)
+            {
+                result += (zeros[i] + 1) * (zeros[i + S] + 1);
+            }
+            return result;
+        }
+        if (S == 0)
+        {
+            for (unsigned int i = 0; i < zeros.size(); ++i)
+            {
+                if (zeros[i]) result += (zeros[i] + 1)*zeros[i];
+            }
+            result /= 2;
+            return result;
+        }
     }
 };
 int main()
