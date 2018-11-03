@@ -13,7 +13,7 @@ public:
             int mid = (high - low)/2 + low;
             if (nums[low] <= nums[mid])
             {
-                if (nums[mid] >= nums[high]) return nums[low];
+                if (nums[mid] <= nums[high]) return nums[low];
                 else low = mid + 1;
             }
             else
