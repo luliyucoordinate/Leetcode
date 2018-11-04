@@ -176,3 +176,5 @@ LeetCode
 |0930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | c | [c++](./src/0930-Binary-Subarrays-With-Sum/0930.cpp) |[python](./src/0930-Binary-Subarrays-With-Sum/0930.py)|||Medium|
 |0931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | c | [c++](./src/0931-Minimum-Falling-Path-Sum/0931.cpp) |[python](./src/0931-Minimum-Falling-Path-Sum/0931.py)|||Medium|
 |0932|[Beautiful Array](https://leetcode.com/problems/minimum-falling-path-sum/) | c | [c++](./src/0932-Beautiful-Array/0932.cpp) |[python](./src/0932-Beautiful-Array/0932.py)|||Medium|
+|0933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | c | [c++](./src/0933-Number-of-Recent-Calls/0933.cpp) |[python](./src/0933-Number-of-Recent-Calls/0933.py)|||Easy|
+|0934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | c | [c++](./src/0934-Shortest-Bridge/0934.cpp) |[python](./src/0934-Shortest-Bridge/0934.py)|||Medium|
