@@ -107,6 +107,7 @@ LeetCode
 |0152|[Maximum Product Subarray](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | c | [c++](./src/0152-Maximum-Product-Subarray/0152.cpp) |[python](./src/0152-Maximum-Product-Subarray/0152.py)|||Medium|
 |0153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | c | [c++](./src/0153-Find-Minimum-in-Rotated-Sorted-Array/0153.cpp) |[python](./src/0153-Find-Minimum-in-Rotated-Sorted-Array/0153.py)|||Medium|
 |0154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | c | [c++](./src/0154-Find-Minimum-in-Rotated-Sorted-Array-II/0154.cpp) |[python](./src/0154-Find-Minimum-in-Rotated-Sorted-Array-II/0154.py)|||Hard|
+|0162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | c | [c++](./src/0162-Find-Peak-Element/0162.cpp) |[python](./src/0162-Find-Peak-Element/0162.py)|||Medium|
 |0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | c | [c++](./src/0167-Two-Sum-II-Input-array-is-sorted/0167.cpp) |[python](./src/0167-Two-Sum-II-Input-array-is-sorted/0167.py)|||Easy|
 |0198|[House Robber](https://leetcode.com/problems/house-robber/) | c | [c++](./src/0198-House-Robber/0198.cpp) |[python](./src/0198-House-Robber/0198.py)|||Easy|
 |0199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | c | [c++](./src/0199-Binary-Tree-Right-Side-View/0199.cpp) |[python](./src/0199-Binary-Tree-Right-Side-View/0199.py)|||Medium|
@@ -178,3 +179,5 @@ LeetCode
 |0932|[Beautiful Array](https://leetcode.com/problems/minimum-falling-path-sum/) | c | [c++](./src/0932-Beautiful-Array/0932.cpp) |[python](./src/0932-Beautiful-Array/0932.py)|||Medium|
 |0933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | c | [c++](./src/0933-Number-of-Recent-Calls/0933.cpp) |[python](./src/0933-Number-of-Recent-Calls/0933.py)|||Easy|
 |0934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | c | [c++](./src/0934-Shortest-Bridge/0934.cpp) |[python](./src/0934-Shortest-Bridge/0934.py)|||Medium|
+|0935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/) | c | [c++](./src/0935-Knight-Dialer/0935.cpp) |[python](./src/0935-Knight-Dialer/0935.py)|||Medium|
+|0936|[Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) | c | [c++](./src/0936-Stamping-The-Sequence/0936.cpp) |[python](./src/0936-Stamping-The-Sequence/0936.py)|||Hard|
