@@ -109,6 +109,7 @@ LeetCode
 |0154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | c | [c++](./src/0154-Find-Minimum-in-Rotated-Sorted-Array-II/0154.cpp) |[python](./src/0154-Find-Minimum-in-Rotated-Sorted-Array-II/0154.py)|||Hard|
 |0162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | c | [c++](./src/0162-Find-Peak-Element/0162.cpp) |[python](./src/0162-Find-Peak-Element/0162.py)|||Medium|
 |0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | c | [c++](./src/0167-Two-Sum-II-Input-array-is-sorted/0167.cpp) |[python](./src/0167-Two-Sum-II-Input-array-is-sorted/0167.py)|||Easy|
+|0169|[Majority Element](https://leetcode.com/problems/majority-element/) | c | [c++](./src/0169-Majority-Element/0169.cpp) |[python](./src/0169-Majority-Element/0169.py)|||Easy|
 |0198|[House Robber](https://leetcode.com/problems/house-robber/) | c | [c++](./src/0198-House-Robber/0198.cpp) |[python](./src/0198-House-Robber/0198.py)|||Easy|
 |0199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | c | [c++](./src/0199-Binary-Tree-Right-Side-View/0199.cpp) |[python](./src/0199-Binary-Tree-Right-Side-View/0199.py)|||Medium|
 |0200|[Number of Islands](https://leetcode.com/problems/number-of-islands/) | c | [c++](./src/0200-Number-of-Islands/0200.cpp) |[python](./src/0200-Number-of-Islands/0200.py)|||Medium|
