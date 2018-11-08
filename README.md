@@ -97,6 +97,7 @@ LeetCode
 |0130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | c | [c++](./src/0130-Surrounded-Regions/0130.cpp) |[python](./src/0130-Surrounded-Regions/0130.py)|||Medium|
 |0131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | c | [c++](./src/0131-Palindrome-Partitioning/0131.cpp) |[python](./src/0131-Palindrome-Partitioning/0131.py)|||Medium|
 |0139|[Word Break](https://leetcode.com/problems/word-break/) | c | [c++](./src/0139-Word-Break/0139.cpp) |[python](./src/0139-Word-Break/0139.py)|||Medium|
+|0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | c | [c++](./src/0141-Linked-List-Cycle/0141.cpp) |[python](./src/0141-Linked-List-Cycle/0141.py)|||Easy|
 |0143|[Reorder-List](https://leetcode.com/problems/reorder-list/) | c | [c++](./src/0143-Reorder-List/0143.cpp) |[python](./src/0143-Reorder-List/0143.py)|||Medium|
 |0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | c | [c++](./src/0144-Binary-Tree-Preorder-Traversal/0144.cpp) |[python](./src/0144-Binary-Tree-Preorder-Traversal/0144.py)|||Medium|
 |0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | c | [c++](./src/0145-Binary-Tree-Postorder-Traversal/0145.cpp) |[python](./src/0145-Binary-Tree-Postorder-Traversal/0145.py)|||Hard|
@@ -139,6 +140,7 @@ LeetCode
 |0268|[Missing Number](https://leetcode.com/problems/missing-number/) | c | [c++](./src/0268-Missing-Number/0268.cpp) |[python](./src/0268-Missing-Number/0268.py)|||Easy|
 |0279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | c | [c++](./src/0279-Perfect-Squares/0279.cpp) |[python](./src/0279-Perfect-Squares/0279.py)|||Medium|
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | c | [c++](./src/0283-Move-Zeroes/0283.cpp) |[python](./src/0283-Move-Zeroes/0283.py)|||Easy|
+|0287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | c | [c++](./src/00287-Find-the-Duplicate-Number/0287.cpp) |[python](./src/0287-Find-the-Duplicate-Number/0287.py)|||Medium|
 |0290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | c | [c++](./src/0290-Word-Pattern/0290.cpp) |[python](./src/0290-Word-Pattern/0290.py)|||Easy|
 |0300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | c | [c++](./src/0300-Longest-Increasing-Subsequence/0300.cpp) |[python](./src/0300-Longest-Increasing-Subsequence/0300.py)|||Medium|
 |0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | c | [c++](./src/0309-Best-Time-to-Buy-and-Sel-Stock-with-Cooldown/0309.cpp) |[python](./src/0309-Best-Time-to-Buy-and-Sel-Stock-with-Cooldown/0309.py)|||Medium|
