@@ -98,6 +98,7 @@ LeetCode
 |0131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | c | [c++](./src/0131-Palindrome-Partitioning/0131.cpp) |[python](./src/0131-Palindrome-Partitioning/0131.py)|||Medium|
 |0139|[Word Break](https://leetcode.com/problems/word-break/) | c | [c++](./src/0139-Word-Break/0139.cpp) |[python](./src/0139-Word-Break/0139.py)|||Medium|
 |0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | c | [c++](./src/0141-Linked-List-Cycle/0141.cpp) |[python](./src/0141-Linked-List-Cycle/0141.py)|||Easy|
+|0142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | c | [c++](./src/0142-Linked-List-Cycle-II/0142.cpp) |[python](./src/0142-Linked-List-Cycle-II/0142.py)|||Medium|
 |0143|[Reorder-List](https://leetcode.com/problems/reorder-list/) | c | [c++](./src/0143-Reorder-List/0143.cpp) |[python](./src/0143-Reorder-List/0143.py)|||Medium|
 |0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | c | [c++](./src/0144-Binary-Tree-Preorder-Traversal/0144.cpp) |[python](./src/0144-Binary-Tree-Preorder-Traversal/0144.py)|||Medium|
 |0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | c | [c++](./src/0145-Binary-Tree-Postorder-Traversal/0145.cpp) |[python](./src/0145-Binary-Tree-Postorder-Traversal/0145.py)|||Hard|
