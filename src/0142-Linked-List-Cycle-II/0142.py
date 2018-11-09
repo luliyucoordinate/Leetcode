@@ -5,22 +5,23 @@ class ListNode(object):
         self.next = None
 
 class Solution:
-    def detectCycle(self, head):
+    def findDuplicate(self, nums):
         """
-        :type head: ListNode
-        :rtype: ListNode
+        :type nums: List[int]
+        :rtype: int
         """
-        if head == None:
-            return None
-
-        fast, slow, entry = head, head, head
-        while fast.next and fast.next.next:
-            slow = slow.next
-            fast = fast.next.next
-            if slow == fast:
-                while slow != entry:
-                    slow = slow.next
-                    entry = entry.next
-
-                return entry
-        return None
+        if len(nums) > 1:
+            slow = nums[0]
+            fast = nums[nums[0]]
+            while slow != fast:
+                slow = nums[slow]
+                fast = nums[nums[fast]]
+                
+            entry = 0
+            while entry != slow:
+                entry = nums[entry]
+                slow = nums[slow]
+                
+            return entry
+        
+        return -1
