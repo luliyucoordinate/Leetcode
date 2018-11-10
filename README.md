@@ -159,6 +159,7 @@ LeetCode
 |0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | c | [c++](./src/0349-Intersection-of-Two-Arrays/0349.cpp) |[python](./src/0349-Intersection-of-Two-Arrays/0349.py)|||Easy|
 |0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | c | [c++](./src/0350-Intersection-of-Two-Arrays-II/0350.cpp) |[python](./src/0350-Intersection-of-Two-Arrays-II/0350.py)|||Easy|
 |0377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | c | [c++](./src/0377-Combination-Sum-IV/0377.cpp) |[python](./src/0377-Combination-Sum-IV/0377.py)|||Medium|
+|0389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | c | [c++](./src/0389-Find-the-Difference/0389.cpp) |[python](./src/0389-Find-the-Difference/0389.py)|||Easy|
 |0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | c | [c++](./src/0392-Is-Subsequence/0392.cpp) |[python](./src/0392-Is-Subsequence/0392.py)|||Medium|
 |0401|[Binary Watch](https://leetcode.com/problems/binary-watch/) | c | [c++](./src/0401-Binary-Watch/0401.cpp) |[python](./src/0401-Binary-Watch/0401.py)|||Easy|
 |0404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | c | [c++](./src/0404-Sum-of-Left-Leaves/0404.cpp) |[python](./src/0404-Sum-of-Left-Leaves/0404.py)|||Easy|
