@@ -145,6 +145,7 @@ LeetCode
 |0279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | c | [c++](./src/0279-Perfect-Squares/0279.cpp) |[python](./src/0279-Perfect-Squares/0279.py)|||Medium|
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | c | [c++](./src/0283-Move-Zeroes/0283.cpp) |[python](./src/0283-Move-Zeroes/0283.py)|||Easy|
 |0287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | c | [c++](./src/00287-Find-the-Duplicate-Number/0287.cpp) |[python](./src/0287-Find-the-Duplicate-Number/0287.py)|||Medium|
+|0289|[Game of Life](https://leetcode.com/problems/game-of-life/) | c | [c++](./src/0289-Game-of-Life/0289.cpp) |[python](./src/0289-Game-of-Life/0289.py)|||Medium|
 |0290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | c | [c++](./src/0290-Word-Pattern/0290.cpp) |[python](./src/0290-Word-Pattern/0290.py)|||Easy|
 |0300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | c | [c++](./src/0300-Longest-Increasing-Subsequence/0300.cpp) |[python](./src/0300-Longest-Increasing-Subsequence/0300.py)|||Medium|
 |0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | c | [c++](./src/0309-Best-Time-to-Buy-and-Sel-Stock-with-Cooldown/0309.cpp) |[python](./src/0309-Best-Time-to-Buy-and-Sel-Stock-with-Cooldown/0309.py)|||Medium|
