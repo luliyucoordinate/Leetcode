@@ -8,7 +8,7 @@ LeetCode
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [c](./src/0002-Add-Two-Numbers/Add_Two_Numbers.c) | [c++](./src/0002-Add-Two-Numbers/Add_Two_Numbers.cpp) |[python](./src/0002-Add-Two-Numbers/Add_Two_Numbers.py)|[go](./src/0002-Add-Two-Numbers/Add_Two_Numbers.go)|[rust]()|Medium|
 |0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/total-hamming-distance/) | c | [c++](./src/0003-Longest-Substring-Without-Repeating-Characters/0003.cpp) |[python](./src/0003-Longest-Substring-Without-Repeating-Characters/0003.py)|||Medium|
 |0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | c | [c++](./src/0004-Median-of-Two-Sorted-Arrays/0004.cpp) |[python](./src/0004-Median-of-Two-Sorted-Arrays/0004.py)|||Hard|
-|0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | c | [c++]() |python|||Medium|
+|0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | c | [c++](./src/0005-Longest-Palindromic-Substring/0005.cpp) |[python](./src/0005-Longest-Palindromic-Substring/0005.py)|||Medium|
 |0006|[ZigZag Conversion](https://leetcode.com/problems/third-maximum-number/) | c | [c++]() |python|||Medium|
 |0007|[Reverse Integer](https://leetcode.com/problems/arithmetic-slices/) | c | [c++]() |python|||Easy|
 |0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | c | [c++]() |python|||Medium|
