@@ -84,6 +84,7 @@ LeetCode
 |0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | c | [c++](./src/0111-Minimum-Depth-of-Binary-Tree/0111.cpp) |[python](./src/0111-Minimum-Depth-of-Binary-Tree/0111.py)|||Easy|
 |0112|[Path Sum](https://leetcode.com/problems/path-sum/) | c | [c++](./src/0112-Path-Sum/0112.cpp) |[python](./src/0112-Path-Sum/0112.py)|||Easy|
 |0113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | c | [c++](./src/0113-Path-Sum-II/0113.cpp) |[python](./src/0113-Path-Sum-II/0113.py)|||Medium|
+|0115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | c | [c++](./src/0115-Distinct-Subsequences/0115.cpp) |[python](./src/0115-Distinct-Subsequences/0115.py)|||Hard|
 |0118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | c | [c++](./src/0118-Pascal's-Triangle/0118.cpp) |[python](./src/0118-Pascal's-Triangle/0118.py)|||Easy|
 |0119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | c | [c++](./src/0119-Pascal's-Triangle-II/0119.cpp) |[python](./src/0119-Pascal's-Triangle-II/0119.py)|||Easy|
 |0120|[Triangle](https://leetcode.com/problems/triangle/) | c | [c++](./src/0120-Triangle/0120.cpp) |[python](./src/0120-Triangle/0120.py)|||Medium|
@@ -198,3 +199,4 @@ LeetCode
 |0936|[Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) | c | [c++](./src/0936-Stamping-The-Sequence/0936.cpp) |[python](./src/0936-Stamping-The-Sequence/0936.py)|||Hard|
 |0937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files/) | c | [c++](./src/0937-Reorder-Log-Files/0937.cpp) |[python](./src/0937-Reorder-Log-Files/0937.py)|||Easy|
 |0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | c | [c++](./src/0938-Range-Sum-of-BST/0938.cpp) |[python](./src/0938-Range-Sum-of-BST/0938.py)|||Medium|
+|0939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | c | [c++](./src/0939-Minimum-Area-Rectangle/0939.cpp) |[python](./src/0939-Minimum-Area-Rectangle/0939.py)|||Medium|
