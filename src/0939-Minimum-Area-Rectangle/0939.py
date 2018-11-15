@@ -10,9 +10,14 @@ class Solution:
         ny = len(set(y for x, y in points))
         if nx == n or ny == n:
             return 0
+
         columns = defaultdict(list)
-        for x, y in points:
-            columns[x].append(y)
+        if nx > ny:
+            for x, y in points:
+                columns[x].append(y)
+        else:
+            for x, y in points:
+                columns[y].append(x)
 
         seen, result = {}, float('inf')
 
