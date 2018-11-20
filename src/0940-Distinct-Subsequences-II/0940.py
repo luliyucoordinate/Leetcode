@@ -4,10 +4,14 @@ class Solution:
         :type S: str
         :rtype: int
         """
-        end = [0] * 26
-        for c in S:
-            end[ord(c) - 97] = sum(end) + 1
-        return sum(end) % (10**9 + 7)
+        mem, cur_sum = {}, 1
+        for s in S:
+            old_sum = cur_sum
+            cur_sum *= 2
+            if s in mem:
+                cur_sum -= mem[s]         
+            mem[s] = old_sum
+        return (cur_sum -1) % (pow(10,9)+7)
 
 if __name__ == "__main__":
     S = "aba"
