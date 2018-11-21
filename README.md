@@ -204,4 +204,5 @@ LeetCode
 |0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | c | [c++](./src/0938-Range-Sum-of-BST/0938.cpp) |[python](./src/0938-Range-Sum-of-BST/0938.py)|||Medium|
 |0939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | c | [c++](./src/0939-Minimum-Area-Rectangle/0939.cpp) |[python](./src/0939-Minimum-Area-Rectangle/0939.py)|||Medium|
 |0940|[Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | c | [c++](./src/0940-Distinct-Subsequences-II/0940.cpp) |[python](./src/0940-Distinct-Subsequences-II/0940.py)|||Hard|
-|0941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | c | [c++](./src/0941-Valid-Mountain-Array/0941.cpp) |[python](./src/0941-Valid-Mountain-Array/0941.py)|||Hard|
+|0941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | c | [c++](./src/0941-Valid-Mountain-Array/0941.cpp) |[python](./src/0941-Valid-Mountain-Array/0941.py)|||Easy|
+|0942|[DI String Match](https://leetcode.com/problems/di-string-match/) | c | [c++](./src/0942-DI-String-Match/0942.cpp) |[python](./src/0942-DI-String-Match/0942.py)|||Easy|
