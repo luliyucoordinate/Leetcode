@@ -206,4 +206,5 @@ LeetCode
 |0940|[Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | c | [c++](./src/0940-Distinct-Subsequences-II/0940.cpp) |[python](./src/0940-Distinct-Subsequences-II/0940.py)|||Hard|
 |0941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | c | [c++](./src/0941-Valid-Mountain-Array/0941.cpp) |[python](./src/0941-Valid-Mountain-Array/0941.py)|||Easy|
 |0942|[DI String Match](https://leetcode.com/problems/di-string-match/) | c | [c++](./src/0942-DI-String-Match/0942.cpp) |[python](./src/0942-DI-String-Match/0942.py)|||Easy|
+|0943|[Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | c | [c++](./src/0943-Find-the-Shortest-Superstring/0943.cpp) |[python](./src/0943-Find-the-Shortest-Superstring/0943.py)|||Hard|
 |0944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | c | [c++](./src/0944-Delete-Columns-to-Make-Sorted/0944.cpp) |[python](./src/0944-Delete-Columns-to-Make-Sorted/0944.py)|||Easy|
