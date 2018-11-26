@@ -209,3 +209,4 @@ LeetCode
 |0943|[Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | c | [c++](./src/0943-Find-the-Shortest-Superstring/0943.cpp) |[python](./src/0943-Find-the-Shortest-Superstring/0943.py)|||Hard|
 |0944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | c | [c++](./src/0944-Delete-Columns-to-Make-Sorted/0944.cpp) |[python](./src/0944-Delete-Columns-to-Make-Sorted/0944.py)|||Easy|
 |0945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | c | [c++](./src/0945-Minimum-Increment-to-Make-Array-Unique/0945.cpp) |[python](./src/0945-Minimum-Increment-to-Make-Array-Unique/0945.py)|||Easy|
+|0946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | c | [c++](./src/0946-Validate-Stack-Sequences/0946.cpp) |[python](./src/0946-Validate-Stack-Sequences/0946.py)|||Easy|
