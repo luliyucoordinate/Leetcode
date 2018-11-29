@@ -18,5 +18,3 @@ class Solution:
                 cur -= 1
                 
         return result
-                
-                
