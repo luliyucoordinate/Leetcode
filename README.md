@@ -10,7 +10,7 @@ LeetCode
 |0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | c | [c++](./src/0004-Median-of-Two-Sorted-Arrays/0004.cpp) |[python](./src/0004-Median-of-Two-Sorted-Arrays/0004.py)|||Hard|
 |0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | c | [c++](./src/0005-Longest-Palindromic-Substring/0005.cpp) |[python](./src/0005-Longest-Palindromic-Substring/0005.py)|||Medium|
 |0006|[ZigZag Conversion](https://leetcode.com/problems/third-maximum-number/) | c | [c++](./src/0006-ZigZag-Conversion/0006.cpp) |[python](./src/0006-ZigZag-Conversion/0006.py)|||Medium|
-|0007|[Reverse Integer](https://leetcode.com/problems/arithmetic-slices/) | c | [c++]() |python|||Easy|
+|0007|[Reverse Integer](https://leetcode.com/problems/arithmetic-slices/) | c | [c++](./src/0007-Reverse-Integer/0007.cpp) |[python](./src/0007-Reverse-Integer/0007.py)|||Easy|
 |0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | c | [c++](./src/0010-Regular-Expression-Matching/0010.cpp) |[python](./src/0010-Regular-Expression-Matching/0010.py)|||Medium|
 |0009|[Palindrome Number](https://leetcode.com/problems/split-array-largest-sum/) | c | [c++]() |python|||Easy|
 |0010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | c | [c++]() |python|||Hard|
