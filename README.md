@@ -4,15 +4,15 @@ LeetCode
 
 | # | Title | c | c++ | python | go | rust | Difficulty |
 |---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-|0001|[Two Sum](https://leetcode.com/problems/two-sum) | [c](./src/0001-Two-Sum/two_sum.c) | [c++](./src/0001-Two-Sum/two_sum.cpp) |[python](./src/0001-Two-Sum/two_sum.py)|[go](./src/0001-Two-Sum/two_sum.go)|rust|Easy|
-|0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [c](./src/0002-Add-Two-Numbers/Add_Two_Numbers.c) | [c++](./src/0002-Add-Two-Numbers/Add_Two_Numbers.cpp) |[python](./src/0002-Add-Two-Numbers/Add_Two_Numbers.py)|[go](./src/0002-Add-Two-Numbers/Add_Two_Numbers.go)|[rust]()|Medium|
-|0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/total-hamming-distance/) | c | [c++](./src/0003-Longest-Substring-Without-Repeating-Characters/0003.cpp) |[python](./src/0003-Longest-Substring-Without-Repeating-Characters/0003.py)|||Medium|
+|0001|[Two Sum](https://leetcode.com/problems/two-sum/) | [c](./src/0001-Two-Sum/two_sum.c) | [c++](./src/0001-Two-Sum/two_sum.cpp) |[python](./src/0001-Two-Sum/two_sum.py)|[go](./src/0001-Two-Sum/two_sum.go)|rust|Easy|
+|0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [c](./src/0002-Add-Two-Numbers/Add_Two_Numbers.c) | [c++](./src/0002-Add-Two-Numbers/Add_Two_Numbers.cpp) |[python](./src/0002-Add-Two-Numbers/Add_Two_Numbers.py)|[go](./src/0002-Add-Two-Numbers/Add_Two_Numbers.go)|[rust]()|Medium|
+|0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | c | [c++](./src/0003-Longest-Substring-Without-Repeating-Characters/0003.cpp) |[python](./src/0003-Longest-Substring-Without-Repeating-Characters/0003.py)|||Medium|
 |0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | c | [c++](./src/0004-Median-of-Two-Sorted-Arrays/0004.cpp) |[python](./src/0004-Median-of-Two-Sorted-Arrays/0004.py)|||Hard|
 |0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | c | [c++](./src/0005-Longest-Palindromic-Substring/0005.cpp) |[python](./src/0005-Longest-Palindromic-Substring/0005.py)|||Medium|
-|0006|[ZigZag Conversion](https://leetcode.com/problems/third-maximum-number/) | c | [c++](./src/0006-ZigZag-Conversion/0006.cpp) |[python](./src/0006-ZigZag-Conversion/0006.py)|||Medium|
-|0007|[Reverse Integer](https://leetcode.com/problems/arithmetic-slices/) | c | [c++](./src/0007-Reverse-Integer/0007.cpp) |[python](./src/0007-Reverse-Integer/0007.py)|||Easy|
-|0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | c | [c++](./src/0008-String-to-Integer-(atoi)/0008.cpp) |[python](./src/0008-String-to-Integer-(atoi)/0008.py)|||Medium|
-|0009|[Palindrome Number](https://leetcode.com/problems/split-array-largest-sum/) | c | [c++]() |python|||Easy|
+|0006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | c | [c++](./src/0006-ZigZag-Conversion/0006.cpp) |[python](./src/0006-ZigZag-Conversion/0006.py)|||Medium|
+|0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | c | [c++](./src/0007-Reverse-Integer/0007.cpp) |[python](./src/0007-Reverse-Integer/0007.py)|||Easy|
+|0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | c | [c++](./src/0008-String-to-Integer-(atoi)/0008.cpp) |[python](./src/0008-String-to-Integer-(atoi)/0008.py)|||Medium|
+|0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | c | [c++](./src/0009-Palindrome-Number/0009.cpp) |[python](./src/0009-Palindrome-Number/0009.py)|||Easy|
 |0010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | c | [c++]() |python|||Hard|
 |0011|[Container With Most Water](https://leetcode.com/problems/queue-reconstruction-by-height/) | c | [c++](./src/0011-Container-With-Most-Water/0011.cpp)|[python](./src/0011-Container-With-Most-Water/0011.py)|||Medium|
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman) | c | [c++]() |python|||Medium|
