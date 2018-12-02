@@ -15,7 +15,7 @@ LeetCode
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | c | [c++](./src/0009-Palindrome-Number/0009.cpp) |[python](./src/0009-Palindrome-Number/0009.py)|||Easy|
 |0010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | c | [c++]() |python|||Hard|
 |0011|[Container With Most Water](https://leetcode.com/problems/queue-reconstruction-by-height/) | c | [c++](./src/0011-Container-With-Most-Water/0011.cpp)|[python](./src/0011-Container-With-Most-Water/0011.py)|||Medium|
-|0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman) | c | [c++]() |python|||Medium|
+|0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman) | c | [c++](./src/0012-Integer-to-Roman/0012.cpp) |[python](./src/0012-Integer-to-Roman/0012.py)|||Medium|
 |0013|[Roman to Integer](https://leetcode.com/problems/sum-of-left-leaves/) | c | [c++]() |python|||Easy|
 |0015|[3Sum](https://leetcode.com/problems/3sum/) | c | [c++](./src/0015-3Sum/0015.cpp) |[python](./src/0015-3Sum/0015.py)|||Medium|
 |0016|[3Sum Closest](https://leetcode.com/problems/3Sum-Closest/) | c | [c++](./src/0016-3Sum-Closest/0016.cpp) |[python](./src/0016-3Sum-Closest/0016.py)|||Medium|
@@ -216,3 +216,6 @@ LeetCode
 |0946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | c | [c++](./src/0946-Validate-Stack-Sequences/0946.cpp) |[python](./src/0946-Validate-Stack-Sequences/0946.py)|||Medium|
 |0947|[Most Stones Removed with Same Row or Column](https://leetcode.com/problems/validate-stack-sequences/https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | c | [c++](./src/0947-Most-Stones-Removed-with-Same-Row-or-Column/0947.cpp) |[python](./src/0947-Most-Stones-Removed-with-Same-Row-or-Column/0947.py)|||Medium|
 |0948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | c | [c++](./src/0948-Bag-of-Tokens/0948.cpp) |[python](./src/0948-Bag-of-Tokens/0948.py)|||Medium|
+|0949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | c | [c++](./src/0949-Largest-Time-for-Given-Digits/0949.cpp) |[python](./src/0949-Largest-Time-for-Given-Digits/0949.py)|||Easy|
+|0950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | c | [c++](./src/0950-Reveal-Cards-In-Increasing-Order/0950.cpp) |[python](./src/0950-Reveal-Cards-In-Increasing-Order/0950.py)|||Medium|
+|0951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | c | [c++](./src/0951-Flip-Equivalent-Binary-Trees/0951.cpp) |[python](./src/0951-Flip-Equivalent-Binary-Trees/0951.py)|||Medium|
