@@ -8,13 +8,13 @@ public:
     string longestCommonPrefix(vector<string>& strs) 
     {
         string res;
-        if(strs.size() < 1) return res;
-        for(int i = 0; i < strs[0].size(); i++)
+        if (strs.size() < 1) return res;
+        for (int i = 0; i < strs[0].size(); ++i)
         {
             char c = strs[0][i];
-            for(auto s : strs)
+            for (int j = 1; j < strs.size(); ++j)
             {
-                if(i+1 > s.size() or c != s[i]) return res;
+                if (i + 1 > strs[j].size() or c != strs[j][i]) return res;
             }
             res.push_back(c);
         }
