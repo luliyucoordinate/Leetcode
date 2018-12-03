@@ -30,7 +30,5 @@ public:
 };
 int main()
 {
-    vector<int> arr = { 3, 2, 2, 3};
-    Solution().nextPermutation(arr);
     return 0;
 }
