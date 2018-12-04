@@ -30,6 +30,7 @@ LeetCode
 |0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | c | [c++](./src/0445-Add-Two-Numbers-II/0024.cpp) |[python](./src/0445-Add-Two-Numbers-II/0024.py)|||Medium|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | c | [c++](./src/0026-Remove-Duplicates-from-Sorted-Array/0026.cpp) |[python](./src/0026-Remove-Duplicates-from-Sorted-Array/0026.py)|||Easy|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | c | [c++](./src/0027-Remove-Element/0027.cpp) |[python](./src/0027-Remove-Element/0027.py)|||Easy|
+|0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | c | [c++](./src/0028-Implement-strStr()/0028.cpp) |[python](./src/0028-Implement-strStr()/0028.py)|||Easy|
 |0031|[Next Permutation](https://leetcode.com/problems/next-permutation/) | c | [c++](./src/0031-Next-Permutation/0031.cpp) |[python](./src/0031-Next-Permutation/0031.py)|||Medium|
 |0032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | c | [c++](./src/0032-Longest-Valid-Parentheses/0032.cpp) |[python](./src/0032-Longest-Valid-Parentheses/0032.py)|||Hard|
 |0033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | c | [c++](./src/0033-Search-in-Rotated-Sorted-Array/0033.cpp) |[python](./src/0033-Search-in-Rotated-Sorted-Array/0033.py)|||Medium|
