@@ -38,6 +38,7 @@ LeetCode
 |0033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | c | [c++](./src/0033-Search-in-Rotated-Sorted-Array/0033.cpp) |[python](./src/0033-Search-in-Rotated-Sorted-Array/0033.py)|||Medium|
 |0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | c | [c++](./src/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/0034.cpp) |[python](./src/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/0034.py)|||Medium|
 |0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | c | [c++](./src/0035-Search-Insert-Position/0035.cpp) |[python](./src/0035-Search-Insert-Position/0035.py)|||Easy|
+|0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | c | [c++](./src/0036-Valid-Sudoku/0036.cpp) |[python](./src/0036-Valid-Sudoku/0036.py)|||Medium|
 |0038|[Count and Say](https://leetcode.com/problems/count-and-say/) | c | [c++](./src/0038-Count-and-Say/0038.cpp) |[python](./src/0038-Count-and-Say/0038.py)|||Easy|
 |0039|[Combination Sum](https://leetcode.com/problems/combination-sum/) | c | [c++](./src/0039-Combination-Sum/0039.cpp) |[python](./src/0039-Combination-Sum/0039.py)|||Medium|
 |0040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | c | [c++](./src/0040-Combination-Sum-II/0040.cpp) |[python](./src/0040-Combination-Sum-II/0040.py)|||Medium|
