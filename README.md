@@ -43,6 +43,7 @@ LeetCode
 |0039|[Combination Sum](https://leetcode.com/problems/combination-sum/) | c | [c++](./src/0039-Combination-Sum/0039.cpp) |[python](./src/0039-Combination-Sum/0039.py)|||Medium|
 |0040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | c | [c++](./src/0040-Combination-Sum-II/0040.cpp) |[python](./src/0040-Combination-Sum-II/0040.py)|||Medium|
 |0041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | c | [c++](./src/0041-First-Missing-Positive/0041.cpp) |[python](./src/0041-First-Missing-Positive/0041.py)|||Hard|
+|0043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) | c | [c++](./src/0043-Multiply-Strings/0043.cpp) |[python](./src/0043-Multiply-Strings/0043.py)|||Medium|
 |0044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | c | [c++](./src/0044-Wildcard-Matching/0044.cpp) |[python](./src/0044-Wildcard-Matching/0044.py)|||Hard|
 |0045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/) | c | [c++](./src/0045-Jump-Game-II/0045.cpp) |[python](./src/0045-Jump-Game-II/0045.py)|||Hard|
 |0046|[Permutations](https://leetcode.com/problems/permutations/) | c | [c++](./src/0046-Permutations/0046.cpp) |[python](./src/0046-Permutations/0046.py)|||Medium|
