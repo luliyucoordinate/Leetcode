@@ -43,6 +43,7 @@ LeetCode
 |0039|[Combination Sum](https://leetcode.com/problems/combination-sum/) | c | [c++](./src/0039-Combination-Sum/0039.cpp) |[python](./src/0039-Combination-Sum/0039.py)|||Medium|
 |0040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | c | [c++](./src/0040-Combination-Sum-II/0040.cpp) |[python](./src/0040-Combination-Sum-II/0040.py)|||Medium|
 |0041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | c | [c++](./src/0041-First-Missing-Positive/0041.cpp) |[python](./src/0041-First-Missing-Positive/0041.py)|||Hard|
+|0042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | c | [c++](./src/0042-Trapping-Rain-Water/0042.cpp) |[python](./src/0042-Trapping-Rain-Water/0042.py)|||Hard|
 |0043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) | c | [c++](./src/0043-Multiply-Strings/0043.cpp) |[python](./src/0043-Multiply-Strings/0043.py)|||Medium|
 |0044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | c | [c++](./src/0044-Wildcard-Matching/0044.cpp) |[python](./src/0044-Wildcard-Matching/0044.py)|||Hard|
 |0045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/) | c | [c++](./src/0045-Jump-Game-II/0045.cpp) |[python](./src/0045-Jump-Game-II/0045.py)|||Hard|
@@ -50,6 +51,7 @@ LeetCode
 |0047|[Permutations II](https://leetcode.com/problems/permutations-ii/) | c | [c++](./src/0047-Permutations-II/0047.cpp) |[python](./src/0047-Permutations-II/0047.py)|||Medium|
 |0048|[Rotate Image](https://leetcode.com/problems/rotate-image/) | c | [c++](./src/0048-Rotate-Image/0048.cpp) |[python](./src/0048-Rotate-Image/0048.py)|||Medium|
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | c | [c++](./src/0049-Group-Anagrams/0049.cpp) |[python](./src/0049-Group-Anagrams/0049.py)|||Medium|
+|0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | c | [c++](./src/0050-Pow(x,n)/0050.cpp) |[python](./src/0050-Pow(x,n)/0050.py)|||Medium|
 |0051|[N-Queens](https://leetcode.com/problems/n-queens/) | c | [c++](./src/0051-N-Queens/0051.cpp) |[python](./src/0051-N-Queens/0051.py)|||Hard|
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | c | [c++](./src/0053-Maximum-Subarray/0053.cpp) |[python](./src/0053-Maximum-Subarray/0053.py)|||Easy|
 |0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | c | [c++](./src/0054-Spiral-Matrix/0054.cpp) |[python](./src/0054-Spiral-Matrix/0054.py)|||Medium|
