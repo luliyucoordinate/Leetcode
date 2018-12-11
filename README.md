@@ -64,6 +64,7 @@ LeetCode
 |0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | c | [c++](./src/0063-Unique-Paths-II/0063.cpp) |[python](./src/0063-Unique-Paths-II/0063.py)|||Medium|
 |0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | c | [c++](./src/0064-Minimum-Path-Sum/0064.cpp) |[python](./src/0064-Minimum-Path-Sum/0064.py)|||Medium|
 |0066|[Plus One](https://leetcode.com/problems/plus-one/) | c | [c++](./src/0066-Plus-One/0066.cpp) |[python](./src/0066-Plus-One/0066.py)|||Easy|
+|0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | c | [c++](./src/0069-Sqrt(x)/0069.cpp) |[python](./src/0069-Sqrt(x)/0069.py)|||Easy|
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | c | [c++](./src0070-Climbing-Stairs/0070.cpp) |[python](./src/0070-Climbing-Stairs/0070.py)|||Easy|
 |0071|[Simplify Path](https://leetcode.com/problems/simplify-path/) | c | [c++](./src/0071-Simplify-Path/0071.cpp) |[python](./src/0071-Simplify-Path/0071.py)|||Medium|
 |0072|[Edit Distance](https://leetcode.com/problems/edit-distance/) | c | [c++](./src/0072-Edit-Distance/0072.cpp) |[python](./src/0072-Edit-Distance/0072.py)|||Hard|
