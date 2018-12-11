@@ -59,6 +59,7 @@ LeetCode
 |0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | c | [c++](./src/0056-Merge-Intervals/0055.cpp) |[python](./src/0056-Merge-Intervals/0055.py)|||Medium|
 |0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | c | [c++](./src/0058-Length-of-Last-Word/0058.cpp) |[python](./src/0058-Length-of-Last-Word/0058.py)|||Easy|
 |0059|[Spiral Matrix II](https://leetcode.com/problem/spiral-matrix-ii/) | c | [c++](./src/0059-Spiral-Matrix-II/0059.cpp) |[python](./src/0059-Spiral-Matrix-II/0059.py)|||Hard|
+|0060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | c | [c++](./src/0060-Permutation-Sequence/0060.cpp) |[python](./src/0060-Permutation-Sequence/0060.py)|||Medium|
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/) | c | [c++](./src/0061-Rotate-List/0061.cpp) |[python](./src/0061-Rotate-List/0061.py)|||Medium|
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) | c | [c++](./src/0062-Unique-Paths/0062.cpp) |[python](./src/0062-Unique-Paths/0062.py)|||Medium|
 |0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | c | [c++](./src/0063-Unique-Paths-II/0063.cpp) |[python](./src/0063-Unique-Paths-II/0063.py)|||Medium|
