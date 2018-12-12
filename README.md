@@ -233,3 +233,4 @@ LeetCode
 |0949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | c | [c++](./src/0949-Largest-Time-for-Given-Digits/0949.cpp) |[python](./src/0949-Largest-Time-for-Given-Digits/0949.py)|||Easy|
 |0950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | c | [c++](./src/0950-Reveal-Cards-In-Increasing-Order/0950.cpp) |[python](./src/0950-Reveal-Cards-In-Increasing-Order/0950.py)|||Medium|
 |0951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | c | [c++](./src/0951-Flip-Equivalent-Binary-Trees/0951.cpp) |[python](./src/0951-Flip-Equivalent-Binary-Trees/0951.py)|||Medium|
+|0954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | c | [c++](./src/0954-Array-of-Doubled-Pairs/0954.cpp) |[python](./src/0954-Array-of-Doubled-Pairs/0954.py)|||Medium|
