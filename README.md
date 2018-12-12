@@ -82,6 +82,7 @@ LeetCode
 |0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | c | [c++](./src/0083-Remove-Duplicates-from-Sorted-List/0083.cpp) |[python](./src/0083-Remove-Duplicates-from-Sorted-List/0083.py)|||Easy|
 |0086|[Partition List](https://leetcode.com/problems/partition-list/) | c | [c++](./src/0086-Partition-List/0086.cpp) |[python](./src/0086-Partition-List/0086.py)|||Medium|
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | c | [c++](./src/0088-Merge-Sorted-Array/0088.cpp) |[python](./src/0088-Merge-Sorted-Array/0088.py)|||Easy|
+|0089|[Gray Code](https://leetcode.com/problems/gray-code/) | c | [c++](./src/0089-Gray-Code/0089.cpp) |[python](./src/0089-Gray-Code/0089.py)|||Medium|
 |0090|[Subsets II](https://leetcode.com/problems/subsets-ii/) | c | [c++](./src/0090-Subsets-II/0090.cpp) |[python](./src/0090-Subsets-II/0090.py)|||Medium|
 |0091|[Decode Ways](https://leetcode.com/problems/decode-ways/) | c | [c++](./src/0091-Decode-Ways/0091.cpp) |[python](./src/0091-Decode-Ways/0091.py)|||Medium|
 |0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | c | [c++](./src/0092-Reverse-Linked-List-II/0092.cpp) |[python](./src/0092-Reverse-Linked-List-II/0092.py)|||Medium|
