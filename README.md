@@ -39,6 +39,7 @@ LeetCode
 |0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | c | [c++](./src/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/0034.cpp) |[python](./src/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/0034.py)|||Medium|
 |0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | c | [c++](./src/0035-Search-Insert-Position/0035.cpp) |[python](./src/0035-Search-Insert-Position/0035.py)|||Easy|
 |0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | c | [c++](./src/0036-Valid-Sudoku/0036.cpp) |[python](./src/0036-Valid-Sudoku/0036.py)|||Medium|
+|0037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | c | [c++](./src/0037-Sudoku-Solver/0037.cpp) |[python](./src/0037-Sudoku-Solver/0037.py)|||Hard|
 |0038|[Count and Say](https://leetcode.com/problems/count-and-say/) | c | [c++](./src/0038-Count-and-Say/0038.cpp) |[python](./src/0038-Count-and-Say/0038.py)|||Easy|
 |0039|[Combination Sum](https://leetcode.com/problems/combination-sum/) | c | [c++](./src/0039-Combination-Sum/0039.cpp) |[python](./src/0039-Combination-Sum/0039.py)|||Medium|
 |0040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | c | [c++](./src/0040-Combination-Sum-II/0040.cpp) |[python](./src/0040-Combination-Sum-II/0040.py)|||Medium|
@@ -53,6 +54,7 @@ LeetCode
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | c | [c++](./src/0049-Group-Anagrams/0049.cpp) |[python](./src/0049-Group-Anagrams/0049.py)|||Medium|
 |0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | c | [c++](./src/0050-Pow(x,n)/0050.cpp) |[python](./src/0050-Pow(x,n)/0050.py)|||Medium|
 |0051|[N-Queens](https://leetcode.com/problems/n-queens/) | c | [c++](./src/0051-N-Queens/0051.cpp) |[python](./src/0051-N-Queens/0051.py)|||Hard|
+|0052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/) | c | [c++](./src/0052-N-Queens-II/0052.cpp) |[python](./src/0052-N-Queens-II/0052.py)|||Hard|
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | c | [c++](./src/0053-Maximum-Subarray/0053.cpp) |[python](./src/0053-Maximum-Subarray/0053.py)|||Easy|
 |0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | c | [c++](./src/0054-Spiral-Matrix/0054.cpp) |[python](./src/0054-Spiral-Matrix/0054.py)|||Medium|
 |0055|[Jump Game](https://leetcode.com/problems/jump-game/) | c | [c++](./src/0055-Jump-Game/0055.cpp) |[python](./src/0055-Jump-Game/0055.py)|||Medium|
@@ -234,3 +236,4 @@ LeetCode
 |0950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | c | [c++](./src/0950-Reveal-Cards-In-Increasing-Order/0950.cpp) |[python](./src/0950-Reveal-Cards-In-Increasing-Order/0950.py)|||Medium|
 |0951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | c | [c++](./src/0951-Flip-Equivalent-Binary-Trees/0951.cpp) |[python](./src/0951-Flip-Equivalent-Binary-Trees/0951.py)|||Medium|
 |0954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | c | [c++](./src/0954-Array-of-Doubled-Pairs/0954.cpp) |[python](./src/0954-Array-of-Doubled-Pairs/0954.py)|||Medium|
+|0955|[Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | c | [c++](./src/0955-Delete-Columns-to-Make-Sorted-II/0955.cpp) |[python](./src/0955-Delete-Columns-to-Make-Sorted-II/0955.py)|||Medium|
