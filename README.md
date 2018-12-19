@@ -85,6 +85,7 @@ LeetCode
 |0081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | c | [c++](./src/0081-Search-in-Rotated-Sorted-Array-II/0081.py) |[python](./src/0081-Search-in-Rotated-Sorted-Array-II/0081.py)|||Medium|
 |0082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | c | [c++](./src/0082-Remove-Duplicates-from-Sorted-List-II/0082.cpp) |[python](./src/0082-Remove-Duplicates-from-Sorted-List-II/0082.py)|||Medium|
 |0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | c | [c++](./src/0083-Remove-Duplicates-from-Sorted-List/0083.cpp) |[python](./src/0083-Remove-Duplicates-from-Sorted-List/0083.py)|||Easy|
+|0084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | c | [c++](./src/0084-Largest-Rectangle-in-Histogram/0084.cpp) |[python](./src/0084-Largest-Rectangle-in-Histogram/0084.py)|||Hard|
 |0086|[Partition List](https://leetcode.com/problems/partition-list/) | c | [c++](./src/0086-Partition-List/0086.cpp) |[python](./src/0086-Partition-List/0086.py)|||Medium|
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | c | [c++](./src/0088-Merge-Sorted-Array/0088.cpp) |[python](./src/0088-Merge-Sorted-Array/0088.py)|||Easy|
 |0089|[Gray Code](https://leetcode.com/problems/gray-code/) | c | [c++](./src/0089-Gray-Code/0089.cpp) |[python](./src/0089-Gray-Code/0089.py)|||Medium|
@@ -241,3 +242,4 @@ LeetCode
 |0953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | c | [c++](./src/0953-Verifying-an-Alien-Dictionary/0953.cpp) |[python](./src/0953-Verifying-an-Alien-Dictionary/0953.py)|||Easy|
 |0954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | c | [c++](./src/0954-Array-of-Doubled-Pairs/0954.cpp) |[python](./src/0954-Array-of-Doubled-Pairs/0954.py)|||Medium|
 |0955|[Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | c | [c++](./src/0955-Delete-Columns-to-Make-Sorted-II/0955.cpp) |[python](./src/0955-Delete-Columns-to-Make-Sorted-II/0955.py)|||Medium|
+|0956|[Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | c | [c++](./src/0956-Tallest-Billboard/0956.cpp) |[python](./src/0956-Tallest-Billboard/0956.py)|||Hard|
