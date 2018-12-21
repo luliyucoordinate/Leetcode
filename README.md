@@ -101,6 +101,7 @@ LeetCode
 |0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | c | [c++](./src/0098-Validate-Binary-Search-Tree/0098.cpp) |[python](./src/0098-Validate-Binary-Search-Tree/0098.py)|||Medium|
 |0099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | c | [c++](./src/0087-Scramble-String/0087.cpp) |[python](./src/0087-Scramble-String/0087.py)|||Hard|
 |0100|[Same Tree](https://leetcode.com/problems/same-tree/) | c | [c++](./src/0100-Same-Tree/0100.cpp) |[python](./src/0100-Same-Tree/0100.py)|||Easy|
+|0101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | c | [c++](./src/0101-Symmetric-Tree/0101.cpp) |[python](./src/0101-Symmetric-Tree/0101.py)|||Easy|
 |0102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | c | [c++](./src/0102-Binary-Tree-Level-Order-Traversal/0102.cpp) |[python](./src/0102-Binary-Tree-Level-Order-Traversal/0102.py)|||Medium|
 |0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | c | [c++](./src/0103-Binary-Tree-Zigzag-Level-Order-Traversal/0103.cpp) |[python](./src/0103-Binary-Tree-Zigzag-Level-Order-Traversal/0103.py)|||Medium|
 |0104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | c | [c++](./src/0104-Maximum-Depth-of-Binary-Tree/0104.cpp) |[python](./src/0104-Maximum-Depth-of-Binary-Tree/0104.py)|||Easy|
