@@ -99,6 +99,7 @@ LeetCode
 |0096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | c | [c++](./src/0096-Unique-Binary-Search-Trees/0096.cpp) |[python](./src/0096-Unique-Binary-Search-Trees/0096.py)|||Medium|
 |0097|[Interleaving String](https://leetcode.com/problems/interleaving-string/) | c | [c++](./src/0097-Interleaving-String/0097.cpp) |[python](./src/0097-Interleaving-String/0097.py)|||Medium|
 |0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | c | [c++](./src/0098-Validate-Binary-Search-Tree/0098.cpp) |[python](./src/0098-Validate-Binary-Search-Tree/0098.py)|||Medium|
+|0099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | c | [c++](./src/0087-Scramble-String/0087.cpp) |[python](./src/0087-Scramble-String/0087.py)|||Hard|
 |0100|[Same Tree](https://leetcode.com/problems/same-tree/) | c | [c++](./src/0100-Same-Tree/0100.cpp) |[python](./src/0100-Same-Tree/0100.py)|||Easy|
 |0102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | c | [c++](./src/0102-Binary-Tree-Level-Order-Traversal/0102.cpp) |[python](./src/0102-Binary-Tree-Level-Order-Traversal/0102.py)|||Medium|
 |0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | c | [c++](./src/0103-Binary-Tree-Zigzag-Level-Order-Traversal/0103.cpp) |[python](./src/0103-Binary-Tree-Zigzag-Level-Order-Traversal/0103.py)|||Medium|
