@@ -117,6 +117,7 @@ LeetCode
 |0113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | c | [c++](./src/0113-Path-Sum-II/0113.cpp) |[python](./src/0113-Path-Sum-II/0113.py)|||Medium|
 |0114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | c | [c++](./src/0114-Flatten-Binary-Tree-to-Linked-List/0114.cpp) |[python](./src/0114-Flatten-Binary-Tree-to-Linked-List/0114.py)|||Medium|
 |0115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | c | [c++](./src/0115-Distinct-Subsequences/0115.cpp) |[python](./src/0115-Distinct-Subsequences/0115.py)|||Hard|
+|0116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | c | [c++](./src/0116-Populating-Next-Right-Pointers-in-Each-Node/0116.cpp) |[python](./src/0116-Populating-Next-Right-Pointers-in-Each-Node/0116.py)|||Medium|
 |0118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | c | [c++](./src/0118-Pascal's-Triangle/0118.cpp) |[python](./src/0118-Pascal's-Triangle/0118.py)|||Easy|
 |0119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | c | [c++](./src/0119-Pascal's-Triangle-II/0119.cpp) |[python](./src/0119-Pascal's-Triangle-II/0119.py)|||Easy|
 |0120|[Triangle](https://leetcode.com/problems/triangle/) | c | [c++](./src/0120-Triangle/0120.cpp) |[python](./src/0120-Triangle/0120.py)|||Medium|
@@ -249,3 +250,4 @@ LeetCode
 |0954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | c | [c++](./src/0954-Array-of-Doubled-Pairs/0954.cpp) |[python](./src/0954-Array-of-Doubled-Pairs/0954.py)|||Medium|
 |0955|[Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | c | [c++](./src/0955-Delete-Columns-to-Make-Sorted-II/0955.cpp) |[python](./src/0955-Delete-Columns-to-Make-Sorted-II/0955.py)|||Medium|
 |0956|[Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | c | [c++](./src/0956-Tallest-Billboard/0956.cpp) |[python](./src/0956-Tallest-Billboard/0956.py)|||Hard|
+|0961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | c | [c++](./src/0961-N-Repeated-Element-in-Size-2N-Array/0961.cpp) |[python](./src/0961-N-Repeated-Element-in-Size-2N-Array/0961.py)|||Easy|
