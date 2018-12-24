@@ -251,3 +251,4 @@ LeetCode
 |0955|[Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | c | [c++](./src/0955-Delete-Columns-to-Make-Sorted-II/0955.cpp) |[python](./src/0955-Delete-Columns-to-Make-Sorted-II/0955.py)|||Medium|
 |0956|[Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | c | [c++](./src/0956-Tallest-Billboard/0956.cpp) |[python](./src/0956-Tallest-Billboard/0956.py)|||Hard|
 |0961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | c | [c++](./src/0961-N-Repeated-Element-in-Size-2N-Array/0961.cpp) |[python](./src/0961-N-Repeated-Element-in-Size-2N-Array/0961.py)|||Easy|
+|0962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | c | [c++](./src/0962-Maximum-Width-Ramp/0962.cpp) |[python](./src/0962-Maximum-Width-Ramp/0962.py)|||Medium|
