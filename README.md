@@ -250,5 +250,7 @@ LeetCode
 |0954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | c | [c++](./src/0954-Array-of-Doubled-Pairs/0954.cpp) |[python](./src/0954-Array-of-Doubled-Pairs/0954.py)|||Medium|
 |0955|[Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | c | [c++](./src/0955-Delete-Columns-to-Make-Sorted-II/0955.cpp) |[python](./src/0955-Delete-Columns-to-Make-Sorted-II/0955.py)|||Medium|
 |0956|[Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | c | [c++](./src/0956-Tallest-Billboard/0956.cpp) |[python](./src/0956-Tallest-Billboard/0956.py)|||Hard|
+|0957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | c | [c++](./src/0957-Prison-Cells-After-N-Days/0957.cpp) |[python](./src/0957-Prison-Cells-After-N-Days/0957.py)|||Medium|
 |0961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | c | [c++](./src/0961-N-Repeated-Element-in-Size-2N-Array/0961.cpp) |[python](./src/0961-N-Repeated-Element-in-Size-2N-Array/0961.py)|||Easy|
 |0962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | c | [c++](./src/0962-Maximum-Width-Ramp/0962.cpp) |[python](./src/0962-Maximum-Width-Ramp/0962.py)|||Medium|
+|0963|[Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/) | c | [c++](./src/0963-Minimum-Area-Rectangle-II/0963.cpp) |[python](./src/0963-Minimum-Area-Rectangle-II/0963.py)|||Medium|
