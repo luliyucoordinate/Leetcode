@@ -135,9 +135,10 @@ LeetCode
 |0131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | c | [c++](./src/0131-Palindrome-Partitioning/0131.cpp) |[python](./src/0131-Palindrome-Partitioning/0131.py)|||Medium|
 |0132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning/) | c | [c++](./src/0131-Palindrome-Partitioning/0131.cpp) |[python](./src/0131-Palindrome-Partitioning/0131.py)|||Medium|
 |0134|[Gas Station](https://leetcode.com/problems/gas-station/) | c | [c++](./src/0134-Gas-Station/0134.cpp) |[python](./src/0134-Gas-Station/0134.py)|||Medium|
-|0135|[Candy](https://leetcode.com/problems/gas-station/) | c | [c++](./src/0134-Gas-Station/0134.cpp) |[python](./src/0134-Gas-Station/0134.py)|||Medium|
+|0135|[Candy](https://leetcode.com/problems/gas-station/) | c | [c++](./src/0134-Gas-Station/0134.cpp) |[python](./src/0134-Gas-Station/0134.py)|||Hard|
 |0136|[Single Number](https://leetcode.com/problems/single-number/) | c | [c++](./src/0136-Single-Number/0136.cpp) |[python](./src/0136-Single-Number/0136.py)|||Easy|
 |0137|[Single Number II](https://leetcode.com/problems/single-number-ii/) | c | [c++](./src/0137-Single-Number-II/0137.cpp) |[python](./src/0137-Single-Number-II/0137.py)|||Medium|
+|0138|[Copy List with Random Pointer](https://leetcode.com/problems/single-number-ii/) | c | [c++](./src/0137-Single-Number-II/0137.cpp) |[python](./src/0137-Single-Number-II/0137.py)|||Medium|
 |0139|[Word Break](https://leetcode.com/problems/word-break/) | c | [c++](./src/0139-Word-Break/0139.cpp) |[python](./src/0139-Word-Break/0139.py)|||Medium|
 |0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | c | [c++](./src/0141-Linked-List-Cycle/0141.cpp) |[python](./src/0141-Linked-List-Cycle/0141.py)|||Easy|
 |0142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | c | [c++](./src/0142-Linked-List-Cycle-II/0142.cpp) |[python](./src/0142-Linked-List-Cycle-II/0142.py)|||Medium|
@@ -152,6 +153,7 @@ LeetCode
 |0152|[Maximum Product Subarray](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | c | [c++](./src/0152-Maximum-Product-Subarray/0152.cpp) |[python](./src/0152-Maximum-Product-Subarray/0152.py)|||Medium|
 |0153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | c | [c++](./src/0153-Find-Minimum-in-Rotated-Sorted-Array/0153.cpp) |[python](./src/0153-Find-Minimum-in-Rotated-Sorted-Array/0153.py)|||Medium|
 |0154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | c | [c++](./src/0154-Find-Minimum-in-Rotated-Sorted-Array-II/0154.cpp) |[python](./src/0154-Find-Minimum-in-Rotated-Sorted-Array-II/0154.py)|||Hard|
+|0155|[Min Stack](https://leetcode.com/problems/min-stack/) | c | [c++](./src/0155-Min-Stack/0155.cpp) |[python](./src/0155-Min-Stack/0155.py)|||Easy|
 |0162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | c | [c++](./src/0162-Find-Peak-Element/0162.cpp) |[python](./src/0162-Find-Peak-Element/0162.py)|||Medium|
 |0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | c | [c++](./src/0167-Two-Sum-II-Input-array-is-sorted/0167.cpp) |[python](./src/0167-Two-Sum-II-Input-array-is-sorted/0167.py)|||Easy|
 |0169|[Majority Element](https://leetcode.com/problems/majority-element/) | c | [c++](./src/0169-Majority-Element/0169.cpp) |[python](./src/0169-Majority-Element/0169.py)|||Easy|
