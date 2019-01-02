@@ -135,6 +135,7 @@ LeetCode
 |0131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | c | [c++](./src/0131-Palindrome-Partitioning/0131.cpp) |[python](./src/0131-Palindrome-Partitioning/0131.py)|||Medium|
 |0132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning/) | c | [c++](./src/0131-Palindrome-Partitioning/0131.cpp) |[python](./src/0131-Palindrome-Partitioning/0131.py)|||Medium|
 |0134|[Gas Station](https://leetcode.com/problems/gas-station/) | c | [c++](./src/0134-Gas-Station/0134.cpp) |[python](./src/0134-Gas-Station/0134.py)|||Medium|
+|0135|[Candy](https://leetcode.com/problems/gas-station/) | c | [c++](./src/0134-Gas-Station/0134.cpp) |[python](./src/0134-Gas-Station/0134.py)|||Medium|
 |0136|[Single Number](https://leetcode.com/problems/single-number/) | c | [c++](./src/0136-Single-Number/0136.cpp) |[python](./src/0136-Single-Number/0136.py)|||Easy|
 |0137|[Single Number II](https://leetcode.com/problems/single-number-ii/) | c | [c++](./src/0137-Single-Number-II/0137.cpp) |[python](./src/0137-Single-Number-II/0137.py)|||Medium|
 |0139|[Word Break](https://leetcode.com/problems/word-break/) | c | [c++](./src/0139-Word-Break/0139.cpp) |[python](./src/0139-Word-Break/0139.py)|||Medium|
