@@ -160,6 +160,8 @@ LeetCode
 |0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | c | [c++](./src/0167-Two-Sum-II-Input-array-is-sorted/0167.cpp) |[python](./src/0167-Two-Sum-II-Input-array-is-sorted/0167.py)|||Easy|
 |0168|[Excel Sheet Column Title](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | c | [c++](./src/0168-Excel-Sheet-Column-Title/0168.cpp) |[python](./src/0168-Excel-Sheet-Column-Title/0168.py)|||Easy|
 |0169|[Majority Element](https://leetcode.com/problems/majority-element/) | c | [c++](./src/0169-Majority-Element/0169.cpp) |[python](./src/0169-Majority-Element/0169.py)|||Easy|
+|0171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | c | [c++](./src/0171-Excel-Sheet-Column-Number/0171.cpp) |[python](./src/0171-Excel-Sheet-Column-Number/0171.py)|||Easy|
+|0172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | c | [c++](./src/0172-Factorial-Trailing-Zeroes/0172.cpp) |[python](./src/0172-Factorial-Trailing-Zeroes/0172.py)|||Easy|
 |0189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | c | [c++](./src/0189-Rotate-Array/0189.cpp) |[python](./src/0189-Rotate-Array/0189.py)|||Easy|
 |0198|[House Robber](https://leetcode.com/problems/house-robber/) | c | [c++](./src/0198-House-Robber/0198.cpp) |[python](./src/0198-House-Robber/0198.py)|||Easy|
 |0199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | c | [c++](./src/0199-Binary-Tree-Right-Side-View/0199.cpp) |[python](./src/0199-Binary-Tree-Right-Side-View/0199.py)|||Medium|
