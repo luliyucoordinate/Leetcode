@@ -146,6 +146,7 @@ LeetCode
 |0143|[Reorder-List](https://leetcode.com/problems/reorder-list/) | c | [c++](./src/0143-Reorder-List/0143.cpp) |[python](./src/0143-Reorder-List/0143.py)|||Medium|
 |0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | c | [c++](./src/0144-Binary-Tree-Preorder-Traversal/0144.cpp) |[python](./src/0144-Binary-Tree-Preorder-Traversal/0144.py)|||Medium|
 |0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | c | [c++](./src/0145-Binary-Tree-Postorder-Traversal/0145.cpp) |[python](./src/0145-Binary-Tree-Postorder-Traversal/0145.py)|||Hard|
+|0146|[LRU Cache](https://leetcode.com/problems/lru-cache/) | c | [c++](./src/0146-LRU-Cache/0146.cpp) |[python](./src/0146-LRU-Cache/0146.py)|||Hard|
 |0147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | c | [c++](./src/0147-Insertion-Sort-List/0147.cpp) |[python](./src/0147-Insertion-Sort-List/0147.py)|||Medium|
 |0148|[Sort List](https://leetcode.com/problems/sort-list/) | c | [c++](./src/0148-Sort-List/0148.cpp) |[python](./src/0148-Sort-List/0148.py)|||Medium|
 |0149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | c | [c++](./src/0149-Max-Points-on-a-Line/0149.cpp) |[python](./src/0149-Max-Points-on-a-Line/0149.py)|||Hard|
