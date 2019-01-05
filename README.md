@@ -277,3 +277,4 @@ LeetCode
 |0963|[Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/) | c | [c++](./src/0963-Minimum-Area-Rectangle-II/0963.cpp) |[python](./src/0963-Minimum-Area-Rectangle-II/0963.py)|||Medium|
 |0965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | c | [c++](./src/0965-Univalued-Binary-Tree/0965.cpp) |[python](./src/0965-Univalued-Binary-Tree/0965.py)|||Easy|
 |0966|[Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | c | [c++](./src/0966-Vowel-Spellchecker/0966.cpp) |[python](./src/0966-Vowel-Spellchecker/0966.py)|||Medium|
+|0967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | c | [c++](./src/0967-Numbers-With-Same-Consecutive-Differences/0967.cpp) |[python](./src/0967-Numbers-With-Same-Consecutive-Differences/0967.py)|||Medium|
