@@ -141,6 +141,7 @@ LeetCode
 |0137|[Single Number II](https://leetcode.com/problems/single-number-ii/) | c | [c++](./src/0137-Single-Number-II/0137.cpp) |[python](./src/0137-Single-Number-II/0137.py)|||Medium|
 |0138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | c | [c++](./src/0138-Copy-List-with-Random-Pointer/0138.cpp) |[python](./src/0138-Copy-List-with-Random-Pointer/0138.py)|||Medium|
 |0139|[Word Break](https://leetcode.com/problems/word-break/) | c | [c++](./src/0139-Word-Break/0139.cpp) |[python](./src/0139-Word-Break/0139.py)|||Medium|
+|0140|[Word Break II](https://leetcode.com/problems/word-break-ii/) | c | [c++](./src/0139-Word-Break/0139.cpp) |[python](./src/0139-Word-Break/0139.py)|||Medium|
 |0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | c | [c++](./src/0141-Linked-List-Cycle/0141.cpp) |[python](./src/0141-Linked-List-Cycle/0141.py)|||Easy|
 |0142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | c | [c++](./src/0142-Linked-List-Cycle-II/0142.cpp) |[python](./src/0142-Linked-List-Cycle-II/0142.py)|||Medium|
 |0143|[Reorder-List](https://leetcode.com/problems/reorder-list/) | c | [c++](./src/0143-Reorder-List/0143.cpp) |[python](./src/0143-Reorder-List/0143.py)|||Medium|
