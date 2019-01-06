@@ -278,4 +278,5 @@ LeetCode
 |0965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | c | [c++](./src/0965-Univalued-Binary-Tree/0965.cpp) |[python](./src/0965-Univalued-Binary-Tree/0965.py)|||Easy|
 |0966|[Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | c | [c++](./src/0966-Vowel-Spellchecker/0966.cpp) |[python](./src/0966-Vowel-Spellchecker/0966.py)|||Medium|
 |0967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | c | [c++](./src/0967-Numbers-With-Same-Consecutive-Differences/0967.cpp) |[python](./src/0967-Numbers-With-Same-Consecutive-Differences/0967.py)|||Medium|
+|0969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | c | [c++](./src/0969-Pancake-Sorting/0969.cpp) |[python](./src/0969-Pancake-Sorting/0969.py)|||Medium|
 |0970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/) | c | [c++](./src/0970-Powerful-Integers/0970.cpp) |[python](./src/0970-Powerful-Integers/0970.py)|||Easy|
