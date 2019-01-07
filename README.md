@@ -280,3 +280,5 @@ LeetCode
 |0967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | c | [c++](./src/0967-Numbers-With-Same-Consecutive-Differences/0967.cpp) |[python](./src/0967-Numbers-With-Same-Consecutive-Differences/0967.py)|||Medium|
 |0969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | c | [c++](./src/0969-Pancake-Sorting/0969.cpp) |[python](./src/0969-Pancake-Sorting/0969.py)|||Medium|
 |0970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/) | c | [c++](./src/0970-Powerful-Integers/0970.cpp) |[python](./src/0970-Powerful-Integers/0970.py)|||Easy|
+|0971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | c | [c++](./src/0971-Flip Binary-Tree-To-Match-Preorder-Traversal/0971.cpp) |[python](./src/0971-Flip Binary-Tree-To-Match-Preorder-Traversal/0971.py)|||Medium|
+|0972|[Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | c | [c++](./src/0972-Equal-Rational-Numbers/0972.cpp) |[python](./src/0972-Equal-Rational-Numbers/0972.py)|||Hard|
