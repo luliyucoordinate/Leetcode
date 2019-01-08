@@ -170,8 +170,10 @@ LeetCode
 |0198|[House Robber](https://leetcode.com/problems/house-robber/) | c | [c++](./src/0198-House-Robber/0198.cpp) |[python](./src/0198-House-Robber/0198.py)|||Easy|
 |0199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | c | [c++](./src/0199-Binary-Tree-Right-Side-View/0199.cpp) |[python](./src/0199-Binary-Tree-Right-Side-View/0199.py)|||Medium|
 |0200|[Number of Islands](https://leetcode.com/problems/number-of-islands/) | c | [c++](./src/0200-Number-of-Islands/0200.cpp) |[python](./src/0200-Number-of-Islands/0200.py)|||Medium|
+|0201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | c | [c++](./src/0201-Bitwise-AND-of-Numbers-Range/0201.cpp) |[python](./src/0201-Bitwise-AND-of-Numbers-Range/0201.py)|||Medium|
 |0202|[Happy Number](https://leetcode.com/problems/happy-number/) | c | [c++](./src/0202-Happy-Number/0202.cpp) |[python](./src/0202-Happy-Number/0202.py)|||Easy|
 |0203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | c | [c++](./src/0203-Remove-Linked-List-Elements/0203.cpp) |[python](./src/0203-Remove-Linked-List-Elements/0203.py)|||Easy|
+|0204|[Count Primes](https://leetcode.com/problems/remove-linked-list-elements/) | c | [c++](./src/0204-Count-Primes/0204.cpp) |[python](./src/0204-Count-Primes/0204.py)|||Easy|
 |0205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | c | [c++](./src/0205-Isomorphic-Strings/0205.cpp) |[python](./src/0205-Isomorphic-Strings/0205.py)|||Easy|
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | c | [c++](./src/0206-Reverse-Linked-List/0206.cpp) |[python](./src/0206-Reverse-Linked-List/0206.py)|||Easy|
 |0209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | c | [c++](./src/0209-Minimum-Size-Subarray-Sum/0209.cpp) |[python](./src/0209-Minimum-Size-Subarray-Sum/0209.py)|||Medium|
@@ -280,5 +282,5 @@ LeetCode
 |0967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | c | [c++](./src/0967-Numbers-With-Same-Consecutive-Differences/0967.cpp) |[python](./src/0967-Numbers-With-Same-Consecutive-Differences/0967.py)|||Medium|
 |0969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | c | [c++](./src/0969-Pancake-Sorting/0969.cpp) |[python](./src/0969-Pancake-Sorting/0969.py)|||Medium|
 |0970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/) | c | [c++](./src/0970-Powerful-Integers/0970.cpp) |[python](./src/0970-Powerful-Integers/0970.py)|||Easy|
-|0971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | c | [c++](./src/0971-Flip Binary-Tree-To-Match-Preorder-Traversal/0971.cpp) |[python](./src/0971-Flip Binary-Tree-To-Match-Preorder-Traversal/0971.py)|||Medium|
+|0971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | c | [c++](./src/0971-Flip-Binary-Tree-To-Match-Preorder-Traversal/0971.cpp) |[python](./src/0971-Flip-Binary-Tree-To-Match-Preorder-Traversal/0971.py)|||Medium|
 |0972|[Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | c | [c++](./src/0972-Equal-Rational-Numbers/0972.cpp) |[python](./src/0972-Equal-Rational-Numbers/0972.py)|||Hard|
