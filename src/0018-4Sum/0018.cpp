@@ -1,43 +1,40 @@
-class Solution {
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+static int x = []() {std::ios::sync_with_stdio(false); cin.tie(0); return 0; }();
+class Solution 
+{
 public:
-    vector<vector<int>> fourSum(vector<int>& nums, int target) {
-        if (nums.size() < 4)
-            return {};
+    vector<vector<int>> fourSum(vector<int>& nums, int target) 
+    {
+        if (nums.size() < 4) return {};
+        vector<vector<int>> res;
+        sort(nums.begin(), nums.end());
         
-        std::sort(nums.begin(), nums.end());
-
-        std::unordered_map<long long, std::vector<std::pair<int, int>>> um;
-        for (int i = nums.size() - 1; i > 0; --i)
+        for (int i = 0; i < nums.size() - 3; ++i)
         {
-            if (i < nums.size() - 1 && nums[i] == nums[i + 1])
-                continue;
-            for (int j = i - 1; j >= 0; --j)
+            if (nums[i] << 2 > target) break;
+            if (i > 0 and nums[i] == nums[i-1]) continue;
+            for (int j = nums.size() - 1; j > i + 2; --j)
             {
-                if (i - j > 1 && nums[j] == nums[j + 1])
-                    continue;
-                um[nums[i] + nums[j]].push_back({j, i});
+                if (nums[j] << 2 < target) break;
+                if (j < nums.size() - 1 and nums[j] == nums[j+1]) continue;
+                int l = i + 1, r = j -1;
+                while (l < r)
+                {
+                    if (target == nums[i] + nums[j] + nums[l] + nums[r])
+                    {
+                        res.push_back({nums[i], nums[l], nums[r], nums[j]});
+                        while (l < r and nums[l] == nums[l+1]) ++l;
+                        while (l < r and nums[r] == nums[r-1]) --r;
+                        ++l; --r;
+                    }
+                    else if (target > nums[i] + nums[j] + nums[l] + nums[r]) ++l;
+                    else --r;
+                }
             }
         }
-
-        std::vector<std::vector<int>> ret;
-        for (unsigned i = 0; i < nums.size() - 3; ++i)
-        {
-            if (i > 0 && nums[i] == nums[i - 1])
-                continue;
-            for (unsigned j = i + 1; j < nums.size() - 2; ++j)
-            {
-                if (j - i > 1 && nums[j] == nums[j - 1])
-                    continue;
-                long long s = static_cast<long long>(nums[i]) + nums[j];
-                auto it = um.find(target - s);
-                if (it == um.end())
-                    continue;
-                for (auto p : it->second)
-                    if (p.first > j)
-                        ret.push_back({nums[i], nums[j], nums[p.first], nums[p.second]});
-            }
-        }
-        
-        return ret;
+        return res;
     }
 };
