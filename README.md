@@ -164,7 +164,8 @@ LeetCode
 |0169|[Majority Element](https://leetcode.com/problems/majority-element/) | c | [c++](./src/0169-Majority-Element/0169.cpp) |[python](./src/0169-Majority-Element/0169.py)|||Easy|
 |0171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | c | [c++](./src/0171-Excel-Sheet-Column-Number/0171.cpp) |[python](./src/0171-Excel-Sheet-Column-Number/0171.py)|||Easy|
 |0172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | c | [c++](./src/0172-Factorial-Trailing-Zeroes/0172.cpp) |[python](./src/0172-Factorial-Trailing-Zeroes/0172.py)|||Easy|
-|0173|[Binary Search Tree Iterator](https://leetcode.com/problems/factorial-trailing-zeroes/) | c | [c++](./src/0172-Factorial-Trailing-Zeroes/0172.cpp) |[python](./src/0172-Factorial-Trailing-Zeroes/0172.py)|||Easy|
+|0173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | c | [c++](./src/0173-Binary-Search-Tree-Iterator/0173.cpp) |[python](./src/0173-Binary-Search-Tree-Iterator/0173.py)|||Medium|
+|0174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | c | [c++](./src/0174-Dungeon-Game/0174.cpp) |[python](./src/0174-Dungeon-Game/0174.py)|||Hard|
 |0189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | c | [c++](./src/0189-Rotate-Array/0189.cpp) |[python](./src/0189-Rotate-Array/0189.py)|||Easy|
 |0190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | c | [c++](./src/0190-Reverse-Bits/0190.cpp) |[python](./src/0190-Reverse-Bits/0190.py)|||Easy|
 |0191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | c | [c++](./src/0191-Number-of-1-Bits/0191.cpp) |[python](./src/0191-Number-of-1-Bits/0191.py)|||Easy|
@@ -204,6 +205,7 @@ LeetCode
 |0289|[Game of Life](https://leetcode.com/problems/game-of-life/) | c | [c++](./src/0289-Game-of-Life/0289.cpp) |[python](./src/0289-Game-of-Life/0289.py)|||Medium|
 |0290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | c | [c++](./src/0290-Word-Pattern/0290.cpp) |[python](./src/0290-Word-Pattern/0290.py)|||Easy|
 |0300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | c | [c++](./src/0300-Longest-Increasing-Subsequence/0300.cpp) |[python](./src/0300-Longest-Increasing-Subsequence/0300.py)|||Medium|
+|0303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | c | [c++](./src/0303-Range-Sum-Query-Immutable/0303.cpp) |[python](./src/0303-Range-Sum-Query-Immutable/0303.py)|||Easy|
 |0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | c | [c++](./src/0309-Best-Time-to-Buy-and-Sel-Stock-with-Cooldown/0309.cpp) |[python](./src/0309-Best-Time-to-Buy-and-Sel-Stock-with-Cooldown/0309.py)|||Medium|
 |0322|[0322-Coin-Change](https://leetcode.com/problems/coin-change/) | c | [c++](./src/0322-Coin-Change/0322.cpp) |[python](./src/0322-Coin-Change/0322.py)|||Medium|
 |0328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | c | [c++](./src/0328-Odd-Even-Linked-List/0328.cpp) |[python](./src/0328-Odd-Even-Linked-List/0328.py)|||Medium|
