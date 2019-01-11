@@ -166,6 +166,7 @@ LeetCode
 |0172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | c | [c++](./src/0172-Factorial-Trailing-Zeroes/0172.cpp) |[python](./src/0172-Factorial-Trailing-Zeroes/0172.py)|||Easy|
 |0173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | c | [c++](./src/0173-Binary-Search-Tree-Iterator/0173.cpp) |[python](./src/0173-Binary-Search-Tree-Iterator/0173.py)|||Medium|
 |0174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | c | [c++](./src/0174-Dungeon-Game/0174.cpp) |[python](./src/0174-Dungeon-Game/0174.py)|||Hard|
+|0187|[Repeated-DNA-Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | c | [c++](./src/0187-Repeated-DNA-Sequences/0187.cpp) |[python](./src/0187-Repeated-DNA-Sequences/0187.py)|||Medium|
 |0188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | c | [c++](./src/0188-Best-Time-to-Buy-and-Sell-Stock-IV/0188.cpp) |[python](./src/0188-Best-Time-to-Buy-and-Sell-Stock-IV/0188.py)|||Hard|
 |0189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | c | [c++](./src/0189-Rotate-Array/0189.cpp) |[python](./src/0189-Rotate-Array/0189.py)|||Easy|
 |0190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | c | [c++](./src/0190-Reverse-Bits/0190.cpp) |[python](./src/0190-Reverse-Bits/0190.py)|||Easy|
