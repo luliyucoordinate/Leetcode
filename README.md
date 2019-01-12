@@ -180,7 +180,7 @@ LeetCode
 |0204|[Count Primes](https://leetcode.com/problems/remove-linked-list-elements/) | c | [c++](./src/0204-Count-Primes/0204.cpp) |[python](./src/0204-Count-Primes/0204.py)|||Easy|
 |0205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | c | [c++](./src/0205-Isomorphic-Strings/0205.cpp) |[python](./src/0205-Isomorphic-Strings/0205.py)|||Easy|
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | c | [c++](./src/0206-Reverse-Linked-List/0206.cpp) |[python](./src/0206-Reverse-Linked-List/0206.py)|||Easy|
-|0208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | c | [c++](./src/0208-Implement-Trie-(Prefix Tree)/0208.cpp) |[python](./src/0208-Implement-Trie-(Prefix Tree)/0208.py)|||Easy|
+|0208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | c | [c++](./src/0208-Implement-Trie-(Prefix-Tree)/0208.cpp) |[python](./src/0208-Implement-Trie-(Prefix-Tree)/0208.py)|||Easy|
 |0209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | c | [c++](./src/0209-Minimum-Size-Subarray-Sum/0209.cpp) |[python](./src/0209-Minimum-Size-Subarray-Sum/0209.py)|||Medium|
 |0213|[House Robber II](https://leetcode.com/problems/house-robber-ii/) | c | [c++](./src/0213-House-Robber-II/0213.cpp) |[python](./src/0213-House-Robber-II/0213.py)|||Medium|
 |0215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | c | [c++](./src/0215-Kth-Largest-Element-in-an-Array/0215.cpp) |[python](./src/0215-Kth-Largest-Element-in-an-Array/0215.py)|||Medium|
