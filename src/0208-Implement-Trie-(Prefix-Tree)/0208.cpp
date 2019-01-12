@@ -3,14 +3,14 @@ static int x = []() {std::ios::sync_with_stdio(false); cin.tie(0); return 0; }()
 class Node 
 {
 public:
-    Node()  : _isWord(false){}
+    Node()  : isWord(false){}
     ~Node()
     {
         for (const auto& item : _next) delete item.second; 
     }
 
-    bool _isWord;
-    unordered_map<char, Node*> _next;
+    bool isWord;
+    unordered_map<char, Node*> next;
 };
 
 class Trie 
@@ -26,17 +26,17 @@ public:
         auto cur = _root;
         for (auto c : word)
         {
-            if (!(cur->_next).count(c)) cur->_next[c] = new Node();
-            cur = cur->_next[c];
+            if (!(cur->next).count(c)) cur->next[c] = new Node();
+            cur = cur->next[c];
         }
-        if (!cur->_isWord) cur->_isWord = true;
+        if (!cur->isWord) cur->isWord = true;
     }
     
     /** Returns if the word is in the trie. */
     bool search(string word) 
     {
         auto cur = _search(word);
-        return cur != nullptr and cur->_isWord;
+        return cur != nullptr and cur->isWord;
     }
     
     /** Returns if there is any word in the trie that starts with the given prefix. */
@@ -52,8 +52,8 @@ private:
         auto cur = _root;
         for (auto c : word)
         {
-            if (!cur->_next.count(c)) return nullptr;
-            cur = cur->_next[c];
+            if (!cur->next.count(c)) return nullptr;
+            cur = cur->next[c];
         }
         return cur;
     }
