@@ -13,7 +13,7 @@ LeetCode
 |0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | c | [c++](./src/0007-Reverse-Integer/0007.cpp) |[python](./src/0007-Reverse-Integer/0007.py)|||Easy|
 |0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | c | [c++](./src/0008-String-to-Integer-(atoi)/0008.cpp) |[python](./src/0008-String-to-Integer-(atoi)/0008.py)|||Medium|
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | c | [c++](./src/0009-Palindrome-Number/0009.cpp) |[python](./src/0009-Palindrome-Number/0009.py)|||Easy|
-|0010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | c | [c++](./src/0010-Regular-Expression-Matching/0010.cpp) |[python](.src/0010-Regular-Expression-Matching/0010.py)|||Hard|
+|0010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | c | [c++](./src/0010-Regular-Expression-Matching/0010.cpp) |[python](./src/0010-Regular-Expression-Matching/0010.py)|||Hard|
 |0011|[Container With Most Water](https://leetcode.com/problems/queue-reconstruction-by-height/) | c | [c++](./src/0011-Container-With-Most-Water/0011.cpp)|[python](./src/0011-Container-With-Most-Water/0011.py)|||Medium|
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman) | c | [c++](./src/0012-Integer-to-Roman/0012.cpp) |[python](./src/0012-Integer-to-Roman/0012.py)|||Medium|
 |0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | c | [c++](./src/0013-Roman-to-Integer/0013.cpp) |[python](./src/0013-Roman-to-Integer/0013.py)|||Easy|
@@ -160,6 +160,7 @@ LeetCode
 |0160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | c | [c++](./src/0160-Intersection-of-Two-Linked-Lists/0160.cpp) |[python](./src/0160-Intersection-of-Two-Linked-Lists/0160.py)|||Easy|
 |0162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | c | [c++](./src/0162-Find-Peak-Element/0162.cpp) |[python](./src/0162-Find-Peak-Element/0162.py)|||Medium|
 |0165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | c | [c++](./src/0165-Compare-Version-Numbers/0165.cpp) |[python](./src/0165-Compare-Version-Numbers/0165.py)|||Medium|
+|0166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | c | [c++](./src/0166-Fraction-to-Recurring-Decimal66/0166.cpp) |[python](./src/0166-Fraction-to-Recurring-Decimal/0166.py)|||Medium|
 |0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | c | [c++](./src/0167-Two-Sum-II-Input-array-is-sorted/0167.cpp) |[python](./src/0167-Two-Sum-II-Input-array-is-sorted/0167.py)|||Easy|
 |0168|[Excel Sheet Column Title](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | c | [c++](./src/0168-Excel-Sheet-Column-Title/0168.cpp) |[python](./src/0168-Excel-Sheet-Column-Title/0168.py)|||Easy|
 |0169|[Majority Element](https://leetcode.com/problems/majority-element/) | c | [c++](./src/0169-Majority-Element/0169.cpp) |[python](./src/0169-Majority-Element/0169.py)|||Easy|
