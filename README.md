@@ -296,4 +296,5 @@ LeetCode
 |0970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/) | c | [c++](./src/0970-Powerful-Integers/0970.cpp) |[python](./src/0970-Powerful-Integers/0970.py)|||Easy|
 |0971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | c | [c++](./src/0971-Flip-Binary-Tree-To-Match-Preorder-Traversal/0971.cpp) |[python](./src/0971-Flip-Binary-Tree-To-Match-Preorder-Traversal/0971.py)|||Medium|
 |0972|[Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | c | [c++](./src/0972-Equal-Rational-Numbers/0972.cpp) |[python](./src/0972-Equal-Rational-Numbers/0972.py)|||Hard|
+|0973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | c | [c++](./src/0973-K-Closest-Points-to-Origin/0973.cpp) |[python](./src/0973-K-Closest-Points-to-Origin/0973.py)|||Easy|
 |0974|[Subarray Sums Divisible by K](https://leetcode.com/problems/equal-rational-numbers/) | c | [c++](./src/0974-Subarray-Sums-Divisible-by-K/0974.cpp) |[python](./src/0974-Subarray-Sums-Divisible-by-K/0974.py)|||Medium|
