@@ -244,6 +244,7 @@ LeetCode
 |0494|[Target Sum](https://leetcode.com/problems/target-sum/) | c | [c++](./src/0494-Target-Sum/0494.cpp) |[python](./src/0494-Target-Sum/0494.py)|||Medium|
 |0525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/) | c | [c++](./src/0525-Contiguous-Array/0525.cpp) |[python](./src/0525-Contiguous-Array/0525.py)|||Medium|
 |0560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | c | [c++](./src/0560-Subarray-Sum-Equals-K/0560.cpp) |[python](./src/0560-Subarray-Sum-Equals-K/0560.py)|||Medium|
+|0739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | c | [c++](./src/0739-Daily-Temperatures/0739.cpp) |[python](./src/0739-Daily-Temperatures/0739.py)|||Medium|
 |0852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | c | [c++](./src/0852-Peak-Index-in-a-Mountain-Array/0852.cpp) |[python](./src/0852-Peak-Index-in-a-Mountain-Array/0852.py)|||Easy|
 |0917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | c | [c++](./src/0917-Reverse-Only-Letters/0917.cpp) |[python](./src/0917-Reverse-Only-Letters/0917.py)|||Easy|
 |0918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | c | [c++](./src/0918-Maximum-Sum-Circular-Subarray/0918.cpp) |[python](./src/0918-Maximum-Sum-Circular-Subarray/0918.py)|||Medium|
@@ -298,4 +299,5 @@ LeetCode
 |0972|[Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | c | [c++](./src/0972-Equal-Rational-Numbers/0972.cpp) |[python](./src/0972-Equal-Rational-Numbers/0972.py)|||Hard|
 |0973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | c | [c++](./src/0973-K-Closest-Points-to-Origin/0973.cpp) |[python](./src/0973-K-Closest-Points-to-Origin/0973.py)|||Easy|
 |0974|[Subarray Sums Divisible by K](https://leetcode.com/problems/equal-rational-numbers/) | c | [c++](./src/0974-Subarray-Sums-Divisible-by-K/0974.cpp) |[python](./src/0974-Subarray-Sums-Divisible-by-K/0974.py)|||Medium|
+|0975|[Odd Even Jump](https://leetcode.com/problems/odd-even-jump/) | c | [c++](./src/0975-Odd-Even-Jump/0975.cpp) |[python](./src/0975-Odd-Even-Jump/0975.py)|||Hard|
 |0976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | c | [c++](./src/0976-Largest-Perimeter-Triangle/0976.cpp) |[python](./src/0976-Largest-Perimeter-Triangle/0976.py)|||Easy|
