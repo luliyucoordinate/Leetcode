@@ -243,6 +243,7 @@ LeetCode
 |0474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | c | [c++](./src/0474-Ones-and-Zeroes/0474.cpp) |[python](./src/0474-Ones-and-Zeroes/0474.py)|||Medium|
 |0494|[Target Sum](https://leetcode.com/problems/target-sum/) | c | [c++](./src/0494-Target-Sum/0494.cpp) |[python](./src/0494-Target-Sum/0494.py)|||Medium|
 |0496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | c | [c++](./src/0496-Next-Greater-Element-I/0496.cpp) |[python](./src/0496-Next-Greater-Element-I/0496.py)|||Easy|
+|0503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-i/) | c | [c++](./src/0503-Next-Greater-Element-II/0503.cpp) |[python](./src/0503-Next-Greater-Element-II/0503.py)|||Medium|
 |0525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/) | c | [c++](./src/0525-Contiguous-Array/0525.cpp) |[python](./src/0525-Contiguous-Array/0525.py)|||Medium|
 |0560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | c | [c++](./src/0560-Subarray-Sum-Equals-K/0560.cpp) |[python](./src/0560-Subarray-Sum-Equals-K/0560.py)|||Medium|
 |0739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | c | [c++](./src/0739-Daily-Temperatures/0739.cpp) |[python](./src/0739-Daily-Temperatures/0739.py)|||Medium|
