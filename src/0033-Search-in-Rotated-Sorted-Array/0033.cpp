@@ -17,13 +17,13 @@ public:
             if (nums[low] <= nums[mid])
             {
                 if (nums[low] <= target and target <= nums[mid])
-                    high = mid - 1;
+                    high = mid;
                 else low = mid + 1;
             }
             else
             {
                 if (nums[mid] <= target and target <= nums[high])
-                    low = mid + 1;
+                    low = mid;
                 else high = mid - 1;
             }
         }
