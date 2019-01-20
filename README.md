@@ -200,6 +200,7 @@ LeetCode
 |0236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | c | [c++](./src/0236-Lowest-Common-Ancestor-of-a-Binary-Tree/0236.cpp) |[python](./src/0236-Lowest-Common-Ancestor-of-a-Binary-Tree/0236.py)|||Medium|
 |0237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | c | [c++](./src/0237-Delete-Node-in-a-Linked-List/0237.cpp) |[python](./src/0237-Delete-Node-in-a-Linked-List/0237.py)|||Easy|
 |0238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | c | [c++](./src/0238-Product-of-Array-Except-Self/0238.cpp) |[python](./src/0238-Product-of-Array-Except-Self/0238.py)|||Medium|
+|0239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | c | [c++](./src/0238-Product-of-Array-Except-Self/0238.cpp) |[python](./src/0238-Product-of-Array-Except-Self/0238.py)|||Medium|
 |0241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | c | [c++](./src/0241-Different-Ways-to-Add-Parentheses/0241.cpp) |[python](./src/0241-Different-Ways-to-Add-Parentheses/0241.py)|||Medium|
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | c | [c++](./src/0242-Valid-Anagram/0242.cpp) |[python](./src/0242-Valid-Anagram/0242.py)|||Easy|
 |0242|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | c | [c++](./src/0257-Binary-Tree-Paths/0257.cpp) |[python](./src/0257-Binary-Tree-Paths/0257.py)|||Easy|
@@ -305,3 +306,4 @@ LeetCode
 |0974|[Subarray Sums Divisible by K](https://leetcode.com/problems/equal-rational-numbers/) | c | [c++](./src/0974-Subarray-Sums-Divisible-by-K/0974.cpp) |[python](./src/0974-Subarray-Sums-Divisible-by-K/0974.py)|||Medium|
 |0975|[Odd Even Jump](https://leetcode.com/problems/odd-even-jump/) | c | [c++](./src/0975-Odd-Even-Jump/0975.cpp) |[python](./src/0975-Odd-Even-Jump/0975.py)|||Hard|
 |0976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | c | [c++](./src/0976-Largest-Perimeter-Triangle/0976.cpp) |[python](./src/0976-Largest-Perimeter-Triangle/0976.py)|||Easy|
+|0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | c | [c++](./src/0977-Squares-of-a-Sorted-Array/0977.cpp) |[python](./src/0977-Squares-of-a-Sorted-Array/0977.py)|||Easy|
