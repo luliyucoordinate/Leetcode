@@ -248,6 +248,7 @@ LeetCode
 |0525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/) | c | [c++](./src/0525-Contiguous-Array/0525.cpp) |[python](./src/0525-Contiguous-Array/0525.py)|||Medium|
 |0560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | c | [c++](./src/0560-Subarray-Sum-Equals-K/0560.cpp) |[python](./src/0560-Subarray-Sum-Equals-K/0560.py)|||Medium|
 |0739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | c | [c++](./src/0739-Daily-Temperatures/0739.cpp) |[python](./src/0739-Daily-Temperatures/0739.py)|||Medium|
+|0834|[Sum of Distances in Tree](https://leetcode.com/problems/daily-temperatures/) | c | [c++](./src/0834-Sum-of-Distances-in-Tree/0834.cpp) |[python](./src/0834-Sum-of-Distances-in-Tree/0834.py)|||Hard|
 |0852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | c | [c++](./src/0852-Peak-Index-in-a-Mountain-Array/0852.cpp) |[python](./src/0852-Peak-Index-in-a-Mountain-Array/0852.py)|||Easy|
 |0901|[Online-Stock-Span](https://leetcode.com/problems/online-stock-span/) | c | [c++](./src/0901-Online-Stock-Span/0901.cpp) |[python](./src/0901-Online-Stock-Span/0901.py)|||Medium|
 |0907|[Sum-of-Subarray-Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | c | [c++](./src/0907-Sum-of-Subarray-Minimums/0907.cpp) |[python](./src/0907-Sum-of-Subarray-Minimums/0907.py)|||Medium|
@@ -307,3 +308,4 @@ LeetCode
 |0975|[Odd Even Jump](https://leetcode.com/problems/odd-even-jump/) | c | [c++](./src/0975-Odd-Even-Jump/0975.cpp) |[python](./src/0975-Odd-Even-Jump/0975.py)|||Hard|
 |0976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | c | [c++](./src/0976-Largest-Perimeter-Triangle/0976.cpp) |[python](./src/0976-Largest-Perimeter-Triangle/0976.py)|||Easy|
 |0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | c | [c++](./src/0977-Squares-of-a-Sorted-Array/0977.cpp) |[python](./src/0977-Squares-of-a-Sorted-Array/0977.py)|||Easy|
+|0978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | c | [c++](./src/0978-Longest-Turbulent-Subarray/0978.cpp) |[python](./src/0978-Longest-Turbulent-Subarray/0978.py)|||Medium|
