@@ -309,3 +309,4 @@ LeetCode
 |0976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | c | [c++](./src/0976-Largest-Perimeter-Triangle/0976.cpp) |[python](./src/0976-Largest-Perimeter-Triangle/0976.py)|||Easy|
 |0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | c | [c++](./src/0977-Squares-of-a-Sorted-Array/0977.cpp) |[python](./src/0977-Squares-of-a-Sorted-Array/0977.py)|||Easy|
 |0978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | c | [c++](./src/0978-Longest-Turbulent-Subarray/0978.cpp) |[python](./src/0978-Longest-Turbulent-Subarray/0978.py)|||Medium|
+|0979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | c | [c++](./src/0979-Distribute-Coins-in-Binary-Tree/0979.cpp) |[python](./src/0979-Distribute-Coins-in-Binary-Tree/0979.py)|||Medium|
