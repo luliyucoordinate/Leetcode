@@ -24,7 +24,7 @@ private:
             res.push_back(path);
             return;
         }
-        if (!path.empty() and target < *(path.end() - 1)) return;
+        if (!path.empty() and target < *(path.rbegin())) return;
         for (unsigned int i = index; i < candidates.size(); ++i)
         {
             path.push_back(candidates[i]);
