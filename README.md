@@ -312,5 +312,6 @@ LeetCode
 |0979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | c | [c++](./src/0979-Distribute-Coins-in-Binary-Tree/0979.cpp) |[python](./src/0979-Distribute-Coins-in-Binary-Tree/0979.py)|||Medium|
 |0980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | c | [c++](./src/0980-Unique-Paths-III/0980.cpp) |[python](./src/0980-Unique-Paths-III/0980.py)|||Medium|
 |0981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | c | [c++](./src/0981-Time-Based-Key-Value-Store/0981.cpp) |[python](./src/0981-Time-Based-Key-Value-Store/0981.py)|||Medium|
+|0982|[Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | c | [c++](./src/0982-Triples-with-Bitwise-AND-Equal-To-Zero/0982.cpp) |[python](./src/0982-Triples-with-Bitwise-AND-Equal-To-Zero/0982.py)|||Hard|
 |0983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | c | [c++](./src/0983-Minimum-Cost-For-Tickets/0983.cpp) |[python](./src/0983-Minimum-Cost-For-Tickets/0983.py)|||Medium|
 |0984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | c | [c++](./src/0984-String-Without-AAA-or-BBB/0984.cpp) |[python](./src/0984-String-Without-AAA-or-BBB/0984.py)|||Easy|
