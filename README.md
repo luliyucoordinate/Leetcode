@@ -315,3 +315,4 @@ LeetCode
 |0982|[Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | c | [c++](./src/0982-Triples-with-Bitwise-AND-Equal-To-Zero/0982.cpp) |[python](./src/0982-Triples-with-Bitwise-AND-Equal-To-Zero/0982.py)|||Hard|
 |0983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | c | [c++](./src/0983-Minimum-Cost-For-Tickets/0983.cpp) |[python](./src/0983-Minimum-Cost-For-Tickets/0983.py)|||Medium|
 |0984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | c | [c++](./src/0984-String-Without-AAA-or-BBB/0984.cpp) |[python](./src/0984-String-Without-AAA-or-BBB/0984.py)|||Easy|
+|0985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | c | [c++](./src/0985-Sum-of-Even-Numbers-After-Queries/0985.cpp) |[python](./src/0985-Sum-of-Even-Numbers-After-Queries/0985.py)|||Easy|
