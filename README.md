@@ -247,6 +247,7 @@ LeetCode
 |0503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-i/) | c | [c++](./src/0503-Next-Greater-Element-II/0503.cpp) |[python](./src/0503-Next-Greater-Element-II/0503.py)|||Medium|
 |0525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/) | c | [c++](./src/0525-Contiguous-Array/0525.cpp) |[python](./src/0525-Contiguous-Array/0525.py)|||Medium|
 |0560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | c | [c++](./src/0560-Subarray-Sum-Equals-K/0560.cpp) |[python](./src/0560-Subarray-Sum-Equals-K/0560.py)|||Medium|
+|0684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | c | [c++](./src/0684-Redundant-Connection/0684.cpp) |[python](./src/0684-Redundant-Connection/0684.py)|||Medium|
 |0739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | c | [c++](./src/0739-Daily-Temperatures/0739.cpp) |[python](./src/0739-Daily-Temperatures/0739.py)|||Medium|
 |0834|[Sum of Distances in Tree](https://leetcode.com/problems/daily-temperatures/) | c | [c++](./src/0834-Sum-of-Distances-in-Tree/0834.cpp) |[python](./src/0834-Sum-of-Distances-in-Tree/0834.py)|||Hard|
 |0852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | c | [c++](./src/0852-Peak-Index-in-a-Mountain-Array/0852.cpp) |[python](./src/0852-Peak-Index-in-a-Mountain-Array/0852.py)|||Easy|
