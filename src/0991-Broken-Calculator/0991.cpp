@@ -4,12 +4,7 @@ class Solution
 public:
     int brokenCalc(int X, int Y) 
     {
-        int res = 0;
-        while (X < Y)
-        {
-            res += (Y % 2) + 1;
-            Y = (Y + 1) / 2;
-        }
-        return res + X - Y;
+        if (X >= Y) return X - Y;
+        return 1 + brokenCalc(X, Y % 2 ? Y + 1: Y / 2);
     }
 };

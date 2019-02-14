@@ -1,7 +1,5 @@
 class Solution:
     def brokenCalc(self, X: 'int', Y: 'int') -> 'int':
-        res = 0
-        while X < Y:
-            res += Y % 2 + 1
-            Y = (Y + 1) // 2
-        return res + X - Y
+        if X >= Y:
+            return X - Y
+        return 1 + self.brokenCalc(X, Y + 1 if Y % 2 else Y // 2)
