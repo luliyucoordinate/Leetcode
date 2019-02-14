@@ -250,6 +250,7 @@ LeetCode
 |0560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | c | [c++](./src/0560-Subarray-Sum-Equals-K/0560.cpp) |[python](./src/0560-Subarray-Sum-Equals-K/0560.py)|||Medium|
 |0684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | c | [c++](./src/0684-Redundant-Connection/0684.cpp) |[python](./src/0684-Redundant-Connection/0684.py)|||Medium|
 |0739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | c | [c++](./src/0739-Daily-Temperatures/0739.cpp) |[python](./src/0739-Daily-Temperatures/0739.py)|||Medium|
+|0793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) | c | [c++](./src/0793-Preimage-Size-of-Factorial-Zeroes-Function/0793.cpp) |[python](./src/0793-Preimage-Size-of-Factorial-Zeroes-Function/0793.py)|||Hard|
 |0834|[Sum of Distances in Tree](https://leetcode.com/problems/daily-temperatures/) | c | [c++](./src/0834-Sum-of-Distances-in-Tree/0834.cpp) |[python](./src/0834-Sum-of-Distances-in-Tree/0834.py)|||Hard|
 |0852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | c | [c++](./src/0852-Peak-Index-in-a-Mountain-Array/0852.cpp) |[python](./src/0852-Peak-Index-in-a-Mountain-Array/0852.py)|||Easy|
 |0901|[Online-Stock-Span](https://leetcode.com/problems/online-stock-span/) | c | [c++](./src/0901-Online-Stock-Span/0901.cpp) |[python](./src/0901-Online-Stock-Span/0901.py)|||Medium|
@@ -324,3 +325,4 @@ LeetCode
 |0989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | c | [c++](./src/0989-Add-to-Array-Form-of-Integer/0989.cpp) |[python](./src/0989-Add-to-Array-Form-of-Integer/0989.py)|||Easy|
 |0990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | c | [c++](./src/0990-Satisfiability-of-Equality-Equations/0990.cpp) |[python](./src/0990-Satisfiability-of-Equality-Equations/0990.py)|||Medium|
 |0991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/) | c | [c++](./src/0991-Broken-Calculator/0991.cpp) |[python](./src/0991-Broken-Calculator/0991.py)|||Medium|
+|0992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | c | [c++](./src/0992-Subarrays-with-K-Different-Integers/0992.cpp) |[python](./src/0992-Subarrays-with-K-Different-Integers/0992.py)|||Hard|
