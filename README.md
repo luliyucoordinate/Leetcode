@@ -211,6 +211,7 @@ LeetCode
 |0287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | c | [c++](./src/00287-Find-the-Duplicate-Number/0287.cpp) |[python](./src/0287-Find-the-Duplicate-Number/0287.py)|||Medium|
 |0289|[Game of Life](https://leetcode.com/problems/game-of-life/) | c | [c++](./src/0289-Game-of-Life/0289.cpp) |[python](./src/0289-Game-of-Life/0289.py)|||Medium|
 |0290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | c | [c++](./src/0290-Word-Pattern/0290.cpp) |[python](./src/0290-Word-Pattern/0290.py)|||Easy|
+|0297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | c | [c++](./src/0297-Serialize-and-Deserialize-Binary-Tree/0297.cpp) |[python](./src/0297-Serialize-and-Deserialize-Binary-Tree/0297.py)|||Hard|
 |0300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | c | [c++](./src/0300-Longest-Increasing-Subsequence/0300.cpp) |[python](./src/0300-Longest-Increasing-Subsequence/0300.py)|||Medium|
 |0303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | c | [c++](./src/0303-Range-Sum-Query-Immutable/0303.cpp) |[python](./src/0303-Range-Sum-Query-Immutable/0303.py)|||Easy|
 |0307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | c | [c++](./src/0307-Range-Sum-Query-Mutable/0307.cpp) |[python](./src/0307-Range-Sum-Query-Mutable/0307.py)|||Medium|
@@ -242,6 +243,7 @@ LeetCode
 |0454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | c | [c++](./src/0454-4Sum-II/0454.cpp) |[python](./src/0454-4Sum-II/0454.py)|||Medium|
 |0455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | c | [c++](./src/0455-Assign-Cookies/0455.cpp) |[python](./src/0455-Assign-Cookies/0455.py)|||Easy|
 |0474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | c | [c++](./src/0474-Ones-and-Zeroes/0474.cpp) |[python](./src/0474-Ones-and-Zeroes/0474.py)|||Medium|
+|0486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | c | [c++](./src/0486-Predict-the-Winner/0486.cpp) |[python](./0486-Predict-the-Winner/0486.py)|||Medium|
 |0494|[Target Sum](https://leetcode.com/problems/target-sum/) | c | [c++](./src/0494-Target-Sum/0494.cpp) |[python](./src/0494-Target-Sum/0494.py)|||Medium|
 |0496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | c | [c++](./src/0496-Next-Greater-Element-I/0496.cpp) |[python](./src/0496-Next-Greater-Element-I/0496.py)|||Easy|
 |0503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-i/) | c | [c++](./src/0503-Next-Greater-Element-II/0503.cpp) |[python](./src/0503-Next-Greater-Element-II/0503.py)|||Medium|
