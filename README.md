@@ -248,6 +248,7 @@ LeetCode
 |0496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | c | [c++](./src/0496-Next-Greater-Element-I/0496.cpp) |[python](./src/0496-Next-Greater-Element-I/0496.py)|||Easy|
 |0503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-i/) | c | [c++](./src/0503-Next-Greater-Element-II/0503.cpp) |[python](./src/0503-Next-Greater-Element-II/0503.py)|||Medium|
 |0525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/) | c | [c++](./src/0525-Contiguous-Array/0525.cpp) |[python](./src/0525-Contiguous-Array/0525.py)|||Medium|
+|0530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | c | [c++](./src/0530-Minimum-Absolute-Difference-in-BST/0530.cpp) |[python](./src/0530-Minimum-Absolute-Difference-in-BST/0530.py)|||Easy|
 |0543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | c | [c++](./src/0543-Diameter-of-Binary-Tree/0543.cpp) |[python](./src/0543-Diameter-of-Binary-Tree/0543.py)|||Easy|
 |0547|[Friend Circles](https://leetcode.com/problems/friend-circles/) | c | [c++](./src/0547-Friend-Circles/0547.cpp) |[python](./src/0547-Friend-Circles/0547.py)|||Medium|
 |0560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | c | [c++](./src/0560-Subarray-Sum-Equals-K/0560.cpp) |[python](./src/0560-Subarray-Sum-Equals-K/0560.py)|||Medium|
