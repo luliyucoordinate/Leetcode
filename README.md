@@ -334,3 +334,4 @@ LeetCode
 |0991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/) | c | [c++](./src/0991-Broken-Calculator/0991.cpp) |[python](./src/0991-Broken-Calculator/0991.py)|||Medium|
 |0992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | c | [c++](./src/0992-Subarrays-with-K-Different-Integers/0992.cpp) |[python](./src/0992-Subarrays-with-K-Different-Integers/0992.py)|||Hard|
 |0993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | c | [c++](./src/0993-Cousins-in-Binary-Tree/0993.cpp) |[python](./src/0993-Cousins-in-Binary-Tree/0993.py)|||Easy|
+|0994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | c | [c++](./src/0994-Rotting-Oranges/0994.cpp) |[python](./src/0994-Rotting-Oranges/0994.py)|||Easy|
