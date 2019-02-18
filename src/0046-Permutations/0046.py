@@ -4,17 +4,19 @@ class Solution:
         :type nums: List[int]
         :rtype: List[List[int]]
         """
-        if len(nums) <= 1:
-            return [nums]
+        res, n = list(), len(nums)
+        def _permute(nums, i):
+            if i == n:
+                res.append(nums.copy())
+                return
+                
+            for k in range(i, n):
+                nums[i], nums[k] = nums[k], nums[i]
+                _permute(nums, i + 1)
+                nums[i], nums[k] = nums[k], nums[i]
         
-        out = []
-        perms = self.permute(nums[1:])
-        for perm in perms:
-            for i in range(0, len(perm)+1):
-                p = perm[:i] + [nums[0]] + perm[i:]
-                out.append(p)
-        
-        return out
+        _permute(nums, 0)
+        return res
 
 
 if __name__ == '__main__':
