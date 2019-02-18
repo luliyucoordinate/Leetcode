@@ -253,6 +253,7 @@ LeetCode
 |0547|[Friend Circles](https://leetcode.com/problems/friend-circles/) | c | [c++](./src/0547-Friend-Circles/0547.cpp) |[python](./src/0547-Friend-Circles/0547.py)|||Medium|
 |0560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | c | [c++](./src/0560-Subarray-Sum-Equals-K/0560.cpp) |[python](./src/0560-Subarray-Sum-Equals-K/0560.py)|||Medium|
 |0637|[Average of Levels in Binary Tree](https://leetcode.com/problems/subarray-sum-equals-k/) | c | [c++](./src/0637-Average-of-Levels-in-Binary-Tree/0637.cpp) |[python](./src/0637-Average-of-Levels-in-Binary-Tree/0637.py)|||Easy|
+|0652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | c | [c++](./src/0652-Find-Duplicate-Subtrees/0652.cpp) |[python](./src/0652-Find-Duplicate-Subtrees/0652.py)|||Medium|
 |0684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | c | [c++](./src/0684-Redundant-Connection/0684.cpp) |[python](./src/0684-Redundant-Connection/0684.py)|||Medium|
 |0687|[Longest Univalue Path](https://leetcode.com/problems/redundant-connection/) | c | [c++](./src/0687-Longest-Univalue-Path/0687.cpp) |[python](./src/0687-Longest-Univalue-Path/0687.py)|||Easy|
 |0739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | c | [c++](./src/0739-Daily-Temperatures/0739.cpp) |[python](./src/0739-Daily-Temperatures/0739.py)|||Medium|
@@ -332,3 +333,4 @@ LeetCode
 |0990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | c | [c++](./src/0990-Satisfiability-of-Equality-Equations/0990.cpp) |[python](./src/0990-Satisfiability-of-Equality-Equations/0990.py)|||Medium|
 |0991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/) | c | [c++](./src/0991-Broken-Calculator/0991.cpp) |[python](./src/0991-Broken-Calculator/0991.py)|||Medium|
 |0992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | c | [c++](./src/0992-Subarrays-with-K-Different-Integers/0992.cpp) |[python](./src/0992-Subarrays-with-K-Different-Integers/0992.py)|||Hard|
+|0993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | c | [c++](./src/0993-Cousins-in-Binary-Tree/0993.cpp) |[python](./src/0993-Cousins-in-Binary-Tree/0993.py)|||Easy|
