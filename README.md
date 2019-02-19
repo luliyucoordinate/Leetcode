@@ -336,3 +336,4 @@ LeetCode
 |0993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | c | [c++](./src/0993-Cousins-in-Binary-Tree/0993.cpp) |[python](./src/0993-Cousins-in-Binary-Tree/0993.py)|||Easy|
 |0994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | c | [c++](./src/0994-Rotting-Oranges/0994.cpp) |[python](./src/0994-Rotting-Oranges/0994.py)|||Easy|
 |0995|[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | c | [c++](./src/0995-Minimum-Number-of-K-Consecutive-Bit-Flips/0995.cpp) |[python](./src/0995-Minimum-Number-of-K-Consecutive-Bit-Flips/0995.py)|||Hard|
+|0996|[Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | c | [c++](./src/0996-Number-of-Squareful-Arrays/0996.cpp) |[python](./src/0996-Number-of-Squareful-Arrays/0996.py)|||Hard|
