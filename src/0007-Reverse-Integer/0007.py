@@ -10,6 +10,8 @@ class Solution:
         while x:
             num = num*10 + x%10
             x //= 10
+
+        num *= neg
         if num > (2**31) - 1 or num < -1*(2**31):
             return 0
-        return num*neg
+        return num
