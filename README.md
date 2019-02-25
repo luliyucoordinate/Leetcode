@@ -342,3 +342,4 @@ LeetCode
 |0997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | c | [c++](./src/0997-Find-the-Town-Judge/0997.cpp) |[python](./src/0997-Find-the-Town-Judge/0997.py)|||Easy|
 |0998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) | c | [c++](./src/0998-Maximum-Binary-Tree-II/0998.cpp) |[python](./src/0998-Maximum-Binary-Tree-II/0998.py)|||Medium|
 |0999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | c | [c++](./src/0999-Available-Captures-for-Rook/0999.cpp) |[python](./src/0999-Available-Captures-for-Rook/0999.py)|||Easy|
+|1001|[Grid Illumination](https://leetcode.com/problems/grid-illumination/) | c | [c++](./src/1001-Grid-Illumination/1001.cpp) |[python](./src/1001-Grid-Illumination/1001.py)|||Hard|
