@@ -1,19 +1,8 @@
 class Solution:
-    def multiply(self, num1, num2):
-        """
-        :type num1: str
-        :type num2: str
-        :rtype: str
-        """
-        num1_len, num2_len = len(num1), len(num2)
-        res = ['0'] * (num1_len + num2_len)
-        for i in range(num2_len-1, -1, -1):
-            for j in range(num1_len-1, -1, -1):
-                tmp = int(num1[j]) * int(num2[i]) + int(res[i + j + 1])
-                res[i + j + 1] = str(tmp%10)
-                res[i + j] = str(int(res[i+j]) + tmp // 10)
-                
-        for i in range(num1_len + num2_len):
-            if res[i] != '0':
-                return ''.join(res[i:])
-        return '0'
+    def multiply(self, num1: str, num2: str) -> str:
+        res, m, n = 0, len(num1), len(num2)
+        
+        for i in range(1, m + 1):
+            for j in range(1, n + 1):
+                res += int(num1[-i]) * int(num2[-j]) * 10 ** (i + j - 2)
+        return str(res)
