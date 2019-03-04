@@ -190,6 +190,7 @@ LeetCode
 |0216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | c | [c++](./src/0216-Combination-Sum-III/0216.cpp) |[python](./src/0216-Combination-Sum-III/0216.py)|||Medium|
 |0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | c | [c++](./src/0217-Contains-Duplicate/0217.cpp) |[python](./src/0217-Contains-Duplicate/0217.py)|||Easy|
 |0219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | c | [c++](./src/0219-Contains-Duplicate-II/0219.cpp) |[python](./src/0219-Contains-Duplicate-II/0219.py)|||Easy|
+|0221|[Maximal Square](https://leetcode.com/problems/maximal-square/) | c | [c++](./src/0221-Maximal-Square/0221.cpp) |[python](./src/0221-Maximal-Square/0221.py)|||Medium|
 |0222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | c | [c++](./src/0222-Count-Complete-Tree-Nodes/0222.cpp) |[python](./src/0222-Count-Complete-Tree-Nodes/0222.py)|||Medium|
 |0226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | c | [c++](./src/0226-Invert-Binary-Tree/0226.cpp) |[python](./src/0226-Invert-Binary-Tree/0226.py)|||Easy|
 |0228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | c | [c++](./src/0228-Summary-Ranges/0228.cpp) |[python](./src/0228-Summary-Ranges/0228.py)|||Medium|
@@ -344,3 +345,4 @@ LeetCode
 |0998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) | c | [c++](./src/0998-Maximum-Binary-Tree-II/0998.cpp) |[python](./src/0998-Maximum-Binary-Tree-II/0998.py)|||Medium|
 |0999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | c | [c++](./src/0999-Available-Captures-for-Rook/0999.cpp) |[python](./src/0999-Available-Captures-for-Rook/0999.py)|||Easy|
 |1001|[Grid Illumination](https://leetcode.com/problems/grid-illumination/) | c | [c++](./src/1001-Grid-Illumination/1001.cpp) |[python](./src/1001-Grid-Illumination/1001.py)|||Hard|
+|1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/) | c | [c++](./src/1002-Find-Common-Characters/1002.cpp) |[python](./src/1002-Find-Common-Characters/1002.py)|||Easy|
