@@ -346,3 +346,4 @@ LeetCode
 |0999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | c | [c++](./src/0999-Available-Captures-for-Rook/0999.cpp) |[python](./src/0999-Available-Captures-for-Rook/0999.py)|||Easy|
 |1001|[Grid Illumination](https://leetcode.com/problems/grid-illumination/) | c | [c++](./src/1001-Grid-Illumination/1001.cpp) |[python](./src/1001-Grid-Illumination/1001.py)|||Hard|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/) | c | [c++](./src/1002-Find-Common-Characters/1002.cpp) |[python](./src/1002-Find-Common-Characters/1002.py)|||Easy|
+|1003|[Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | c | [c++](./src/1003-Check-If-Word-Is-Valid-After-Substitutions/1003.cpp) |[python](./src/1003-Check-If-Word-Is-Valid-After-Substitutions/1003.py)|||Medium|
