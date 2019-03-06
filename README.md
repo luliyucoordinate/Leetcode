@@ -264,6 +264,7 @@ LeetCode
 |0793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) | c | [c++](./src/0793-Preimage-Size-of-Factorial-Zeroes-Function/0793.cpp) |[python](./src/0793-Preimage-Size-of-Factorial-Zeroes-Function/0793.py)|||Hard|
 |0834|[Sum of Distances in Tree](https://leetcode.com/problems/daily-temperatures/) | c | [c++](./src/0834-Sum-of-Distances-in-Tree/0834.cpp) |[python](./src/0834-Sum-of-Distances-in-Tree/0834.py)|||Hard|
 |0852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | c | [c++](./src/0852-Peak-Index-in-a-Mountain-Array/0852.cpp) |[python](./src/0852-Peak-Index-in-a-Mountain-Array/0852.py)|||Easy|
+|0874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | c | [c++](./src/Walking Robot Simulation/0874.cpp) |[python](./src/Walking Robot Simulation/0874.py)|||Easy|
 |0901|[Online-Stock-Span](https://leetcode.com/problems/online-stock-span/) | c | [c++](./src/0901-Online-Stock-Span/0901.cpp) |[python](./src/0901-Online-Stock-Span/0901.py)|||Medium|
 |0907|[Sum-of-Subarray-Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | c | [c++](./src/0907-Sum-of-Subarray-Minimums/0907.cpp) |[python](./src/0907-Sum-of-Subarray-Minimums/0907.py)|||Medium|
 |0917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | c | [c++](./src/0917-Reverse-Only-Letters/0917.cpp) |[python](./src/0917-Reverse-Only-Letters/0917.py)|||Easy|
