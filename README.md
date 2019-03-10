@@ -357,3 +357,4 @@ LeetCode
 |1003|[Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | c | [c++](./src/1003-Check-If-Word-Is-Valid-After-Substitutions/1003.cpp) |[python](./src/1003-Check-If-Word-Is-Valid-After-Substitutions/1003.py)|||Medium|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | c | [c++](./src/1004-Max-Consecutive-Ones-III/1004.cpp) |[python](./src/1004-Max-Consecutive-Ones-III/1004.py)|||Medium|
 |1005|[Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | c | [c++](./src/1005-Maximize-Sum-Of-Array-After-K-Negations/1005.cpp) |[python](./src/1005-Maximize-Sum-Of-Array-After-K-Negations/1005.py)|||Easy|
+|1006|[Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/) | c | [c++](./src/1006-Clumsy-Factorial/1006.cpp) |[python](./src/1006-Clumsy-Factorial/1006.py)|||Medium|
