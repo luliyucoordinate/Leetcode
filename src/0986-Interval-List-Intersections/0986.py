@@ -4,7 +4,7 @@ class Solution:
         i = j = 0
         while i < len(A) and j < len(B):
             l = max(A[i].start, B[j].start)
-            r = max(A[i].end, B[j].end)
+            r = min(A[i].end, B[j].end)
             if l <= r:
                 res.append(Interval(l, r))
                 
