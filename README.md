@@ -262,6 +262,7 @@ LeetCode
 |0687|[Longest Univalue Path](https://leetcode.com/problems/redundant-connection/) | c | [c++](./src/0687-Longest-Univalue-Path/0687.cpp) |[python](./src/0687-Longest-Univalue-Path/0687.py)|||Easy|
 |0739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | c | [c++](./src/0739-Daily-Temperatures/0739.cpp) |[python](./src/0739-Daily-Temperatures/0739.py)|||Medium|
 |0742|[Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/) | c | [c++](./src/0742-Closest-Leaf-in-a-Binary-Tree/0742.cpp) |[python](./src/0742-Closest-Leaf-in-a-Binary-Tree/0742.py)|||Medium|
+|0788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/) | c | [c++](./src/0788-Rotated-Digits/0788.cpp) |[python](./src/0788-Rotated-Digits/0788.py)|||Easy|
 |0793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) | c | [c++](./src/0793-Preimage-Size-of-Factorial-Zeroes-Function/0793.cpp) |[python](./src/0793-Preimage-Size-of-Factorial-Zeroes-Function/0793.py)|||Hard|
 |0834|[Sum of Distances in Tree](https://leetcode.com/problems/daily-temperatures/) | c | [c++](./src/0834-Sum-of-Distances-in-Tree/0834.cpp) |[python](./src/0834-Sum-of-Distances-in-Tree/0834.py)|||Hard|
 |0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | c | [c++](./src/0844-Backspace-String-Compare/0844.cpp) |[python](./src/0844-Backspace-String-Compare/0844.py)|||Easy|
