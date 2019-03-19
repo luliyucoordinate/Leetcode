@@ -4,7 +4,7 @@ class Solution
 public:
     int atMostNGivenDigitSet(vector<string>& D, int N) 
     {
-        string N_s = to_string(N);
+        string N_s = to_string(N+1);
         int n = N_s.size(), res = 0;
         for (int i = 1; i < n; ++i)
         {
@@ -19,7 +19,7 @@ public:
             res += tmp*pow(D.size(), n - i - 1);
             if (!Dset.count(string(1, N_s[i]))) break;
         }
-        if (i == n) ++res;
+
         return res;
     }
 };

@@ -1,6 +1,6 @@
 class Solution:
     def atMostNGivenDigitSet(self, D: List[str], N: int) -> int:
-        N = str(N)
+        N = str(N + 1)
         n = len(N)
         res = sum(len(D) ** i for i in range(1, n))
         i = 0
@@ -9,4 +9,4 @@ class Solution:
             if N[i] not in D: 
                 break
             i += 1
-        return res + (i == n)
+        return res
