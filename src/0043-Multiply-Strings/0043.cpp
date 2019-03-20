@@ -13,7 +13,7 @@ public:
         {
             for (int j = n - 1; j >= 0; j--) 
             {
-                int sum = (num1[i] - '0') * (num2[j] - '0') + (ans[i + j + 1] - '0');
+                int sum = (num1[i] - '0') * (num2[j] - '0') + (res[i + j + 1] - '0');
                 res[i + j + 1] = sum % 10 + '0';
                 res[i + j] += sum / 10;
             }
