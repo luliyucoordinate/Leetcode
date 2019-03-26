@@ -21,7 +21,7 @@ public:
                 if (nums[mid] <= nums[high]) high = mid;
             }
         }
-        return nums[low];
+        return -1;
     }
 };
 int main()
