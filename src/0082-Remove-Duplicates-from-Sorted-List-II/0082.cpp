@@ -41,7 +41,9 @@ public:
                 delete delNode;
             }
         }
-        return h->next;
+        ListNode* res = h->next;
+        delete h;
+        return res;
     }
 };
 
