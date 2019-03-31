@@ -373,3 +373,4 @@ LeetCode
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | c | [c++](./src/1014-Best-Sightseeing-Pair/1014.cpp) |[python](./src/1014-Best-Sightseeing-Pair/1014.py)|||Medium|
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | c | [c++](./src/1015-Smallest-Integer-Divisible-by-K/1015.cpp) |[python](./src/1022-Smallest-Integer-Divisible-by-K/1015.py)|||Medium|
 |1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | c | [c++](./src/1018-Binary-Prefix-Divisible-By-5/1018.cpp) |[python](./src/1018-Binary-Prefix-Divisible-By-5/1018.py)|||Easy|
+|1019|[Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | c | [c++](./src/1019-Next-Greater-Node-In-Linked-List/1019.cpp) |[python](./src/1019-Next-Greater-Node-In-Linked-List/1019.py)|||Medium|
