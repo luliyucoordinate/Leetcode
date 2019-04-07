@@ -4,28 +4,23 @@ class TreeNode:
         self.val = x
         self.left = None
         self.right = None
-
+   
 class Solution:
-    def rightSideView(self, root):
-        """
-        :type root: TreeNode
-        :rtype: List[int]
-        """
-        q, tmpResult = [root], []
-        while any(q):
-            tmp = list()
+    def rightSideView(self, root: TreeNode) -> List[int]:
+        if not root:
+            return []
+        
+        q, res = [root], list()
+        while q:
+            res.append(q[-1].val)
             for _ in range(len(q)):
                 node = q.pop(0)
-                tmp.append(node.val)
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
 
-            tmpResult.append(tmp)
-
-        result = [i[-1] for i in tmpResult]
-        return result    
+        return res
 
 def createTree(root):
     if root == None:
