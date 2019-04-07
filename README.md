@@ -27,7 +27,7 @@ LeetCode
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | c | [c++](./src/0021-Merge-Two-Sorted-Lists/0021.cpp) |[python](./src/0021-Merge-Two-Sorted-Lists/0021.py)|||Easy|
 |0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | c | [c++](./src/0022-Generate-Parentheses/0022.cpp) |[python](./src/0022-Generate-Parentheses/0022.py)|||Medium|
 |0023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | c | [c++](./src/0023-Merge-k-Sorted-Lists/0023.cpp) |[python](./src/0023-Merge-k-Sorted-Lists/0023.py)|||Hard|
-|0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | c | [c++](./src/0445-Add-Two-Numbers-II/0024.cpp) |[python](./src/0445-Add-Two-Numbers-II/0024.py)|||Medium|
+|0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | c | [c++](./src/0024-Swap-Nodes-in-Pairs/0024.cpp) |[python](./src/0024-Swap-Nodes-in-Pairs/0024.py)|||Medium|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | c | [c++](./src/0026-Remove-Duplicates-from-Sorted-Array/0026.cpp) |[python](./src/0026-Remove-Duplicates-from-Sorted-Array/0026.py)|||Easy|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | c | [c++](./src/0027-Remove-Element/0027.cpp) |[python](./src/0027-Remove-Element/0027.py)|||Easy|
 |0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | c | [c++](./src/0028-Implement-strStr()/0028.cpp) |[python](./src/0028-Implement-strStr()/0028.py)|||Easy|
