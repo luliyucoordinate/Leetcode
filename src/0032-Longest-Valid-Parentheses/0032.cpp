@@ -10,7 +10,6 @@ public:
     int longestValidParentheses(string s) 
     {
         int result = 0;
-        if (s.size() < 2) return 0;
         vector<int> mem(s.size(), 0);
         for (int i = 1; i < s.size(); ++i)
         {
@@ -21,7 +20,7 @@ public:
                 {
                     mem[i] = mem[i-1] + 2;
                 }
-                mem[i] += mem[i-mem[i]];
+                if (i >= mem[i]) mem[i] += mem[i-mem[i]];
             }
             result = max(result, mem[i]);
         }
