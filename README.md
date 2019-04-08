@@ -376,3 +376,4 @@ LeetCode
 |1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | c | [c++](./src/1018-Binary-Prefix-Divisible-By-5/1018.cpp) |[python](./src/1018-Binary-Prefix-Divisible-By-5/1018.py)|||Easy|
 |1019|[Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | c | [c++](./src/1019-Next-Greater-Node-In-Linked-List/1019.cpp) |[python](./src/1019-Next-Greater-Node-In-Linked-List/1019.py)|||Medium|
 |1020|[Number of Enclaves](https://leetcode.com/problems/next-greater-node-in-linked-list/) | c | [c++](./src/1020-Number-of-Enclaves/1020.cpp) |[python](./src/1020-Number-of-Enclaves/1020.py)|||Medium|
+|1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | c | [c++](./src/1021-Remove-Outermost-Parentheses/1021.cpp) |[python](./src/1021-Remove-Outermost-Parentheses/1021.py)|||Easy|
