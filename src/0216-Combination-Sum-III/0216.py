@@ -6,17 +6,19 @@ class Solution:
         :rtype: List[List[int]]
         """
         result = list()
-        nums = [i for i in range(1, 10)]
-        self._combinationSum3(nums, n, 0, list(), result, k)
+        self._combinationSum3(n, 1, list(), result, k)
         return result
 
-    def _combinationSum3(self, nums, target, index, path, res, k):
+    def _combinationSum3(self, target, index, path, res, k):
         if target == 0 and len(path) == k:
             res.append(path)
             return 
+
+        if path and target < path[-1]:
+            return
        
-        for i in range(index, len(nums)):
-            self._combinationSum3(nums, target-nums[i], i + 1, path+[nums[i]], res, k)
+        for i in range(index, 10):
+            self._combinationSum3(target-i, i + 1, path+[i], res, k)
 
 # class Solution(object):
 #     def combinationSum3(self, k, n):
