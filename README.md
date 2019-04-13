@@ -58,7 +58,7 @@ LeetCode
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | c | [c++](./src/0053-Maximum-Subarray/0053.cpp) |[python](./src/0053-Maximum-Subarray/0053.py)|||Easy|
 |0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | c | [c++](./src/0054-Spiral-Matrix/0054.cpp) |[python](./src/0054-Spiral-Matrix/0054.py)|||Medium|
 |0055|[Jump Game](https://leetcode.com/problems/jump-game/) | c | [c++](./src/0055-Jump-Game/0055.cpp) |[python](./src/0055-Jump-Game/0055.py)|||Medium|
-|0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | c | [c++](./src/0056-Merge-Intervals/0055.cpp) |[python](./src/0056-Merge-Intervals/0055.py)|||Medium|
+|0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | c | [c++](./src/0056-Merge-Intervals/0056.cpp) |[python](./src/0056-Merge-Intervals/0056.py)|||Medium|
 |0057|[Insert Interval](https://leetcode.com/problems/insert-interval/) | c | [c++](./src/0057-Insert-Interval/0057.cpp) |[python](./src/0057-Insert-Interval/0057.py)|||Hard|
 |0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | c | [c++](./src/0058-Length-of-Last-Word/0058.cpp) |[python](./src/0058-Length-of-Last-Word/0058.py)|||Easy|
 |0059|[Spiral Matrix II](https://leetcode.com/problem/spiral-matrix-ii/) | c | [c++](./src/0059-Spiral-Matrix-II/0059.cpp) |[python](./src/0059-Spiral-Matrix-II/0059.py)|||Hard|
@@ -378,3 +378,4 @@ LeetCode
 |1020|[Number of Enclaves](https://leetcode.com/problems/next-greater-node-in-linked-list/) | c | [c++](./src/1020-Number-of-Enclaves/1020.cpp) |[python](./src/1020-Number-of-Enclaves/1020.py)|||Medium|
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | c | [c++](./src/1021-Remove-Outermost-Parentheses/1021.cpp) |[python](./src/1021-Remove-Outermost-Parentheses/1021.py)|||Easy|
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | c | [c++](./src/1022-Sum-of-Root-To-Leaf-Binary-Numbers/1022.cpp) |[python](./src/1022-Sum-of-Root-To-Leaf-Binary-Numbers/1022.py)|||Easy|
+|1023|[Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | c | [c++](./src/1023-Camelcase-Matching/1023.cpp) |[python](./src/1023-Camelcase-Matching/1023.py)|||Medium|
