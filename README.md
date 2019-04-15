@@ -379,3 +379,4 @@ LeetCode
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | c | [c++](./src/1021-Remove-Outermost-Parentheses/1021.cpp) |[python](./src/1021-Remove-Outermost-Parentheses/1021.py)|||Easy|
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | c | [c++](./src/1022-Sum-of-Root-To-Leaf-Binary-Numbers/1022.cpp) |[python](./src/1022-Sum-of-Root-To-Leaf-Binary-Numbers/1022.py)|||Easy|
 |1023|[Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | c | [c++](./src/1023-Camelcase-Matching/1023.cpp) |[python](./src/1023-Camelcase-Matching/1023.py)|||Medium|
+|1025|[Divisor Game](https://leetcode.com/problems/divisor-game/) | c | [c++](./src/1025-Divisor-Game/1025.cpp) |[python](./src/1025-Divisor-Game/1025.py)|||Easy|
