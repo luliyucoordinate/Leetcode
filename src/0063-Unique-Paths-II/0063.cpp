@@ -6,32 +6,25 @@ static int x = []() {std::ios::sync_with_stdio(false); cin.tie(0); return 0; }()
 class Solution 
 {
 public:
-    int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) 
+    int uniquePathsWithObstacles(vector<vector<int>>& data) 
     {
-        int m = obstacleGrid.size();
-        int n = obstacleGrid[0].size();
-            
-        vector<vector<int>> mem(m, vector<int>(n, 0));
-        mem[0][0] = 1;
-        for (unsigned int i = 0; i < m; ++i)
+        if (data.empty()) return 0;
+        int m = data.size(), n = data[0].size();
+        vector<vector<unsigned int>> mem(m, vector<unsigned int>(n, 0));
+        for (int i = 0; i < m; ++i) 
         {
-            for (unsigned int j = 0; j < n; ++j)
+            for (int j = 0; j < n; ++j) 
             {
-                if (obstacleGrid[i][j] == 0)
-                {
-                    if (j) mem[i][j] += mem[i][j - 1];
-                    if (i) mem[i][j] += mem[i - 1][j];
-                }
-                else
-                {
-                    mem[i][j] = 0;
-                }
+                if (data[i][j] == 1) continue;
+                if (i > 0 and j > 0) mem[i][j] = mem[i-1][j] + mem[i][j-1];
+                else if (i) mem[i][j] = mem[i-1][j];
+                else if (j) mem[i][j] = mem[i][j-1];
+                else mem[i][j] = 1;
             }
         }
-        return mem[m - 1][n - 1];
+        return mem[m-1][n-1];
     }
 };
-
 int main()
 {
     return 0;
