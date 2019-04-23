@@ -11,20 +11,16 @@ public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) 
     {
         unordered_map<string, vector<string> > group;
-        for (const auto &s : strs) 
+        for (auto& s : strs) 
         {
             string key = s;
             sort(key.begin(), key.end());
             group[key].push_back(s);
         }
         
-        vector<vector<string>> anagrams;
-        for (const auto m : group) 
-        { 
-            vector<string> anagram(m.second.begin(), m.second.end());
-            anagrams.push_back(anagram);
-        }
-        return anagrams;
+        vector<vector<string>> res;
+        for (auto& m : group) res.push_back(m.second);
+        return res;
     }
 };
 int main()
