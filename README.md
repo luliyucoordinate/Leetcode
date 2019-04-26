@@ -28,6 +28,7 @@ LeetCode
 |0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | c | [c++](./src/0022-Generate-Parentheses/0022.cpp) |[python](./src/0022-Generate-Parentheses/0022.py)|||Medium|
 |0023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | c | [c++](./src/0023-Merge-k-Sorted-Lists/0023.cpp) |[python](./src/0023-Merge-k-Sorted-Lists/0023.py)|||Hard|
 |0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | c | [c++](./src/0024-Swap-Nodes-in-Pairs/0024.cpp) |[python](./src/0024-Swap-Nodes-in-Pairs/0024.py)|||Medium|
+|0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | c | [c++](./src/0025-Reverse-Nodes-in-k-Group/0025.cpp) |[python](./src/0025-Reverse-Nodes-in-k-Group/0025.py)|||Hard|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | c | [c++](./src/0026-Remove-Duplicates-from-Sorted-Array/0026.cpp) |[python](./src/0026-Remove-Duplicates-from-Sorted-Array/0026.py)|||Easy|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | c | [c++](./src/0027-Remove-Element/0027.cpp) |[python](./src/0027-Remove-Element/0027.py)|||Easy|
 |0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | c | [c++](./src/0028-Implement-strStr()/0028.cpp) |[python](./src/0028-Implement-strStr()/0028.py)|||Easy|
@@ -381,3 +382,4 @@ LeetCode
 |1023|[Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | c | [c++](./src/1023-Camelcase-Matching/1023.cpp) |[python](./src/1023-Camelcase-Matching/1023.py)|||Medium|
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/) | c | [c++](./src/1025-Divisor-Game/1025.cpp) |[python](./src/1025-Divisor-Game/1025.py)|||Easy|
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | c | [c++](./src/1026-Maximum-Difference-Between-Node-and-Ancestor/1026.cpp) |[python](./src/1026-Maximum-Difference-Between-Node-and-Ancestor/1026.py)|||Medium|
+|1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) | c | [c++](./src/1027-Longest-Arithmetic-Sequence/1027.cpp) |[python](./src/1027-Longest-Arithmetic-Sequence/1027.py)|||Medium|
