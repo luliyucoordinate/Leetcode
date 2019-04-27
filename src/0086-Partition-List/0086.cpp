@@ -18,7 +18,7 @@ public:
             return head;
         
         ListNode* cur = head;
-        ListNode* pre_min, *cur_min, *pre_max, *cur_max = nullptr;
+        ListNode* pre_min, *cur_min, *pre_max, *cur_max;
         pre_min = cur_min = new ListNode(-1);
         pre_max = cur_max = new ListNode(-1);
         while (cur != nullptr)
@@ -37,7 +37,10 @@ public:
         }
         cur_min->next = pre_max->next;
         cur_max->next = nullptr;
-        return pre_min->next;
+        ListNode* res = pre_min->next;
+        delete pre_max;
+        delete pre_min;
+        return res;
     }
 };
 
