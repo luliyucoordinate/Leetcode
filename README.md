@@ -386,3 +386,4 @@ LeetCode
 |1033|[Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/) | c | [c++](./src/1033-Moving-Stones-Until-Consecutive/1033.cpp) |[python](./src/1033-Moving-Stones-Until-Consecutive/1033.py)|||Easy|
 |1034|[Coloring A Border](https://leetcode.com/problems/coloring-a-border/) | c | [c++](./src/1034-Coloring-A-Border/1034.cpp) |[python](./src/1034-Coloring-A-Border/1034.py)|||Medium|
 |1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | c | [c++](./src/1035-Uncrossed-Lines/1035.cpp) |[python](./src/1035-Uncrossed-Lines/1035.py)|||Medium|
+|1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | c | [c++](./src/1037-Valid-Boomerang/1037.cpp) |[python](./src/1037-Valid-Boomerang/1037.py)|||Medium|
