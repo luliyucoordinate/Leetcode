@@ -389,3 +389,4 @@ LeetCode
 |1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | c | [c++](./src/1037-Valid-Boomerang/1037.cpp) |[python](./src/1037-Valid-Boomerang/1037.py)|||Medium|
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | c | [c++](./src/1038-Binary-Search-Tree-to-Greater-Sum-Tree/1038.cpp) |[python](./src/1038-Binary-Search-Tree-to-Greater-Sum-Tree/1038.py)|||Medium|
 |1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) | c | [c++](./src/1039-Minimum-Score-Triangulation-of-Polygon/1039.cpp) |[python](./src/1039-Minimum-Score-Triangulation-of-Polygon/1039.py)|||Medium|
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | c | [c++](./src/1046-Last-Stone-Weight/1046.cpp) |[python](./src/1046-Last-Stone-Weight/1046.py)|||Easy|
