@@ -391,3 +391,4 @@ LeetCode
 |1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) | c | [c++](./src/1039-Minimum-Score-Triangulation-of-Polygon/1039.cpp) |[python](./src/1039-Minimum-Score-Triangulation-of-Polygon/1039.py)|||Medium|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | c | [c++](./src/1046-Last-Stone-Weight/1046.cpp) |[python](./src/1046-Last-Stone-Weight/1046.py)|||Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/) | c | [c++](./src/1051-Height-Checker/1051.cpp) |[python](./src/1051-Height-Checker/1051.py)|||Easy|
+|1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | c | [c++](./src/1052-Grumpy-Bookstore-Owner/1052.cpp) |[python](./src/1052-Grumpy-Bookstore-Owner/1052.py)|||Medium|
