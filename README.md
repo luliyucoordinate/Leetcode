@@ -392,3 +392,4 @@ LeetCode
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | c | [c++](./src/1046-Last-Stone-Weight/1046.cpp) |[python](./src/1046-Last-Stone-Weight/1046.py)|||Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/) | c | [c++](./src/1051-Height-Checker/1051.cpp) |[python](./src/1051-Height-Checker/1051.py)|||Easy|
 |1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | c | [c++](./src/1052-Grumpy-Bookstore-Owner/1052.cpp) |[python](./src/1052-Grumpy-Bookstore-Owner/1052.py)|||Medium|
+|1053|[Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/) | c | [c++](./src/1053-Previous-Permutation-With-One-Swap/1053.cpp) |[python](./src/1053-Previous-Permutation-With-One-Swap/1053.py)|||Medium|
