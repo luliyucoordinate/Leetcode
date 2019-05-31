@@ -222,6 +222,7 @@ LeetCode
 |0303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | c | [c++](./src/0303-Range-Sum-Query-Immutable/0303.cpp) |[python](./src/0303-Range-Sum-Query-Immutable/0303.py)|||Easy|
 |0307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | c | [c++](./src/0307-Range-Sum-Query-Mutable/0307.cpp) |[python](./src/0307-Range-Sum-Query-Mutable/0307.py)|||Medium|
 |0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | c | [c++](./src/0309-Best-Time-to-Buy-and-Sel-Stock-with-Cooldown/0309.cpp) |[python](./src/0309-Best-Time-to-Buy-and-Sel-Stock-with-Cooldown/0309.py)|||Medium|
+|0319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | c | [c++](./src/0319-Bulb-Switcher/0319.cpp) |[python](./src/0319-Bulb-Switcher/0319.py)|||Medium|
 |0322|[Coin-Change](https://leetcode.com/problems/coin-change/) | c | [c++](./src/0322-Coin-Change/0322.cpp) |[python](./src/0322-Coin-Change/0322.py)|||Medium|
 |0325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | c | [c++](./src/0325-Maximum-Size-Subarray-Sum-Equals-k/0325.cpp) |[python](./src/0325-Maximum-Size-Subarray-Sum-Equals-k/0325.py)|||Medium|
 |0328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | c | [c++](./src/0328-Odd-Even-Linked-List/0328.cpp) |[python](./src/0328-Odd-Even-Linked-List/0328.py)|||Medium|
