@@ -263,6 +263,7 @@ LeetCode
 |0547|[Friend Circles](https://leetcode.com/problems/friend-circles/) | c | [c++](./src/0547-Friend-Circles/0547.cpp) |[python](./src/0547-Friend-Circles/0547.py)|||Medium|
 |0560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | c | [c++](./src/0560-Subarray-Sum-Equals-K/0560.cpp) |[python](./src/0560-Subarray-Sum-Equals-K/0560.py)|||Medium|
 |0637|[Average of Levels in Binary Tree](https://leetcode.com/problems/subarray-sum-equals-k/) | c | [c++](./src/0637-Average-of-Levels-in-Binary-Tree/0637.cpp) |[python](./src/0637-Average-of-Levels-in-Binary-Tree/0637.py)|||Easy|
+|0650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | c | [c++](./src/0650-2-Keys-Keyboard/0650.cpp) |[python](./src/0650-2-Keys-Keyboard/0650.py)|||Medium|
 |0652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | c | [c++](./src/0652-Find-Duplicate-Subtrees/0652.cpp) |[python](./src/0652-Find-Duplicate-Subtrees/0652.py)|||Medium|
 |0654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | c | [c++](./src/0654-Maximum-Binary-Tree/0654.cpp) |[python](./src/0654-Maximum-Binary-Tree/0654.py)|||Medium|
 |0684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | c | [c++](./src/0684-Redundant-Connection/0684.cpp) |[python](./src/0684-Redundant-Connection/0684.py)|||Medium|
