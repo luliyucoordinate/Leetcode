@@ -194,6 +194,7 @@ LeetCode
 |0219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | c | [c++](./src/0219-Contains-Duplicate-II/0219.cpp) |[python](./src/0219-Contains-Duplicate-II/0219.py)|||Easy|
 |0221|[Maximal Square](https://leetcode.com/problems/maximal-square/) | c | [c++](./src/0221-Maximal-Square/0221.cpp) |[python](./src/0221-Maximal-Square/0221.py)|||Medium|
 |0222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | c | [c++](./src/0222-Count-Complete-Tree-Nodes/0222.cpp) |[python](./src/0222-Count-Complete-Tree-Nodes/0222.py)|||Medium|
+|0223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/) | c | [c++](./src/0223-Rectangle-Area/0223.cpp) |[python](./src/0223-Rectangle-Area/0223.py)|||Medium|
 |0226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | c | [c++](./src/0226-Invert-Binary-Tree/0226.cpp) |[python](./src/0226-Invert-Binary-Tree/0226.py)|||Easy|
 |0228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | c | [c++](./src/0228-Summary-Ranges/0228.cpp) |[python](./src/0228-Summary-Ranges/0228.py)|||Medium|
 |0229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/) | c | [c++](./src/0229-Majority-Element-II/0229.cpp) |[python](./src/0229-Majority-Element-II/0229.py)|||Medium|
@@ -272,6 +273,7 @@ LeetCode
 |0742|[Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/) | c | [c++](./src/0742-Closest-Leaf-in-a-Binary-Tree/0742.cpp) |[python](./src/0742-Closest-Leaf-in-a-Binary-Tree/0742.py)|||Medium|
 |0788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/) | c | [c++](./src/0788-Rotated-Digits/0788.cpp) |[python](./src/0788-Rotated-Digits/0788.py)|||Easy|
 |0793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) | c | [c++](./src/0793-Preimage-Size-of-Factorial-Zeroes-Function/0793.cpp) |[python](./src/0793-Preimage-Size-of-Factorial-Zeroes-Function/0793.py)|||Hard|
+|0829|[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | c | [c++](./src/0829-Consecutive-Numbers-Sum/0829.cpp) |[python](./src/0829-Consecutive-Numbers-Sum/0829.py)|||Hard|
 |0834|[Sum of Distances in Tree](https://leetcode.com/problems/daily-temperatures/) | c | [c++](./src/0834-Sum-of-Distances-in-Tree/0834.cpp) |[python](./src/0834-Sum-of-Distances-in-Tree/0834.py)|||Hard|
 |0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | c | [c++](./src/0844-Backspace-String-Compare/0844.cpp) |[python](./src/0844-Backspace-String-Compare/0844.py)|||Easy|
 |0845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | c | [c++](./src/0845-Longest-Mountain-in-Array/0845.cpp) |[python](./src/0845-Longest-Mountain-in-Array/0845.py)|||Medium|
