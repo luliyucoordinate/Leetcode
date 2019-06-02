@@ -404,3 +404,4 @@ LeetCode
 |1053|[Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/) | c | [c++](./src/1053-Previous-Permutation-With-One-Swap/1053.cpp) |[python](./src/1053-Previous-Permutation-With-One-Swap/1053.py)|||Medium|
 |1054|[Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) | c | [c++](./src/1054-Distant-Barcodes/1054.cpp) |[python](./src/1054-Distant-Barcodes/1054.py)|||Medium|
 |1064|[Fixed Point](https://leetcode.com/problems/distant-barcodes/) | c | [c++](./src/1064-Fixed-Point/1064.cpp) |[python](./src/1064-Fixed-Point/1064.py)|||Medium|
+|1066|[Campus Bikes II](https://leetcode.com/contest/biweekly-contest-1/problems/campus-bikes-ii/) | c | [c++](./src/1066-Campus-Bikes-II/1066.cpp) |[python](./src/1066-Campus-Bikes-II/1066.py)|||Medium|
