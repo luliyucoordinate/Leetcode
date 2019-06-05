@@ -407,3 +407,4 @@ LeetCode
 |1064|[Fixed Point](https://leetcode.com/contest/biweekly-contest-1/problems/fixed-point/) | c | [c++](./src/1064-Fixed-Point/1064.cpp) |[python](./src/1064-Fixed-Point/1064.py)|||Easy|
 |1065|[Index Pairs of a String](https://leetcode.com/contest/biweekly-contest-1/problems/index-pairs-of-a-string/) | c | [c++](./src/1065-Index-Pairs-of-a-String/1065.cpp) |[python](./src/1065-Index-Pairs-of-a-String/1065.py)|||Easy|
 |1066|[Campus Bikes II](https://leetcode.com/contest/biweekly-contest-1/problems/campus-bikes-ii/) | c | [c++](./src/1066-Campus-Bikes-II/1066.cpp) |[python](./src/1066-Campus-Bikes-II/1066.py)|||Medium|
+|1067|[Digit Count in Range](https://leetcode.com/contest/biweekly-contest-1/problems/digit-count-in-range/) | c | [c++](./src/1067-Digit-Count-in-Range/1067.cpp) |[python](./src/1067-Digit-Count-in-Range/1067.py)|||Medium|
