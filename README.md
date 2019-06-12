@@ -412,4 +412,5 @@ LeetCode
 |1066|[Campus Bikes II](https://leetcode.com/contest/biweekly-contest-1/problems/campus-bikes-ii/) | c | [c++](./src/1066-Campus-Bikes-II/1066.cpp) |[python](./src/1066-Campus-Bikes-II/1066.py)|||Medium|
 |1067|[Digit Count in Range](https://leetcode.com/contest/biweekly-contest-1/problems/digit-count-in-range/) | c | [c++](./src/1067-Digit-Count-in-Range/1067.cpp) |[python](./src/1067-Digit-Count-in-Range/1067.py)|||Medium|
 |1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | c | [c++](./src/1078-Occurrences-After-Bigram/1078.cpp) |[python](./src/1078-Occurrences-After-Bigram/1078.py)|||Easy|
+|1079|[Letter Tile Possibilities](https://leetcode.com/problems/occurrences-after-bigram/) | c | [c++](./src/1078-Occurrences-After-Bigram/1078.cpp) |[python](./src/1078-Occurrences-After-Bigram/1078.py)|||Easy|
 |1081|[Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | c | [c++](./src/1081-Smallest-Subsequence-of-Distinct-Characters/1081.cpp) |[python](./src/1081-Smallest-Subsequence-of-Distinct-Characters/1081.py)|||Medium|
