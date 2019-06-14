@@ -70,6 +70,7 @@ LeetCode
 |0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | c | [c++](./src/0064-Minimum-Path-Sum/0064.cpp) |[python](./src/0064-Minimum-Path-Sum/0064.py)|||Medium|
 |0065|[Valid Number](https://leetcode.com/problems/valid-number/) | c | [c++](./src/0065-Valid-Number/0065.cpp) |[python](./src/0065-Valid-Number/0065.py)|||Hard|
 |0066|[Plus One](https://leetcode.com/problems/plus-one/) | c | [c++](./src/0066-Plus-One/0066.cpp) |[python](./src/0066-Plus-One/0066.py)|||Easy|
+|0067|[Add Binary](https://leetcode.com/problems/add-binary/) | c | [c++](./src/0067-Add-Binary/0067.cpp) |[python](./src/0067-Add-Binary/0067.py)|||Easy|
 |0068|[Text Justification](https://leetcode.com/problems/text-justification/) | c | [c++](./src/0068-Text-Justification/0068.cpp) |[python](./src/0068-Text-Justification/0068.py)|||Hard|
 |0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | c | [c++](./src/0069-Sqrt(x)/0069.cpp) |[python](./src/0069-Sqrt(x)/0069.py)|||Easy|
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | c | [c++](./src0070-Climbing-Stairs/0070.cpp) |[python](./src/0070-Climbing-Stairs/0070.py)|||Easy|
@@ -411,6 +412,7 @@ LeetCode
 |1065|[Index Pairs of a String](https://leetcode.com/contest/biweekly-contest-1/problems/index-pairs-of-a-string/) | c | [c++](./src/1065-Index-Pairs-of-a-String/1065.cpp) |[python](./src/1065-Index-Pairs-of-a-String/1065.py)|||Easy|
 |1066|[Campus Bikes II](https://leetcode.com/contest/biweekly-contest-1/problems/campus-bikes-ii/) | c | [c++](./src/1066-Campus-Bikes-II/1066.cpp) |[python](./src/1066-Campus-Bikes-II/1066.py)|||Medium|
 |1067|[Digit Count in Range](https://leetcode.com/contest/biweekly-contest-1/problems/digit-count-in-range/) | c | [c++](./src/1067-Digit-Count-in-Range/1067.cpp) |[python](./src/1067-Digit-Count-in-Range/1067.py)|||Medium|
+|1073|[Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/) | c | [c++](./src/1073-Adding-Two-Negabinary-Numbers/1073.cpp) |[python](./src/1073-Adding-Two-Negabinary-Numbers/1073.py)|||Medium|
 |1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | c | [c++](./src/1078-Occurrences-After-Bigram/1078.cpp) |[python](./src/1078-Occurrences-After-Bigram/1078.py)|||Easy|
 |1079|[Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | c | [c++](./src/1079-Letter-Tile-Possibilities/1079.cpp) |[python](./src/1079-Letter-Tile-Possibilities/1079.py)|||Easy|
 |1080|[Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/occurrences-after-bigram/) | c | [c++](./src/1080-Insufficient-Nodes-in-Root-to-Leaf-Paths/1080.cpp) |[python](./src/1080-Insufficient-Nodes-in-Root-to-Leaf-Paths/1080.py)|||Medium|
