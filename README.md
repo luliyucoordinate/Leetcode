@@ -421,3 +421,4 @@ LeetCode
 |1086|[High Five](https://leetcode.com/contest/biweekly-contest-2/problems/high-five/) | c | [c++](./src/1086-High-Five/1086.cpp) |[python](./src/1086-High-Five/1086.py)|||Easy|
 |1087|[Brace Expansion](https://leetcode.com/contest/biweekly-contest-2/problems/brace-expansion/) | c | [c++](./src/1087-Brace-Expansion/1087.cpp) |[python](./src/1087-Brace-Expansion/1087.py)|||Medium|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | c | [c++](./src/1089-Duplicate-Zeros/1089.cpp) |[python](./src/1089-Duplicate-Zeros/1089.py)|||Easy|
+|1090|[Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/) | c | [c++](./src/1090-Largest-Values-From-Labels/1090.cpp) |[python](./src/1090-Largest-Values-From-Labels/1090.py)|||Medium|
