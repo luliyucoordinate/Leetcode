@@ -423,3 +423,4 @@ LeetCode
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | c | [c++](./src/1089-Duplicate-Zeros/1089.cpp) |[python](./src/1089-Duplicate-Zeros/1089.py)|||Easy|
 |1090|[Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/) | c | [c++](./src/1090-Largest-Values-From-Labels/1090.cpp) |[python](./src/1090-Largest-Values-From-Labels/1090.py)|||Medium|
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | c | [c++](./src/1091-Shortest-Path-in-Binary-Matrix/1091.cpp) |[python](./src/1091-Shortest-Path-in-Binary-Matrix/1091.py)|||Medium|
+|1093|[Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/) | c | [c++](./src/1093-Statistics-from-a-Large-Sample/1093.cpp) |[python](./src/1093-Statistics-from-a-Large-Sample/1093.py)|[go](./src/1093-Statistics-from-a-Large-Sample/1093.go)||Medium|
