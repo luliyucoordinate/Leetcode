@@ -12,7 +12,7 @@ LeetCode
 |0006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | c | [c++](./src/0006-ZigZag-Conversion/0006.cpp) |[python](./src/0006-ZigZag-Conversion/0006.py)|[go](./src/0006-ZigZag-Conversion/0006.go)||Medium|
 |0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | c | [c++](./src/0007-Reverse-Integer/0007.cpp) |[python](./src/0007-Reverse-Integer/0007.py)|[go](./src/0007-Reverse-Integer/0007.go)||Easy|
 |0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | c | [c++](./src/0008-String-to-Integer-(atoi)/0008.cpp) |[python](./src/0008-String-to-Integer-(atoi)/0008.py)|[go](./src/0008-String-to-Integer-(atoi)/0008.go)||Medium|
-|0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | c | [c++](./src/0009-Palindrome-Number/0009.cpp) |[python](./src/0009-Palindrome-Number/0009.py)|||Easy|
+|0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | c | [c++](./src/0009-Palindrome-Number/0009.cpp) |[python](./src/0009-Palindrome-Number/0009.py)|[go](./src/0009-Palindrome-Number/0009.go||Easy|
 |0010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | c | [c++](./src/0010-Regular-Expression-Matching/0010.cpp) |[python](./src/0010-Regular-Expression-Matching/0010.py)|||Hard|
 |0011|[Container With Most Water](https://leetcode.com/problems/queue-reconstruction-by-height/) | c | [c++](./src/0011-Container-With-Most-Water/0011.cpp)|[python](./src/0011-Container-With-Most-Water/0011.py)|||Medium|
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman) | c | [c++](./src/0012-Integer-to-Roman/0012.cpp) |[python](./src/0012-Integer-to-Roman/0012.py)|||Medium|
