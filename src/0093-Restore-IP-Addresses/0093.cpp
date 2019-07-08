@@ -11,7 +11,7 @@ public:
     vector<string> restoreIpAddresses(string s) 
     {
         vector<string> result;
-        if (!s.empty() and s.size() < 4 and s.size() > 12) return result;
+        if (!s.empty() and s.size() < 4 or s.size() > 12) return result;
         _restoreIpAddresses(s, 4, 0, string(""), result);
         return result;
     }

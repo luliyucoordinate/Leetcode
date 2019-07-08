@@ -22,7 +22,7 @@ class Solution:
         :rtype: List[str]
         """
         result = list()
-        if not s and  4 > len(s) > 12 :
+        if not s and  4 > len(s) or len(s) > 12 :
             return result
 
         self._restoreIpAddresses(s, 4, 0, "", result)
