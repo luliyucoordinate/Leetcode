@@ -215,6 +215,8 @@ LeetCode
 |0263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | c | [c++](./src/0263-Ugly-Number/0263.cpp) |[python](./src/0263-Ugly-Number/0263.py)|||Easy|
 |0264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | c | [c++](./src/0264-Ugly-Number-II/0264.cpp) |[python](./src/0264-Ugly-Number-II/0264.py)|||Medium|
 |0268|[Missing Number](https://leetcode.com/problems/missing-number/) | c | [c++](./src/0268-Missing-Number/0268.cpp) |[python](./src/0268-Missing-Number/0268.py)|||Easy|
+|0274|[H-Index](https://leetcode.com/problems/h-index/) | c | [c++](./src/0274-H-Index/0274.cpp) |[python](./src/0274-H-Index/0274.py)|[go](./src/0274-H-Index/0274.go)||Medium|
+|0275|[H-Index](https://leetcode.com/problems/h-index-ii/) | c | [c++](./src/0275-H-Index-II/0275.cpp) |[python](./src/0275-H-Index-II/0275.py)|[go](./src/0275-H-Index-II/0275.go)||Medium|
 |0279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | c | [c++](./src/0279-Perfect-Squares/0279.cpp) |[python](./src/0279-Perfect-Squares/0279.py)|||Medium|
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | c | [c++](./src/0283-Move-Zeroes/0283.cpp) |[python](./src/0283-Move-Zeroes/0283.py)|||Easy|
 |0287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | c | [c++](./src/00287-Find-the-Duplicate-Number/0287.cpp) |[python](./src/0287-Find-the-Duplicate-Number/0287.py)|||Medium|
@@ -437,4 +439,4 @@ LeetCode
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | c | [c++](./src/1103-Distribute-Candies-to-People/1103.cpp) |[python](./src/1103-Distribute-Candies-to-People/1103.py)|[go](./src/1103-Distribute-Candies-to-People/1103.go)||Easy|
 |1104|[Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) | c | [c++](./src/1104-Path-In-Zigzag-Labelled-Binary-Tree/1104.cpp) |[python](./src/1104-Path-In-Zigzag-Labelled-Binary-Tree/1104.py)|[go](./src/1104-Path-In-Zigzag-Labelled-Binary-Tree/1104.go)||Easy|
 |1105|[Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | c | [c++](./src/1105-Filling-Bookcase-Shelves/1105.cpp) |[python](./src/1105-Filling-Bookcase-Shelves/1105.py)|[go](./src/1105-Filling-Bookcase-Shelves/1105.go)||Medium|
-c
+|1106|[Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | c | [c++](./src/1106-Parsing-A-Boolean-Expression/1106.cpp) |[python](./src/1106-Parsing-A-Boolean-Expression/1106.py)|[go](./src/1106-Parsing-A-Boolean-Expression/1106.go)||Hard|
