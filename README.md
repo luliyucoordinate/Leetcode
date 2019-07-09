@@ -217,6 +217,7 @@ LeetCode
 |0268|[Missing Number](https://leetcode.com/problems/missing-number/) | c | [c++](./src/0268-Missing-Number/0268.cpp) |[python](./src/0268-Missing-Number/0268.py)|||Easy|
 |0274|[H-Index](https://leetcode.com/problems/h-index/) | c | [c++](./src/0274-H-Index/0274.cpp) |[python](./src/0274-H-Index/0274.py)|[go](./src/0274-H-Index/0274.go)||Medium|
 |0275|[H-Index](https://leetcode.com/problems/h-index-ii/) | c | [c++](./src/0275-H-Index-II/0275.cpp) |[python](./src/0275-H-Index-II/0275.py)|[go](./src/0275-H-Index-II/0275.go)||Medium|
+|0278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | c | [c++](./src/0278-First-Bad-Version/0278.cpp) |[python](./src/0278-First-Bad-Version/0278.py)|[go](./src/0278-First-Bad-Version/0278.go)||Easy|
 |0279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | c | [c++](./src/0279-Perfect-Squares/0279.cpp) |[python](./src/0279-Perfect-Squares/0279.py)|||Medium|
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | c | [c++](./src/0283-Move-Zeroes/0283.cpp) |[python](./src/0283-Move-Zeroes/0283.py)|||Easy|
 |0287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | c | [c++](./src/00287-Find-the-Duplicate-Number/0287.cpp) |[python](./src/0287-Find-the-Duplicate-Number/0287.py)|||Medium|
