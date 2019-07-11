@@ -250,7 +250,7 @@ LeetCode
 |0401|[Binary Watch](https://leetcode.com/problems/binary-watch/) | c | [c++](./src/0401-Binary-Watch/0401.cpp) |[python](./src/0401-Binary-Watch/0401.py)|||Easy|
 |0404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | c | [c++](./src/0404-Sum-of-Left-Leaves/0404.cpp) |[python](./src/0404-Sum-of-Left-Leaves/0404.py)|||Easy|
 |0416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | c | [c++](./src/0416-Partition-Equal-Subset-Sum/0416.cpp) |[python](./src/0416-Partition-Equal-Subset-Sum/0416.py)|||Medium|
-|0435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | c | [c++](./src/0435-Non-overlapping-Intervals/0435.cpp) |[python](./src/0435-Non-overlapping-Intervals/0435.py)|||Medium|
+|0435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | c | [c++](./src/0435-Non-overlapping-Intervals/0435.cpp) |[python](./src/0435-Non-overlapping-Intervals/0435.py)|[go](./src/0435-Non-overlapping-Intervals/0435.go)||Medium|
 |0437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/) | c | [c++](./src/0437-Path-Sum-III/0437.cpp) |[python](./src/0437-Path-Sum-III/0437.py)|||Easy|
 |0438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | c | [c++](./src/0438-Find-All-Anagrams-in-a-String/0438.cpp) |[python](./src/0438-Find-All-Anagrams-in-a-String/0438.py)|||Easy|
 |0445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | c | [c++](./src/0445-Add-Two-Numbers-II/0445.cpp) |[python](./src/0445-Add-Two-Numbers-II/0445.py)|||Medium|
