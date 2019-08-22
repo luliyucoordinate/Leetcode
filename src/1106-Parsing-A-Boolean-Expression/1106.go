@@ -26,7 +26,7 @@ func parseAnd(i *int) bool {
     res := parseStr(i)
     for s[*i] != ')' {
         (*i)++
-        res = res && parseStr(i)
+        res = parseStr(i) && res
     }
     (*i)++
     return res
@@ -37,7 +37,7 @@ func parseOr(i *int) bool {
     res := parseStr(i)
     for s[*i] != ')' {
         (*i)++
-        res = res || parseStr(i)
+        res = parseStr(i) || res
     }
     (*i)++
     return res
