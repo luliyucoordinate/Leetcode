@@ -44,6 +44,8 @@ func (this *DinnerPlates) Push(val int)  {
     }
     if len(*this.q) == 0 {
         heap.Push(this.q, len(this.stacks))
+    }
+    if (*this.q)[0] == len(this.stacks) {
         this.stacks = append(this.stacks, []int{})
     }
     this.stacks[(*this.q)[0]] = append(this.stacks[(*this.q)[0]], val)

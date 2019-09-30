@@ -10,6 +10,7 @@ class DinnerPlates:
             heapq.heappop(self.q)
         if not self.q:
             heapq.heappush(self.q, len(self.data))
+        if self.q[0] == len(self.data):
             self.data.append([])
         self.data[self.q[0]].append(val)
 

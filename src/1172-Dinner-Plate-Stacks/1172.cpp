@@ -6,11 +6,8 @@ public:
     void push(int val) 
     {
         while (!q.empty() and q.top() < stacks.size() and stacks[q.top()].size() == n) q.pop();
-        if (q.empty())
-        {
-            q.push(stacks.size());
-            stacks.push_back({});
-        } 
+        if (q.empty()) q.push(stacks.size());
+        if (q.top() == stacks.size()) stacks.push_back({});
         stacks[q.top()].push_back(val);
     }
     
