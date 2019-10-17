@@ -194,7 +194,7 @@ LeetCode
 |0216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | c | [c++](./src/0216-Combination-Sum-III/0216.cpp) |[python](./src/0216-Combination-Sum-III/0216.py)|||Medium|
 |0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | c | [c++](./src/0217-Contains-Duplicate/0217.cpp) |[python](./src/0217-Contains-Duplicate/0217.py)|||Easy|
 |0219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | c | [c++](./src/0219-Contains-Duplicate-II/0219.cpp) |[python](./src/0219-Contains-Duplicate-II/0219.py)|||Easy|
-|0221|[Maximal Square](https://leetcode.com/problems/maximal-square/) | c | [c++](./src/0221-Maximal-Square/0221.cpp) |[python](./src/0221-Maximal-Square/0221.py)|||Medium|
+|0221|[Maximal Square](https://leetcode.com/problems/maximal-square/) | c | [c++](./src/0221-Maximal-Square/0221.cpp) |[python](./src/0221-Maximal-Square/0221.py)|[go](./src/0221-Maximal-Square/0221.go)|[js](./src/0221-Maximal-Square/0221.js)|Medium|
 |0222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | c | [c++](./src/0222-Count-Complete-Tree-Nodes/0222.cpp) |[python](./src/0222-Count-Complete-Tree-Nodes/0222.py)|||Medium|
 |0223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/) | c | [c++](./src/0223-Rectangle-Area/0223.cpp) |[python](./src/0223-Rectangle-Area/0223.py)|||Medium|
 |0226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | c | [c++](./src/0226-Invert-Binary-Tree/0226.cpp) |[python](./src/0226-Invert-Binary-Tree/0226.py)|||Easy|
