@@ -19,7 +19,9 @@ func smallestStringWithSwaps(s string, pairs [][]int) string {
         mem[x] = append(mem[x], s[i])
     }
     for k, _ := range mem {
-        sort.Sort(IntSlice(mem[k]))
+        sort.Slice(mem[k], func(i, j int) bool {
+            return mem[k][i] < mem[k][j]
+        })
     }
     
     res := make([]byte, 0)
@@ -36,18 +38,4 @@ func find(x int) int {
         p[x] = find(p[x])
     }
     return p[x]
-}
-
-type IntSlice []byte
-
-func (s IntSlice) Len() int {
-    return len(s)
-}
-
-func (s IntSlice) Swap(i, j int) {
-    s[i], s[j] = s[j], s[i]
-}
-
-func (s IntSlice) Less(i, j int) bool {
-    return s[i] < s[j]
 }

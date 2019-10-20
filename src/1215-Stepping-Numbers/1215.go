@@ -7,7 +7,7 @@ func countSteppingNumbers(low int, high int) []int {
     for i := 0; i <= 9; i++ {
         bfs(i)
     }
-    sort.Sort(IntSlice(res))
+    sort.Ints(res)
     return res
 }
 
@@ -35,17 +35,3 @@ func bfs(s int) {
         }
     }
 } 
-
-type IntSlice []int
-
-func (s IntSlice) Len() int {
-    return len(s)
-}
-
-func (s IntSlice) Swap(i, j int) {
-    s[i], s[j] = s[j], s[i]
-}
-
-func (s IntSlice) Less(i, j int) bool {
-    return s[i] < s[j]
-}

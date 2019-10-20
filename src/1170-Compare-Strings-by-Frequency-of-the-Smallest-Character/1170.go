@@ -16,7 +16,7 @@ func numSmallerByFrequency(queries []string, words []string) []int {
     for i, word := range words {
         w[i] = f(word)
     }
-    sort.Sort(IntSlice(w))
+    sort.Ints(w)
     
     for i, v := range queries {
         cnt, l, r := f(v), 0, len(w) - 1
@@ -36,9 +36,3 @@ func numSmallerByFrequency(queries []string, words []string) []int {
     }
     return res
 }
-
-type IntSlice []int
- 
-func (s IntSlice) Len() int { return len(s) }
-func (s IntSlice) Swap(i, j int){ s[i], s[j] = s[j], s[i] }
-func (s IntSlice) Less(i, j int) bool { return s[i] < s[j] }

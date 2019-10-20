@@ -1,6 +1,6 @@
 func makeArrayIncreasing(arr1 []int, arr2 []int) int {
     l1, l2 := len(arr1), len(arr2)
-    sort.Sort(IntSlice(arr2))
+    sort.Ints(arr2)
     dp := map[int]int{0:arr1[0], 1:arr2[0]}
     for i := 1; i < l1; i++ {
         ndp := make(map[int]int)
@@ -45,18 +45,4 @@ func min(a, b int) int {
         return a
     }
     return b
-}
-
-type IntSlice []int
-
-func (s IntSlice) Len() int {
-    return len(s)
-}
-
-func (s IntSlice) Swap(i, j int) {
-    s[i], s[j] = s[j], s[i]
-}
-
-func (s IntSlice) Less(i, j int) bool {
-    return s[i] < s[j]
 }
