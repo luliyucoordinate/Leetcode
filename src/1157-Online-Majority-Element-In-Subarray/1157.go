@@ -44,7 +44,10 @@ func (this *MajorityChecker) Query(left int, right int, threshold int) int {
 				r = mid - 1
 			}
 		}
-		t2 = l + 1
+		if this.indexs[num][l] <= right {
+            l++
+        }
+		t2 = l
 		if t2 - t1 >= threshold {
 			return num
 		}
