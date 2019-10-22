@@ -1,42 +1,30 @@
 class Solution:
-    def ladderLength(self, beginWord, endWord, wordList):
-        """
-        :type beginWord: str
-        :type endWord: str
-        :type wordList: List[str]
-        :rtype: int
-        """
-        step = 1
-        wordDict = set(wordList)
+    def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
+        wordDict, step = set(wordList), 1
         if endWord not in wordDict:
             return 0
 
         s1, s2 = set([beginWord]), set([endWord])
         while s1:
             stack = set([])
-            for s in s1:
-                if s in wordDict:
-                    wordDict.remove(s)
+            wordDict -= s1
 
             for s in s1:
                 for i in range(len(beginWord)):
-                    for j in 'abcdefghijklmnopqrstuvwxyz':
+                    for j in string.ascii_lowercase:
                         tmp = s[:i] + j + s[i+1:]
                         if tmp not in wordDict:
                             continue
                         if tmp in s2:
-                            step += 1
-                            return step
+                            return step + 1
                         stack.add(tmp)
 
             if len(stack) < len(s2):
                 s1 = stack
             else:
                 s1, s2 = s2, stack
-
             step += 1
-
-        return 0 
+        return 0
 
 if __name__ == "__main__":
     beginWord = "hit"
