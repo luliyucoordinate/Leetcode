@@ -316,7 +316,7 @@ LeetCode
 |0933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | c | [c++](./src/0933-Number-of-Recent-Calls/0933.cpp) |[python](./src/0933-Number-of-Recent-Calls/0933.py)|||Easy|
 |0934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | c | [c++](./src/0934-Shortest-Bridge/0934.cpp) |[python](./src/0934-Shortest-Bridge/0934.py)|||Medium|
 |0935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/) | c | [c++](./src/0935-Knight-Dialer/0935.cpp) |[python](./src/0935-Knight-Dialer/0935.py)|||Medium|
-|0936|[Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) | c | [c++](./src/0936-Stamping-The-Sequence/0936.cpp) |[python](./src/0936-Stamping-The-Sequence/0936.py)|||Hard|
+|0936|[Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) | c | [c++](./src/0936-Stamping-The-Sequence/0936.cpp) |[python](./src/0936-Stamping-The-Sequence/0936.py)|[go](./src/0936-Stamping-The-Sequence/0936.go)|[js](./src/0936-Stamping-The-Sequence/0936.js)|Hard|
 |0937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files/) | c | [c++](./src/0937-Reorder-Log-Files/0937.cpp) |[python](./src/0937-Reorder-Log-Files/0937.py)|||Easy|
 |0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | c | [c++](./src/0938-Range-Sum-of-BST/0938.cpp) |[python](./src/0938-Range-Sum-of-BST/0938.py)|||Medium|
 |0939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | c | [c++](./src/0939-Minimum-Area-Rectangle/0939.cpp) |[python](./src/0939-Minimum-Area-Rectangle/0939.py)|||Medium|
