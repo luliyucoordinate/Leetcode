@@ -26,7 +26,8 @@ public:
         auto cur = _root;
         for (auto c : word)
         {
-            if (!(cur->next).count(c)) cur->next[c] = new Node();
+            if (!(cur->next).count(c)) // or if (cur->next[c] == nullptr)
+                cur->next[c] = new Node();   
             cur = cur->next[c];
         }
         if (!cur->isWord) cur->isWord = true;
