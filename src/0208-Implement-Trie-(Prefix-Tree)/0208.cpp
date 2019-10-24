@@ -6,7 +6,7 @@ public:
     Node()  : isWord(false){}
     ~Node()
     {
-        for (const auto& item : _next) delete item.second; 
+        for (const auto& item : next) delete item.second; 
     }
 
     bool isWord;
