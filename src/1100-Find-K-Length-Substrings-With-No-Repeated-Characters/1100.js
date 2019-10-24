@@ -1,10 +1,10 @@
 var numKLenSubstrNoRepeats = function(S, K) {
     var res = 0, low = -1;
-    var usedChar = new Map();
+    var usedChar = {};
     for (var i = 0; i < S.length; ++i) {
-        if (usedChar.has(S[i]) && usedChar.get(S[i]) >= low) low = usedChar.get(S[i]);
+        if (usedChar[S[i]] && usedChar[S[i]] >= low) low = usedChar[S[i]];
         if (i - low >= K) res++;
-        usedChar.set(S[i], i);
+        usedChar[S[i]] = i;
     }
     return res;
 }

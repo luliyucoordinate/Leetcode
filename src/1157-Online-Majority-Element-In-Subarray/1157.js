@@ -3,10 +3,10 @@
  */
 var MajorityChecker = function(arr) {
     this.data = arr;
-    this.indexs = new Map();
+    this.indexs = {};
     for (var i = 0; i < arr.length; ++i) {
-        if (!this.indexs.has(arr[i])) this.indexs.set(arr[i], Array());
-        this.indexs.get(arr[i]).push(i);
+        if (!this.indexs[arr[i]]) this.indexs[arr[i]] = [];
+        this.indexs[arr[i]].push(i);
     }
 };
 
@@ -19,19 +19,19 @@ var MajorityChecker = function(arr) {
 MajorityChecker.prototype.query = function(left, right, threshold) {
     for (var i = 0; i < 7; ++i) {
         var num = this.data[Math.round(Math.random()*(right - left) + left)];
-        var l = 0, r = this.indexs.get(num).length - 1;
+        var l = 0, r = this.indexs[num].length - 1;
         while (l < r) {
             var mid = l + r >> 1;
-            if (this.indexs.get(num)[mid] >= left) {
+            if (this.indexs[num][mid] >= left) {
                 r = mid;
             } else l = mid + 1;
         }
         var t1 = l, t2 = 0;
         
-        l = 0, r = this.indexs.get(num).length - 1;
+        l = 0, r = this.indexs[num].length - 1;
         while (l < r) {
             var mid = l + r + 1 >> 1;
-            if (this.indexs.get(num)[mid] <= right) {
+            if (this.indexs[num][mid] <= right) {
                 l = mid;
             } else r = mid - 1;
         }
