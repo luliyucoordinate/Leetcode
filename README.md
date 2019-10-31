@@ -200,7 +200,7 @@ LeetCode
 |0221|[Maximal Square](https://leetcode.com/problems/maximal-square/) | c | [c++](./src/0221-Maximal-Square/0221.cpp) |[python](./src/0221-Maximal-Square/0221.py)|[go](./src/0221-Maximal-Square/0221.go)|[js](./src/0221-Maximal-Square/0221.js)|Medium|
 |0222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | c | [c++](./src/0222-Count-Complete-Tree-Nodes/0222.cpp) |[python](./src/0222-Count-Complete-Tree-Nodes/0222.py)|||Medium|
 |0223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/) | c | [c++](./src/0223-Rectangle-Area/0223.cpp) |[python](./src/0223-Rectangle-Area/0223.py)|||Medium|
-|0224|[Basic Calculator](https://leetcode.com/problems/rectangle-area/) | c | [c++](./src/0224-Basic-Calculator/0224.cpp) |[python](./src/0224-Basic-Calculator/0224.py)|[go](./src/0224-Basic-Calculator/0224.go)|[js](./src/0224-Basic-Calculator/0224.js)|Hard|
+|0224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/) | c | [c++](./src/0224-Basic-Calculator/0224.cpp) |[python](./src/0224-Basic-Calculator/0224.py)|[go](./src/0224-Basic-Calculator/0224.go)|[js](./src/0224-Basic-Calculator/0224.js)|Hard|
 |0226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | c | [c++](./src/0226-Invert-Binary-Tree/0226.cpp) |[python](./src/0226-Invert-Binary-Tree/0226.py)|||Easy|
 |0228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | c | [c++](./src/0228-Summary-Ranges/0228.cpp) |[python](./src/0228-Summary-Ranges/0228.py)|||Medium|
 |0229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/) | c | [c++](./src/0229-Majority-Element-II/0229.cpp) |[python](./src/0229-Majority-Element-II/0229.py)|||Medium|
