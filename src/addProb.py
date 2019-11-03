@@ -1,10 +1,10 @@
 import os, bisect
 
 # 题目名称
-name = "Goat Latin"
-ID = 824
-url = "https://leetcode.com/problems/goat-latin/"
-difficult = "Easy"
+name = "Friends Of Appropriate Ages"
+ID = 825
+url = "https://leetcode.com/problems/friends-of-appropriate-ages/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
