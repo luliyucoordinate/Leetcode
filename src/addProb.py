@@ -1,10 +1,10 @@
 import os, bisect
 
 # 题目名称
-name = "Friends Of Appropriate Ages"
-ID = 825
-url = "https://leetcode.com/problems/friends-of-appropriate-ages/"
-difficult = "Medium"
+name = "Array Transformation"
+ID = 1243
+url = "https://leetcode.com/problems/array-transformation/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
