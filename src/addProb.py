@@ -1,10 +1,11 @@
+#!/usr/bin/python3
 import os, bisect
 
 # 题目名称
-name = "Array Transformation"
-ID = 1243
-url = "https://leetcode.com/problems/array-transformation/"
-difficult = "Easy"
+name = "Check If It Is a Good Array"
+ID = 1250
+url = "https://leetcode.com/problems/check-if-it-is-a-good-array/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
@@ -32,8 +33,9 @@ for p in prog[1:]:
         p = 'python'
     insertData.append('[' + p + ']' + '(' + fileName + ')')
 insertData.append(difficult)
-insertData = '|' + "|".join(insertData) + '|\n'
-tData.insert(bisect.bisect(tData, insertData), insertData)
+insertData = '|' + '|'.join(insertData) + '|'
+index = bisect.bisect(tData, insertData)
+tData.insert(index, '\n' + insertData)
 with open("../README.md", 'w') as f:
     f.writelines(data[:6] + tData)
         
