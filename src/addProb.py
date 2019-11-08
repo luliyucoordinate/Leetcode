@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Check If It Is a Good Array"
-ID = 1250
-url = "https://leetcode.com/problems/check-if-it-is-a-good-array/"
-difficult = "Hard"
+name = "Most Profit Assigning Work"
+ID = 826
+url = "https://leetcode.com/problems/most-profit-assigning-work/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
@@ -26,16 +26,22 @@ with open("../README.md") as f:
 tData = data[6:]
 insertData = [ID, '[' + name + ']' + '(' + url + ')', 'c']
 for p in prog[1:]:
-    fileName = dirName + '/' + ID + '.' + p
+    fileName = './src/' + dirName + '/' + ID + '.' + p
     if p == 'cpp':
         p = 'c++'
     elif p == 'py':
         p = 'python'
     insertData.append('[' + p + ']' + '(' + fileName + ')')
+
 insertData.append(difficult)
 insertData = '|' + '|'.join(insertData) + '|'
 index = bisect.bisect(tData, insertData)
-tData.insert(index, '\n' + insertData)
+if index == len(tData):
+    insertData = '\n' + insertData
+else:
+    insertData += '\n'
+
+tData.insert(index, insertData)
 with open("../README.md", 'w') as f:
     f.writelines(data[:6] + tData)
         
