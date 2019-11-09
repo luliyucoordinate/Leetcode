@@ -5,6 +5,7 @@ public:
     {
         auto parent = string(path.begin(), path.begin() + path.rfind('/'));
         if (!parent.empty() && !paths.count(parent)) return false;
+        if (paths.count(path)) return false;
         return paths.emplace(path, value).second;
     }
 

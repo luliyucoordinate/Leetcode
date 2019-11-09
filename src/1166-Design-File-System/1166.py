@@ -3,7 +3,8 @@ class FileSystem:
         self.data = {"": -1}
 
     def create(self, path: str, value: int) -> bool:
-        if path[:path.rfind("/")] not in self.data:
+        if path[:path.rfind("/")] not in self.data \
+            or path in self.data:
             return False
         self.data[path] = value
         return True

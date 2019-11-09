@@ -11,7 +11,7 @@ var FileSystem = function() {
  */
 FileSystem.prototype.create = function(path, value) {
     var parent = path.substr(0, path.lastIndexOf("/"));
-    if (!this.paths[parent]) return false;
+    if (!this.paths[parent] || this.paths[path]) return false;
     this.paths[path] = value;
     return true;
 };

@@ -16,6 +16,9 @@ func (this *FileSystem) Create(path string, value int) bool {
     if _, ok := this.paths[parent]; !ok {
         return false
     }
+    if _, ok := this.paths[path]; ok {
+        return false
+    }
     this.paths[path] = value
     return true
 }
