@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Most Profit Assigning Work"
-ID = 826
-url = "https://leetcode.com/problems/most-profit-assigning-work/"
-difficult = "Medium"
+name = "Making A Large Island"
+ID = 827
+url = "https://leetcode.com/problems/making-a-large-island/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
