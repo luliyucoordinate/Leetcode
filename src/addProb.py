@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Making A Large Island"
-ID = 827
-url = "https://leetcode.com/problems/making-a-large-island/"
-difficult = "Hard"
+name = "Cells with Odd Values in a Matrix"
+ID = 1252
+url = "https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
