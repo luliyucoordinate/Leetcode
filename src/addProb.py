@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Cells with Odd Values in a Matrix"
-ID = 1252
-url = "https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/"
-difficult = "Easy"
+name = "Reconstruct a 2-Row Binary Matrix"
+ID = 1253
+url = "https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
