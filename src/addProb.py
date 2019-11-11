@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Number of Closed Islands"
-ID = 1254
-url = "https://leetcode.com/problems/number-of-closed-islands/"
-difficult = "Medium"
+name = "Maximum Score Words Formed by Letters"
+ID = 1255
+url = "https://leetcode.com/problems/maximum-score-words-formed-by-letters/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
