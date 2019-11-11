@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Reconstruct a 2-Row Binary Matrix"
-ID = 1253
-url = "https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/"
+name = "Number of Closed Islands"
+ID = 1254
+url = "https://leetcode.com/problems/number-of-closed-islands/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
