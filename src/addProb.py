@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Maximum Score Words Formed by Letters"
-ID = 1255
-url = "https://leetcode.com/problems/maximum-score-words-formed-by-letters/"
+name = "Unique Letter String"
+ID = 828
+url = "https://leetcode.com/problems/unique-letter-string/"
 difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
