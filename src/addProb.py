@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Find Elements in a Contaminated Binary Tree"
-ID = 1261
-url = "https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/"
+name = "Greatest Sum Divisible by Three"
+ID = 1262
+url = "https://leetcode.com/problems/greatest-sum-divisible-by-three/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
