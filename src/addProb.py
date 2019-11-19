@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Unique Letter String"
-ID = 828
-url = "https://leetcode.com/problems/unique-letter-string/"
-difficult = "Hard"
+name = "Encode Number"
+ID = 1256
+url = "https://leetcode.com/contest/biweekly-contest-13/problems/encode-number/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
