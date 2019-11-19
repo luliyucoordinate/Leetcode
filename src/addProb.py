@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Encode Number"
-ID = 1256
-url = "https://leetcode.com/contest/biweekly-contest-13/problems/encode-number/"
+name = "Smallest Common Region"
+ID = 1257
+url = "https://leetcode.com/contest/biweekly-contest-13/problems/smallest-common-region/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
