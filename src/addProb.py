@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Smallest Common Region"
-ID = 1257
-url = "https://leetcode.com/contest/biweekly-contest-13/problems/smallest-common-region/"
+name = "Synonymous Sentences"
+ID = 1258
+url = "https://leetcode.com/contest/biweekly-contest-13/problems/synonymous-sentences/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
