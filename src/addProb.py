@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Shift 2D Grid"
-ID = 1260
-url = "https://leetcode.com/problems/shift-2d-grid/"
-difficult = "Easy"
+name = "Find Elements in a Contaminated Binary Tree"
+ID = 1261
+url = "https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
