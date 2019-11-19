@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Synonymous Sentences"
-ID = 1258
-url = "https://leetcode.com/contest/biweekly-contest-13/problems/synonymous-sentences/"
-difficult = "Medium"
+name = "Shift 2D Grid"
+ID = 1260
+url = "https://leetcode.com/problems/shift-2d-grid/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
