@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Greatest Sum Divisible by Three"
-ID = 1262
-url = "https://leetcode.com/problems/greatest-sum-divisible-by-three/"
-difficult = "Medium"
+name = "Minimum Moves to Move a Box to Their Target Location"
+ID = 1263
+url = "https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
