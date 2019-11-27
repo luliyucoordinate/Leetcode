@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Minimum Time Visiting All Points"
-ID = 1266
-url = "https://leetcode.com/problems/minimum-time-visiting-all-points/"
-difficult = "Easy"
+name = "Count Servers that Communicate"
+ID = 1267
+url = "https://leetcode.com/problems/count-servers-that-communicate/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
