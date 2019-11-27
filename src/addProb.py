@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Search Suggestions System"
-ID = 1268
-url = "https://leetcode.com/problems/search-suggestions-system/"
-difficult = "Medium"
+name = "Number of Ways to Stay in the Same Place After Some Steps"
+ID = 1269
+url = "https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
