@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Minimum Moves to Move a Box to Their Target Location"
-ID = 1263
-url = "https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/"
-difficult = "Hard"
+name = "Minimum Time Visiting All Points"
+ID = 1266
+url = "https://leetcode.com/problems/minimum-time-visiting-all-points/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
