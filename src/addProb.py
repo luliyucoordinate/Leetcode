@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Count Servers that Communicate"
-ID = 1267
-url = "https://leetcode.com/problems/count-servers-that-communicate/"
+name = "Search Suggestions System"
+ID = 1268
+url = "https://leetcode.com/problems/search-suggestions-system/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
