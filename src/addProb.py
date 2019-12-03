@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Hexspeak"
-ID = 1271
-url = "https://leetcode.com/contest/biweekly-contest-14/problems/hexspeak/"
-difficult = "Easy"
+name = "Remove Interval"
+ID = 1272
+url = "https://leetcode.com/contest/biweekly-contest-14/problems/remove-interval/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
