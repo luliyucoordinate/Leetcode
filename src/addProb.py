@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Number of Ways to Stay in the Same Place After Some Steps"
-ID = 1269
-url = "https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/"
-difficult = "Hard"
+name = "Hexspeak"
+ID = 1271
+url = "https://leetcode.com/contest/biweekly-contest-14/problems/hexspeak/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
