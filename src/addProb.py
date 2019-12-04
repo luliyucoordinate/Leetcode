@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Find Winner on a Tic Tac Toe Game"
-ID = 1275
-url = "https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/"
-difficult = "Easy"
+name = "Number of Burgers with No Waste of Ingredients"
+ID = 1276
+url = "https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
