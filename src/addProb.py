@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Number of Burgers with No Waste of Ingredients"
-ID = 1276
-url = "https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/"
+name = "Count Square Submatrices with All Ones"
+ID = 1277
+url = "https://leetcode.com/problems/count-square-submatrices-with-all-ones/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
