@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Delete Tree Nodes"
-ID = 1273
-url = "https://leetcode.com/contest/biweekly-contest-14/problems/delete-tree-nodes/"
-difficult = "Medium"
+name = "Number of Ships in a Rectangle"
+ID = 1274
+url = "https://leetcode.com/contest/biweekly-contest-14/problems/number-of-ships-in-a-rectangle/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
