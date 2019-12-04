@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Remove Interval"
-ID = 1272
-url = "https://leetcode.com/contest/biweekly-contest-14/problems/remove-interval/"
+name = "Delete Tree Nodes"
+ID = 1273
+url = "https://leetcode.com/contest/biweekly-contest-14/problems/delete-tree-nodes/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
