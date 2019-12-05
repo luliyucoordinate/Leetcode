@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Count Square Submatrices with All Ones"
-ID = 1277
-url = "https://leetcode.com/problems/count-square-submatrices-with-all-ones/"
-difficult = "Medium"
+name = "Palindrome Partitioning III"
+ID = 1278
+url = "https://leetcode.com/problems/palindrome-partitioning-iii/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
