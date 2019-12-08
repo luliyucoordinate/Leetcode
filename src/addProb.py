@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Palindrome Partitioning III"
-ID = 1278
-url = "https://leetcode.com/problems/palindrome-partitioning-iii/"
-difficult = "Hard"
+name = "Subtract the Product and Sum of Digits of an Integer"
+ID = 1281
+url = "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
