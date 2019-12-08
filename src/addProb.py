@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Subtract the Product and Sum of Digits of an Integer"
-ID = 1281
-url = "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/"
-difficult = "Easy"
+name = "Group the People Given the Group Size They Belong To"
+ID = 1282
+url = "https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
