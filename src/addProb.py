@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Group the People Given the Group Size They Belong To"
-ID = 1282
-url = "https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/"
+name = "Find the Smallest Divisor Given a Threshold"
+ID = 1283
+url = "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
