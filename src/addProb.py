@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Find the Smallest Divisor Given a Threshold"
-ID = 1283
-url = "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/"
-difficult = "Medium"
+name = "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix"
+ID = 1284
+url = "https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
