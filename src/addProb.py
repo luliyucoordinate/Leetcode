@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Element Appearing More Than 25% In Sorted Array"
-ID = 1287
-url = "https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/"
-difficult = "Easy"
+name = "Remove Covered Intervals"
+ID = 1288
+url = "https://leetcode.com/problems/remove-covered-intervals/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
