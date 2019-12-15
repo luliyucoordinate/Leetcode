@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix"
-ID = 1284
-url = "https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/"
-difficult = "Hard"
+name = "Iterator for Combination"
+ID = 1286
+url = "https://leetcode.com/problems/iterator-for-combination/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
