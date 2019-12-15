@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Iterator for Combination"
-ID = 1286
-url = "https://leetcode.com/problems/iterator-for-combination/"
-difficult = "Medium"
+name = "Element Appearing More Than 25% In Sorted Array"
+ID = 1287
+url = "https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
