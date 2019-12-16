@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Sequential Digits"
-ID = 1291
-url = "https://leetcode.com/problems/sequential-digits/"
+name = "Maximum Side Length of a Square with Sum Less than or Equal to Threshold"
+ID = 1292
+url = "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
