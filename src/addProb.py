@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Convert Binary Number in a Linked List to Integer"
-ID = 1290
-url = "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/"
-difficult = "Easy"
+name = "Sequential Digits"
+ID = 1291
+url = "https://leetcode.com/problems/sequential-digits/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
