@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Minimum Falling Path Sum II"
-ID = 1289
-url = "https://leetcode.com/problems/minimum-falling-path-sum-ii/"
-difficult = "Hard"
+name = "Convert Binary Number in a Linked List to Integer"
+ID = 1290
+url = "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
