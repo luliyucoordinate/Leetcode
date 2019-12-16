@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Remove Covered Intervals"
-ID = 1288
-url = "https://leetcode.com/problems/remove-covered-intervals/"
-difficult = "Medium"
+name = "Minimum Falling Path Sum II"
+ID = 1289
+url = "https://leetcode.com/problems/minimum-falling-path-sum-ii/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
