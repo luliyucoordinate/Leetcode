@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Maximum Side Length of a Square with Sum Less than or Equal to Threshold"
-ID = 1292
-url = "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/"
-difficult = "Medium"
+name = "Shortest Path in a Grid with Obstacles Elimination"
+ID = 1293
+url = "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
