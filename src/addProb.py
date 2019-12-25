@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Divide Array in Sets of K Consecutive Numbers"
-ID = 1296
-url = "https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/"
+name = "Maximum Number of Occurrences of a Substring"
+ID = 1297
+url = "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
