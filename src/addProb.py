@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Shortest Path in a Grid with Obstacles Elimination"
-ID = 1293
-url = "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/"
-difficult = "Hard"
+name = "Find Numbers with Even Number of Digits"
+ID = 1295
+url = "https://leetcode.com/problems/find-numbers-with-even-number-of-digits/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
