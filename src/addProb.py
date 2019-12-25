@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Find Numbers with Even Number of Digits"
-ID = 1295
-url = "https://leetcode.com/problems/find-numbers-with-even-number-of-digits/"
-difficult = "Easy"
+name = "Divide Array in Sets of K Consecutive Numbers"
+ID = 1296
+url = "https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
