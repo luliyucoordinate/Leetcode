@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Maximum Number of Occurrences of a Substring"
-ID = 1297
-url = "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/"
-difficult = "Medium"
+name = "Maximum Candies You Can Get from Boxes"
+ID = 1298
+url = "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
