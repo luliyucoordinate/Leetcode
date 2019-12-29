@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Maximum Candies You Can Get from Boxes"
-ID = 1298
-url = "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/"
-difficult = "Hard"
+name = "Replace Elements with Greatest Element on Right Side"
+ID = 1299
+url = "https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
