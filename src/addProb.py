@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Replace Elements with Greatest Element on Right Side"
-ID = 1299
-url = "https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/"
-difficult = "Easy"
+name = "Sum of Mutated Array Closest to Target"
+ID = 1300
+url = "https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
