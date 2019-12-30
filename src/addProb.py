@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Deepest Leaves Sum"
-ID = 1302
-url = "https://leetcode.com/problems/deepest-leaves-sum/"
-difficult = "Medium"
+name = "Find N Unique Integers Sum up to Zero"
+ID = 1304
+url = "https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
