@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Consecutive Numbers Sum"
-ID = 829
-url = "https://leetcode.com/problems/consecutive-numbers-sum/"
-difficult = "Hard"
+name = "Deepest Leaves Sum"
+ID = 1302
+url = "https://leetcode.com/problems/deepest-leaves-sum/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
