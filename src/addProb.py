@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Sum of Mutated Array Closest to Target"
-ID = 1300
-url = "https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/"
-difficult = "Medium"
+name = "Consecutive Numbers Sum"
+ID = 829
+url = "https://leetcode.com/problems/consecutive-numbers-sum/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
