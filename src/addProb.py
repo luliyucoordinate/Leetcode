@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "All Elements in Two Binary Search Trees"
-ID = 1305
-url = "https://leetcode.com/problems/all-elements-in-two-binary-search-trees/"
+name = "Jump Game III"
+ID = 1306
+url = "https://leetcode.com/problems/jump-game-iii/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
@@ -41,7 +41,9 @@ if index == len(tData):
 else:
     insertData += '\n'
 
-tData.insert(index, insertData)
-with open("../README.md", 'w') as f:
-    f.writelines(data[:6] + tData)
+target_org_str, insert_org_str = tData[index-1].strip("\n")[:6], insertData.strip("\n")[:6]
+if target_org_str != insert_org_str:
+    tData.insert(index, insertData)
+    with open("../README.md", 'w') as f:
+        f.writelines(data[:6] + tData)
         
