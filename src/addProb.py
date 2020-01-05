@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Jump Game III"
-ID = 1306
-url = "https://leetcode.com/problems/jump-game-iii/"
-difficult = "Medium"
+name = "Decrypt String from Alphabet to Integer Mapping"
+ID = 1309
+url = "https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
