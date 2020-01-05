@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Decrypt String from Alphabet to Integer Mapping"
-ID = 1309
-url = "https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/"
-difficult = "Easy"
+name = "XOR Queries of a Subarray"
+ID = 1310
+url = "https://leetcode.com/problems/xor-queries-of-a-subarray/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
