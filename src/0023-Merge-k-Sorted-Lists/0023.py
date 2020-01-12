@@ -22,7 +22,7 @@ class Solution(object):
                 x += 1
 
         while p:
-            cur.next = heapq.heappop(p)[1]
+            cur.next = heapq.heappop(p)[2]
             cur = cur.next
 
         return result.next
