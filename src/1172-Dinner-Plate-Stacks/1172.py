@@ -6,7 +6,7 @@ class DinnerPlates:
         self.n = capacity
 
     def push(self, val: int) -> None:
-        while self.q and len(self.data[self.q[0]]) == self.n:
+        while self.q and self.q[0] < len(self.data) and len(self.data[self.q[0]]) == self.n:
             heapq.heappop(self.q)
         if not self.q:
             heapq.heappush(self.q, len(self.data))
