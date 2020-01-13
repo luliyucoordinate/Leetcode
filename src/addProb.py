@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Matrix Block Sum"
-ID = 1314
-url = "https://leetcode.com/problems/matrix-block-sum/"
+name = "Sum of Nodes with Even-Valued Grandparent"
+ID = 1315
+url = "https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
