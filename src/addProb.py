@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "XOR Queries of a Subarray"
-ID = 1310
-url = "https://leetcode.com/problems/xor-queries-of-a-subarray/"
-difficult = "Medium"
+name = "Decompress Run-Length Encoded List"
+ID = 1313
+url = "https://leetcode.com/problems/decompress-run-length-encoded-list/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
