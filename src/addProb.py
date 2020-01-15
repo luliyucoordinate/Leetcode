@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Sum of Nodes with Even-Valued Grandparent"
-ID = 1315
-url = "https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/"
-difficult = "Medium"
+name = "Repeated Substring Pattern"
+ID = 459
+url = "https://leetcode.com/problems/repeated-substring-pattern/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
