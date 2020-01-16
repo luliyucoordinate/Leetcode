@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Convert Integer to the Sum of Two No-Zero Integers"
-ID = 1317
-url = "https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/"
-difficult = "Easy"
+name = "Minimum Flips to Make a OR b Equal to c"
+ID = 1318
+url = "https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
