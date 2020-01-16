@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Repeated Substring Pattern"
-ID = 459
-url = "https://leetcode.com/problems/repeated-substring-pattern/"
+name = "Convert Integer to the Sum of Two No-Zero Integers"
+ID = 1317
+url = "https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/"
 difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
