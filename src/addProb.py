@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Minimum Flips to Make a OR b Equal to c"
-ID = 1318
-url = "https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/"
+name = "Number of Operations to Make Network Connected"
+ID = 1319
+url = "https://leetcode.com/problems/number-of-operations-to-make-network-connected/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
