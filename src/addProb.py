@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Print Words Vertically"
-ID = 1324
-url = "https://leetcode.com/problems/print-words-vertically/"
+name = "Delete Leaves With a Given Value"
+ID = 1325
+url = "https://leetcode.com/problems/delete-leaves-with-a-given-value/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
