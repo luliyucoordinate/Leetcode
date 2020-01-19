@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Maximum 69 Number"
-ID = 1323
-url = "https://leetcode.com/problems/maximum-69-number/"
-difficult = "Easy"
+name = "Print Words Vertically"
+ID = 1324
+url = "https://leetcode.com/problems/print-words-vertically/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
