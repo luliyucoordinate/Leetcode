@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Minimum Distance to Type a Word Using Two Fingers"
-ID = 1320
-url = "https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/"
-difficult = "Hard"
+name = "Maximum 69 Number"
+ID = 1323
+url = "https://leetcode.com/problems/maximum-69-number/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
