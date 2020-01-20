@@ -9,17 +9,20 @@ class Solution
 public:
     int jump(vector<int>& nums) 
     {
-        vector<int> steps(nums.size(), nums[0]);
-        int step = 0;
-        for (uint i = 1; i < nums.size(); ++i)
+        int pre = -1, cur = 0, step = 0;
+        for (int i = 0; i < nums.size(); i++)
         {
-            if (steps[step] >= nums.size() - 1) return step + 1;
-            if (steps[step + 1] < i + nums[i]) steps[step + 1] = i + nums[i];
-            if (steps[step] <= i) step++;
+            if (cur >= nums.size() - 1) return step;
+            if (pre < i && i <= cur)
+            {
+                step++, pre = cur;
+            }
+            cur = max(cur, i + nums[i]);
         }
         return step;
     }
 };
+
 int main()
 {
     vector<int> nums = {3,4,-1,1};
