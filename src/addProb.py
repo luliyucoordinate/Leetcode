@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Delete Leaves With a Given Value"
-ID = 1325
-url = "https://leetcode.com/problems/delete-leaves-with-a-given-value/"
+name = "Video Stitching"
+ID = 1024
+url = "https://leetcode.com/problems/video-stitching/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
