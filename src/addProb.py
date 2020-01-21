@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Video Stitching"
-ID = 1024
-url = "https://leetcode.com/problems/video-stitching/"
-difficult = "Medium"
+name = "Minimum Number of Taps to Open to Water a Garden"
+ID = 1326
+url = "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
