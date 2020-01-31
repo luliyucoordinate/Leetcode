@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Break a Palindrome"
-ID = 1328
-url = "https://leetcode.com/problems/break-a-palindrome/"
+name = "Sort the Matrix Diagonally"
+ID = 1329
+url = "https://leetcode.com/problems/sort-the-matrix-diagonally/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
