@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Minimum Number of Taps to Open to Water a Garden"
-ID = 1326
-url = "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/"
-difficult = "Hard"
+name = "Break a Palindrome"
+ID = 1328
+url = "https://leetcode.com/problems/break-a-palindrome/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
