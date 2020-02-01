@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Find the City With the Smallest Number of Neighbors at a Threshold Distance"
-ID = 1334
-url = "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/"
-difficult = "Medium"
+name = "Minimum Difficulty of a Job Schedule"
+ID = 1335
+url = "https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
