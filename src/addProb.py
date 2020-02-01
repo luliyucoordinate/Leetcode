@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Filter Restaurants by Vegan-Friendly, Price and Distance"
-ID = 1333
-url = "https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/"
+name = "Find the City With the Smallest Number of Neighbors at a Threshold Distance"
+ID = 1334
+url = "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
