@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Rank Transform of an Array"
-ID = 1331
-url = "https://leetcode.com/problems/rank-transform-of-an-array/"
+name = "Remove Palindromic Subsequences"
+ID = 1332
+url = "https://leetcode.com/problems/remove-palindromic-subsequences/"
 difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
