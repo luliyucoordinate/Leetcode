@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Remove Palindromic Subsequences"
-ID = 1332
-url = "https://leetcode.com/problems/remove-palindromic-subsequences/"
-difficult = "Easy"
+name = "Filter Restaurants by Vegan-Friendly, Price and Distance"
+ID = 1333
+url = "https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
