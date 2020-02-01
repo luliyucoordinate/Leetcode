@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Sort the Matrix Diagonally"
-ID = 1329
-url = "https://leetcode.com/problems/sort-the-matrix-diagonally/"
-difficult = "Medium"
+name = "Rank Transform of an Array"
+ID = 1331
+url = "https://leetcode.com/problems/rank-transform-of-an-array/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
