@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Minimum Difficulty of a Job Schedule"
-ID = 1335
-url = "https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/"
-difficult = "Hard"
+name = "The K Weakest Rows in a Matrix"
+ID = 1337
+url = "https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
