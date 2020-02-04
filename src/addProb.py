@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "The K Weakest Rows in a Matrix"
-ID = 1337
-url = "https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/"
-difficult = "Easy"
+name = "Reduce Array Size to The Half"
+ID = 1338
+url = "https://leetcode.com/problems/reduce-array-size-to-the-half/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
