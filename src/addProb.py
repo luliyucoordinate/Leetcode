@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Jump Game V"
-ID = 1340
-url = "https://leetcode.com/problems/jump-game-v/"
+name = "Reverse Subarray To Maximize Array Value"
+ID = 1330
+url = "https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/"
 difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
