@@ -1,25 +1,41 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
-using namespace std;
-
-static int x = []() {std::ios::sync_with_stdio(false); cin.tie(0); return 0; }();
 class Solution 
 {
 public:
     bool canPartition(vector<int>& nums) 
     {
-        int result = 0;
-        for (auto& i : nums) result += i;
-        if (result & 1) return false;
-        return _canPartition(nums, nums.size() - 1, result >> 1);
+        s = 0, n = nums.size();
+        for (int i : nums) s += i;
+        if (s % 2) return false;
+        
+        t = s / 2;
+        vis = vector<int>(n);
+
+        sort(nums.begin(), nums.end(), greater<int>());
+        return dfs(nums, 0, 0, 0);
     }
 private:
-    bool _canPartition(vector<int>& nums, int index, int result)
+    int n, s, t;
+    vector<int> vis;
+    
+    bool dfs(vector<int>& nums, int cur, int u, int p)
     {
-        if (result == 0) return true;
-        if (result < 0 or index < 0 or nums[index] > result) return false;
-        return _canPartition(nums, index - 1, result - nums[index]) or  
-            _canPartition(nums, index - 1, result);
+        if (u == 2) return true;
+        if (cur == t) return dfs(nums, 0, u + 1, 0);
+        
+        for (int i = p, j; i < n; i++)
+        {
+            if (nums[i] + cur > t || vis[i]) continue;
+            
+            vis[i] = 1;
+            if (dfs(nums, cur + nums[i], u, i + 1)) return true;
+            vis[i] = 0;
+            
+            if (!cur || cur + nums[i] == t) return false;
+            
+            j = i;
+            while (j < n && nums[i] == nums[j]) j++;
+            i = j - 1;
+        }
+        return false;
     }
 };

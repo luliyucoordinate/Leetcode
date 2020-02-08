@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Partition to K Equal Sum Subsets"
-ID = 698
-url = "https://leetcode.com/problems/partition-to-k-equal-sum-subsets/"
+name = "Partition Equal Subset Sum"
+ID = 416
+url = "https://leetcode.com/problems/partition-equal-subset-sum/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
