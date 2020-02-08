@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Matchsticks to Square"
-ID = 473
-url = "https://leetcode.com/problems/matchsticks-to-square/"
+name = "Partition to K Equal Sum Subsets"
+ID = 698
+url = "https://leetcode.com/problems/partition-to-k-equal-sum-subsets/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
