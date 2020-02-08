@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Reverse Subarray To Maximize Array Value"
-ID = 1330
-url = "https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/"
-difficult = "Hard"
+name = "Matchsticks to Square"
+ID = 473
+url = "https://leetcode.com/problems/matchsticks-to-square/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
