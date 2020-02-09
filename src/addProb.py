@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Partition Equal Subset Sum"
-ID = 416
-url = "https://leetcode.com/problems/partition-equal-subset-sum/"
-difficult = "Medium"
+name = "Number of Steps to Reduce a Number to Zero"
+ID = 1342
+url = "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
