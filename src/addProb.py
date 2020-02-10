@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Check If N and Its Double Exist"
-ID = 1346
-url = "https://leetcode.com/problems/check-if-n-and-its-double-exist/"
-difficult = "Easy"
+name = "Minimum Number of Steps to Make Two Strings Anagram"
+ID = 1347
+url = "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
