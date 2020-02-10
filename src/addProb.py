@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold"
-ID = 1343
-url = "https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/"
+name = "Angle Between Hands of a Clock"
+ID = 1344
+url = "https://leetcode.com/problems/angle-between-hands-of-a-clock/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
