@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Angle Between Hands of a Clock"
-ID = 1344
-url = "https://leetcode.com/problems/angle-between-hands-of-a-clock/"
-difficult = "Medium"
+name = "Jump Game IV"
+ID = 1345
+url = "https://leetcode.com/problems/jump-game-iv/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
