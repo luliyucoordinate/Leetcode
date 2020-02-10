@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Jump Game IV"
-ID = 1345
-url = "https://leetcode.com/problems/jump-game-iv/"
-difficult = "Hard"
+name = "Check If N and Its Double Exist"
+ID = 1346
+url = "https://leetcode.com/problems/check-if-n-and-its-double-exist/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
