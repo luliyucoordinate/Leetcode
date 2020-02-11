@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Minimum Number of Steps to Make Two Strings Anagram"
-ID = 1347
-url = "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/"
+name = "Tweet Counts Per Frequency"
+ID = 1348
+url = "https://leetcode.com/problems/tweet-counts-per-frequency/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
