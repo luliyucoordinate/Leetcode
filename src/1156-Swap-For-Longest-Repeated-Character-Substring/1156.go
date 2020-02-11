@@ -4,6 +4,7 @@ func maxRepOpt1(s string) int {
     for _, v := range []byte(s) {
         cnt[v]++
     }
+
     for r := 0; r < n; r++ {
         d[s[r]]++
         if mf < d[s[r]] {
@@ -11,7 +12,7 @@ func maxRepOpt1(s string) int {
             mc = s[r]
         }
 
-        for r - l + 1 - mf > 1 {
+        if r - l + 1 - mf > 1 {
             d[s[l]]--
             l++
         }

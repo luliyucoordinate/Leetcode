@@ -7,7 +7,7 @@ class Solution:
             if d[c] > mf:
                 mf, mc = d[c], c
                 
-            while r - l + 1 - mf > 1:
+            if r - l + 1 - mf > 1:
                 d[s[l]] -= 1
                 l += 1
             res = max(res, r - l + 1)

@@ -17,7 +17,7 @@ public:
                 mc = s[r];
             }
 
-            while (r - l + 1 - mf > 1)
+            if (r - l + 1 - mf > 1)
             {
                 d[s[l]]--; l++;
             }
