@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Tweet Counts Per Frequency"
-ID = 1348
-url = "https://leetcode.com/problems/tweet-counts-per-frequency/"
-difficult = "Medium"
+name = "Maximum Students Taking Exam"
+ID = 1349
+url = "https://leetcode.com/problems/maximum-students-taking-exam/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
