@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Maximum Students Taking Exam"
-ID = 1349
-url = "https://leetcode.com/problems/maximum-students-taking-exam/"
-difficult = "Hard"
+name = "Count Negative Numbers in a Sorted Matrix"
+ID = 1351
+url = "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
