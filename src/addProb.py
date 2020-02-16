@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Count Negative Numbers in a Sorted Matrix"
-ID = 1351
-url = "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/"
-difficult = "Easy"
+name = "Product of the Last K Numbers"
+ID = 1352
+url = "https://leetcode.com/problems/product-of-the-last-k-numbers/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
