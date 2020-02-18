@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Product of the Last K Numbers"
-ID = 1352
-url = "https://leetcode.com/problems/product-of-the-last-k-numbers/"
-difficult = "Medium"
+name = "Construct Target Array With Multiple Sums"
+ID = 1354
+url = "https://leetcode.com/problems/construct-target-array-with-multiple-sums/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
