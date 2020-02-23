@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Sort Integers by The Number of 1 Bits"
-ID = 1356
-url = "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/"
-difficult = "Easy"
+name = "Apply Discount Every n Orders"
+ID = 1357
+url = "https://leetcode.com/problems/apply-discount-every-n-orders/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
