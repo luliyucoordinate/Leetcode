@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Apply Discount Every n Orders"
-ID = 1357
-url = "https://leetcode.com/problems/apply-discount-every-n-orders/"
+name = "Number of Substrings Containing All Three Characters"
+ID = 1358
+url = "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
