@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Construct Target Array With Multiple Sums"
-ID = 1354
-url = "https://leetcode.com/problems/construct-target-array-with-multiple-sums/"
-difficult = "Hard"
+name = "Sort Integers by The Number of 1 Bits"
+ID = 1356
+url = "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
