@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Count All Valid Pickup and Delivery Options"
-ID = 1359
-url = "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/"
-difficult = "Hard"
+name = "Number of Days Between Two Dates"
+ID = 1360
+url = "https://leetcode.com/problems/number-of-days-between-two-dates/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
