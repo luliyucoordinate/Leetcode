@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Number of Substrings Containing All Three Characters"
-ID = 1358
-url = "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/"
-difficult = "Medium"
+name = "Count All Valid Pickup and Delivery Options"
+ID = 1359
+url = "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
