@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Validate Binary Tree Nodes"
-ID = 1361
-url = "https://leetcode.com/problems/validate-binary-tree-nodes/"
+name = "Closest Divisors"
+ID = 1362
+url = "https://leetcode.com/problems/closest-divisors/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
