@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Closest Divisors"
-ID = 1362
-url = "https://leetcode.com/problems/closest-divisors/"
-difficult = "Medium"
+name = "Largest Multiple of Three"
+ID = 1363
+url = "https://leetcode.com/problems/largest-multiple-of-three/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
