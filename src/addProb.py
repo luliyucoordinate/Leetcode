@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Largest Multiple of Three"
-ID = 1363
-url = "https://leetcode.com/problems/largest-multiple-of-three/"
-difficult = "Hard"
+name = "How Many Numbers Are Smaller Than the Current Number"
+ID = 1365
+url = "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
