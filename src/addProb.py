@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "How Many Numbers Are Smaller Than the Current Number"
-ID = 1365
-url = "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/"
-difficult = "Easy"
+name = "Rank Teams by Votes"
+ID = 1366
+url = "https://leetcode.com/problems/rank-teams-by-votes/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
