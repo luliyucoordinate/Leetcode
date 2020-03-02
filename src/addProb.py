@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Rank Teams by Votes"
-ID = 1366
-url = "https://leetcode.com/problems/rank-teams-by-votes/"
+name = "Linked List in Binary Tree"
+ID = 1367
+url = "https://leetcode.com/problems/linked-list-in-binary-tree/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
