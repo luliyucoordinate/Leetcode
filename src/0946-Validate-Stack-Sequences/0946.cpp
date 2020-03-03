@@ -1,26 +1,14 @@
-#include <vector>
-using namespace std;
-
-static int x = []() {std::ios::sync_with_stdio(false); cin.tie(0); return 0; }();
 class Solution 
 {
 public:
     bool validateStackSequences(vector<int>& pushed, vector<int>& popped) 
     {
-        vector<int> tmp;
-        while (!pushed.empty())
+        int i = 0, j = 0;
+        for (int num : pushed) 
         {
-            auto p = pushed.begin();
-            tmp.push_back(*p);
-            pushed.erase(p);
-            
-            auto q = popped.begin();
-            while (!tmp.empty() and *q == *(tmp.rbegin()))
-            {
-                popped.erase(q);
-                tmp.pop_back();
-            }
+            pushed[i++] = num;
+            while (i > 0 && pushed[i - 1] == popped[j]) i--, j++;
         }
-        return tmp.empty();
+        return i == 0;
     }
 };

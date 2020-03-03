@@ -1,16 +1,11 @@
 class Solution:
-    def validateStackSequences(self, pushed, popped):
-        """
-        :type pushed: List[int]
-        :type popped: List[int]
-        :rtype: bool
-        """
-        tmp = list()
-        while pushed:
-            p = pushed.pop(0)
-            tmp.append(p)
-            while tmp and popped[0] == tmp[-1]:
-                popped.pop(0)
-                tmp.pop()
+    def validateStackSequences(self, pushed: List[int], popped: List[int]) -> bool:
+        i = j = 0
+        
+        for x in pushed:
+            pushed[i] = x
+            i += 1
+            while i > 0 and pushed[i - 1] == popped[j]:
+                i, j = i - 1, j + 1
             
-        return not tmp
+        return i == 0
