@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Linked List in Binary Tree"
-ID = 1367
-url = "https://leetcode.com/problems/linked-list-in-binary-tree/"
-difficult = "Medium"
+name = "Minimum Cost to Make at Least One Valid Path in a Grid"
+ID = 1368
+url = "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
