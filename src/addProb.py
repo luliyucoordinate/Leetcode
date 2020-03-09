@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Longest ZigZag Path in a Binary Tree"
-ID = 1372
-url = "https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/"
-difficult = "Medium"
+name = "Maximum Sum BST in Binary Tree"
+ID = 1373
+url = "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
