@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Increasing Decreasing String"
-ID = 1370
-url = "https://leetcode.com/problems/increasing-decreasing-string/"
-difficult = "Easy"
+name = "Find the Longest Substring Containing Vowels in Even Counts"
+ID = 1371
+url = "https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
