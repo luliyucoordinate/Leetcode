@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Minimum Cost to Make at Least One Valid Path in a Grid"
-ID = 1368
-url = "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/"
-difficult = "Hard"
+name = "Increasing Decreasing String"
+ID = 1370
+url = "https://leetcode.com/problems/increasing-decreasing-string/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
