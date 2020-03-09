@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Find the Longest Substring Containing Vowels in Even Counts"
-ID = 1371
-url = "https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/"
+name = "Longest ZigZag Path in a Binary Tree"
+ID = 1372
+url = "https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
