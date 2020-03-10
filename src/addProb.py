@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Bulb Switcher III"
-ID = 1375
-url = "https://leetcode.com/problems/bulb-switcher-iii/"
+name = "Time Needed to Inform All Employees"
+ID = 1376
+url = "https://leetcode.com/problems/time-needed-to-inform-all-employees/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
