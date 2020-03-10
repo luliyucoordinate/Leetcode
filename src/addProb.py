@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Generate a String With Characters That Have Odd Counts"
-ID = 1374
-url = "https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/"
-difficult = "Easy"
+name = "Bulb Switcher III"
+ID = 1375
+url = "https://leetcode.com/problems/bulb-switcher-iii/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
