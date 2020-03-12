@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Frog Position After T Seconds"
-ID = 1377
-url = "https://leetcode.com/problems/frog-position-after-t-seconds/"
-difficult = "Hard"
+name = "Greatest Common Divisor of Strings"
+ID = 1071
+url = "https://leetcode.com/problems/greatest-common-divisor-of-strings/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
