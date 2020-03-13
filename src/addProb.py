@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Greatest Common Divisor of Strings"
-ID = 1071
-url = "https://leetcode.com/problems/greatest-common-divisor-of-strings/"
-difficult = "Easy"
+name = "Flip Columns For Maximum Number of Equal Rows"
+ID = 1072
+url = "https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
