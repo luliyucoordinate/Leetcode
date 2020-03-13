@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Flip Columns For Maximum Number of Equal Rows"
-ID = 1072
-url = "https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/"
+name = "Adding Two Negabinary Numbers"
+ID = 1073
+url = "https://leetcode.com/problems/adding-two-negabinary-numbers/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
