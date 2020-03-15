@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Adding Two Negabinary Numbers"
-ID = 1073
-url = "https://leetcode.com/problems/adding-two-negabinary-numbers/"
-difficult = "Medium"
+name = "Number of Submatrices That Sum to Target"
+ID = 1074
+url = "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
