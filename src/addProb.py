@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Number of Submatrices That Sum to Target"
-ID = 1074
-url = "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/"
-difficult = "Hard"
+name = "Lucky Numbers in a Matrix"
+ID = 1380
+url = "https://leetcode.com/problems/lucky-numbers-in-a-matrix/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
