@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Design a Stack With Increment Operation"
-ID = 1381
-url = "https://leetcode.com/problems/design-a-stack-with-increment-operation/"
+name = "Balance a Binary Search Tree"
+ID = 1382
+url = "https://leetcode.com/problems/balance-a-binary-search-tree/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
