@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Balance a Binary Search Tree"
-ID = 1382
-url = "https://leetcode.com/problems/balance-a-binary-search-tree/"
-difficult = "Medium"
+name = "Minimum Cost to Hire K Workers"
+ID = 857
+url = "https://leetcode.com/problems/minimum-cost-to-hire-k-workers/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
