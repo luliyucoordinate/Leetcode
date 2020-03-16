@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Lucky Numbers in a Matrix"
-ID = 1380
-url = "https://leetcode.com/problems/lucky-numbers-in-a-matrix/"
-difficult = "Easy"
+name = "Design a Stack With Increment Operation"
+ID = 1381
+url = "https://leetcode.com/problems/design-a-stack-with-increment-operation/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
