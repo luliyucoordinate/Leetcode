@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Minimum Cost to Hire K Workers"
-ID = 857
-url = "https://leetcode.com/problems/minimum-cost-to-hire-k-workers/"
+name = "Maximum Performance of a Team"
+ID = 1383
+url = "https://leetcode.com/problems/maximum-performance-of-a-team/"
 difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
