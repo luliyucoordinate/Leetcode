@@ -1,28 +1,22 @@
-import math
 class Solution:
     def coinChange(self, coins, amount):
         coins.sort(reverse=True)
-        len_coins, result = len(coins), amount+1
+        n, res = len(coins), amount + 1
 
-        def countCoins(index, target, count):
-            nonlocal result
-            if count + math.ceil(target/coins[index]) >= result:
+        def dfs(index, target, cnt):
+            nonlocal res
+            if cnt + (target + coins[index] - 1) // coins[index] >= res:
                 return 
 
             if target % coins[index] == 0:
-                result = count + target//coins[index]
+                res = cnt + target // coins[index]
                 return
 
-            if index == len_coins - 1:
+            if index == n - 1:
                 return
 
-            for i in range(target//coins[index], -1, -1):
-                countCoins(index+1, target - coins[index]*i, count+i)
+            for i in range(target // coins[index], -1, -1):
+                dfs(index + 1, target - coins[index] * i, cnt + i)
 
-        countCoins(0, amount, 0)
-        return -1 if result > amount else result
-
-if __name__ == '__main__':
-    coins = [1,2147483647]
-    amount = 2
-    print(Solution().coinChange(coins, amount))
+        dfs(0, amount, 0)
+        return -1 if res > amount else res
