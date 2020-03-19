@@ -1,8 +1,8 @@
 class Solution {
-public:
-    int numIslands(vector<vector<char>>& grid) {
-        if (grid.empty()) return 0;
-        r = grid.size(), c = grid[0].size();
+    public int numIslands(char[][] grid) {
+        if (grid.length == 0) return 0;
+        r = grid.length;
+        c = grid[0].length;
 
         for (int i = 0; i < r; i++) {
             for (int j = 0; j < c; j++) {
@@ -16,17 +16,18 @@ public:
         return res;
     }
 
-private:
-    int d[5] = {0, 1, 0, -1, 0};
-    int res = 0, r, c;
+    private int r, c;
+    private int res = 0;
+    private int[] d = {0, 1, 0, -1, 0};
 
-    void dfs(vector<vector<char>>& grid, int x, int y) {
+    private void dfs(char[][] grid, int x, int y) {
         for (int i = 0; i < 4; i++) {
-            int nx = x + d[i], ny = y + d[i + 1];
+            int nx = x + d[i];
+            int ny = y + d[i + 1];
             if (0 <= nx && nx < r && 0 <= ny && ny < c && grid[nx][ny] == '1') {
                 grid[nx][ny] = '0';
                 dfs(grid, nx, ny);
             }
         }
     }
-};
+}
