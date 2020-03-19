@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Maximum Performance of a Team"
-ID = 1383
-url = "https://leetcode.com/problems/maximum-performance-of-a-team/"
-difficult = "Hard"
+name = "Max Area of Island"
+ID = 695
+url = "https://leetcode.com/problems/max-area-of-island/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
