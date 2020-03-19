@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Rectangle Overlap"
-ID = 836
-url = "https://leetcode.com/problems/rectangle-overlap/"
+name = "Longest Palindrome"
+ID = 409
+url = "https://leetcode.com/problems/longest-palindrome/"
 difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
