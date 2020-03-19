@@ -1,24 +1,31 @@
+/**
+ * @param {number[][]} grid
+ * @return {number}
+ */
 var closedIsland = function(g) {
     let r = g.length, c = g[0].length, res = 2;
-    let dire = [[0, 1], [0, -1], [1, 0], [-1, 0]];
-    let check = function(i, j) {
-        return (i < 0 || j < 0 || i >= g.length || j >= g[0].length) ? 0 : 1;
-    }
-    let dfs = function(i, j, color) {
-        if (check(i, j, g) == 0 || g[i][j] != 0) return;
-        g[i][j] = color;
-        for (let d of dire) {
-            dfs(d[0] + i, d[1] + j, color, g);
+    let d = [0, 1, 0, -1, 0];
+
+    let dfs = function(x, y) {
+        for (let i = 0; i < 4; i++) {
+            let nx = x + d[i], ny = y + d[i + 1];
+            if (0 <= nx && nx < r && 0 <= ny && ny < c && g[nx][ny] == 0) {
+                g[nx][ny] = res;
+                dfs(nx, ny);
+            }
         }
     }
     
     for (let i = 0; i < r; i++) {
         for (let j = 0; j < c; j++) {
             if (g[i][j] == 0) {
-                dfs(i, j, res++, g);
+                g[i][j] = res;
+                dfs(i, j);
+                res++;
             }
         }
     }
+
     let color = new Set();
     color.add(0); color.add(1);
     for (let i = 0; i < r; i++) {

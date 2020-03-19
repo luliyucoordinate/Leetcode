@@ -1,12 +1,14 @@
-var dire [][]int
+var d []int
+var r, c, res int
 
 func closedIsland(g [][]int) int {
-    r, c, res := len(g), len(g[0]), 2
-    dire = [][]int{{1, 0}, {-1, 0}, {0, 1}, {0, -1}}
+    r, c, res = len(g), len(g[0]), 2
+    d = []int{0, 1, 0, -1, 0}
     for i := 0; i < r; i++ {
         for j := 0; j < c; j++ {
             if g[i][j] == 0 {
-                dfs(i, j, res, g)
+                g[i][j] = res
+                dfs(g, i, j)
                 res++
             }
         }
@@ -26,19 +28,12 @@ func closedIsland(g [][]int) int {
     return res - len(color)
 }
 
-func check(i, j int, g [][]int) int {
-    if i < 0 || j < 0 || i >= len(g) || j >= len(g[0]) {
-        return 0
-    }
-    return 1
-}
-
-func dfs(i, j, color int, g [][]int) {
-    if check(i, j, g) == 0 || g[i][j] != 0 {
-        return 
-    }
-    g[i][j] = color
-    for _, d := range dire {
-        dfs(i + d[0], j + d[1], color, g)
+func dfs(g [][]int, x, y int) {
+    for i := 0; i < 4; i++ {
+        nx, ny := x + d[i], y + d[i + 1]
+        if 0 <= nx && nx < r && 0 <= ny && ny < c && g[nx][ny] == 0 {
+            g[nx][ny] = res
+            dfs(g, nx, ny)
+        }
     }
 }
