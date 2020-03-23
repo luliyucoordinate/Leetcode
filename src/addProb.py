@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Cinema Seat Allocation"
-ID = 1386
-url = "https://leetcode.com/problems/cinema-seat-allocation/"
+name = "Sort Integers by The Power Value"
+ID = 1387
+url = "https://leetcode.com/problems/sort-integers-by-the-power-value/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
