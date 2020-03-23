@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Find the Distance Value Between Two Arrays"
-ID = 1385
-url = "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/"
-difficult = "Easy"
+name = "Cinema Seat Allocation"
+ID = 1386
+url = "https://leetcode.com/problems/cinema-seat-allocation/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
