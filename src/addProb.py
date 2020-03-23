@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Longest Palindrome"
-ID = 409
-url = "https://leetcode.com/problems/longest-palindrome/"
+name = "Find the Distance Value Between Two Arrays"
+ID = 1385
+url = "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/"
 difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
