@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Create Target Array in the Given Order"
-ID = 1389
-url = "https://leetcode.com/problems/create-target-array-in-the-given-order/"
-difficult = "Easy"
+name = "Four Divisors"
+ID = 1390
+url = "https://leetcode.com/problems/four-divisors/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
