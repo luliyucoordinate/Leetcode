@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Sort Integers by The Power Value"
-ID = 1387
-url = "https://leetcode.com/problems/sort-integers-by-the-power-value/"
-difficult = "Medium"
+name = "Pizza With 3n Slices"
+ID = 1388
+url = "https://leetcode.com/problems/pizza-with-3n-slices/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
