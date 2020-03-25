@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Four Divisors"
-ID = 1390
-url = "https://leetcode.com/problems/four-divisors/"
+name = "Check if There is a Valid Path in a Grid"
+ID = 1391
+url = "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
