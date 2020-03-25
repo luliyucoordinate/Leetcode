@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Check if There is a Valid Path in a Grid"
-ID = 1391
-url = "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/"
-difficult = "Medium"
+name = "Longest Happy Prefix"
+ID = 1392
+url = "https://leetcode.com/problems/longest-happy-prefix/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
