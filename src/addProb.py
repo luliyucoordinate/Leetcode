@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Longest Happy Prefix"
-ID = 1392
-url = "https://leetcode.com/problems/longest-happy-prefix/"
-difficult = "Hard"
+name = "Water and Jug Problem"
+ID = 365
+url = "https://leetcode.com/problems/water-and-jug-problem/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
