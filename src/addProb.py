@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Water and Jug Problem"
-ID = 365
-url = "https://leetcode.com/problems/water-and-jug-problem/"
-difficult = "Medium"
+name = "Middle of the Linked List"
+ID = 876
+url = "https://leetcode.com/problems/middle-of-the-linked-list/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
