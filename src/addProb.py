@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Middle of the Linked List"
-ID = 876
-url = "https://leetcode.com/problems/middle-of-the-linked-list/"
+name = "X of a Kind in a Deck of Cards"
+ID = 914
+url = "https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/"
 difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
