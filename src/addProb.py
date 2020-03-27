@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "X of a Kind in a Deck of Cards"
-ID = 914
-url = "https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/"
+name = "Surface Area of 3D Shapes"
+ID = 892 
+url = "https://leetcode.com/problems/surface-area-of-3d-shapes/"
 difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
