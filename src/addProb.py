@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Surface Area of 3D Shapes"
-ID = 892 
-url = "https://leetcode.com/problems/surface-area-of-3d-shapes/"
-difficult = "Easy"
+name = "Short Encoding of Words"
+ID = 820
+url = "https://leetcode.com/problems/short-encoding-of-words/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
