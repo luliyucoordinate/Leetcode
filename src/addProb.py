@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Short Encoding of Words"
-ID = 820
-url = "https://leetcode.com/problems/short-encoding-of-words/"
-difficult = "Medium"
+name = "Find Lucky Integer in an Array"
+ID = 1394 
+url = "https://leetcode.com/problems/find-lucky-integer-in-an-array/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
