@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Find Lucky Integer in an Array"
-ID = 1394 
-url = "https://leetcode.com/problems/find-lucky-integer-in-an-array/"
-difficult = "Easy"
+name = "Count Number of Teams"
+ID = 1395
+url = "https://leetcode.com/problems/count-number-of-teams/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
