@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Count Number of Teams"
-ID = 1395
-url = "https://leetcode.com/problems/count-number-of-teams/"
+name = "Design Underground System"
+ID = 1396
+url = "https://leetcode.com/problems/design-underground-system/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
