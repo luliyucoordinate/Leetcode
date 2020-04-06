@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Count Largest Group"
-ID = 1399
-url = "https://leetcode.com/problems/count-largest-group/"
-difficult = "Easy"
+name = "Construct K Palindrome Strings"
+ID = 1400
+url = "https://leetcode.com/problems/construct-k-palindrome-strings/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
