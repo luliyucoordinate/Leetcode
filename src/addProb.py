@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Find All Good Strings"
-ID = 1397
-url = "https://leetcode.com/problems/find-all-good-strings/"
-difficult = "Hard"
+name = "Count Largest Group"
+ID = 1399
+url = "https://leetcode.com/problems/count-largest-group/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
