@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Construct K Palindrome Strings"
-ID = 1400
-url = "https://leetcode.com/problems/construct-k-palindrome-strings/"
+name = "Circle and Rectangle Overlapping"
+ID = 1401
+url = "https://leetcode.com/problems/circle-and-rectangle-overlapping/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
