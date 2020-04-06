@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Design Underground System"
-ID = 1396
-url = "https://leetcode.com/problems/design-underground-system/"
-difficult = "Medium"
+name = "Find All Good Strings"
+ID = 1397
+url = "https://leetcode.com/problems/find-all-good-strings/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
