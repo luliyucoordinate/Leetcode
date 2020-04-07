@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Reducing Dishes"
-ID = 1402
-url = "https://leetcode.com/problems/reducing-dishes/"
-difficult = "Hard"
+name = "Minimum Subsequence in Non-Increasing Order"
+ID = 1403
+url = "https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
