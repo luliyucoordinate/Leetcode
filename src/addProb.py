@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Circle and Rectangle Overlapping"
-ID = 1401
-url = "https://leetcode.com/problems/circle-and-rectangle-overlapping/"
-difficult = "Medium"
+name = "Reducing Dishes"
+ID = 1402
+url = "https://leetcode.com/problems/reducing-dishes/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
