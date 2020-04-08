@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Minimum Subsequence in Non-Increasing Order"
-ID = 1403
-url = "https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/"
-difficult = "Easy"
+name = "Number of Steps to Reduce a Number in Binary Representation to One"
+ID = 1404
+url = "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
