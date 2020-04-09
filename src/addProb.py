@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Longest Happy String"
-ID = 1405
-url = "https://leetcode.com/problems/longest-happy-string/"
-difficult = "Medium"
+name = "Stone Game III"
+ID = 1406
+url = "https://leetcode.com/problems/stone-game-iii/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
