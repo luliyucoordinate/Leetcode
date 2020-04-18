@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Stone Game III"
-ID = 1406
-url = "https://leetcode.com/problems/stone-game-iii/"
-difficult = "Hard"
+name = "String Matching in an Array"
+ID = 1408
+url = "https://leetcode.com/problems/string-matching-in-an-array/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
