@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "HTML Entity Parser"
-ID = 1410
-url = "https://leetcode.com/problems/html-entity-parser/"
-difficult = "Medium"
+name = "Number of Ways to Paint N×3 Grid"
+ID = 1411
+url = "https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
