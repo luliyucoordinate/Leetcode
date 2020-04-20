@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Number of Ways to Paint N×3 Grid"
-ID = 1411
-url = "https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/"
-difficult = "Hard"
+name = "Minimum Value to Get Positive Step by Step Sum"
+ID = 1413
+url = "https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
