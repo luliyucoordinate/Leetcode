@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Minimum Value to Get Positive Step by Step Sum"
-ID = 1413
-url = "https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/"
-difficult = "Easy"
+name = "Find the Minimum Number of Fibonacci Numbers Whose Sum Is K"
+ID = 1414
+url = "https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
