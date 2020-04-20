@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Queries on a Permutation With Key"
-ID = 1409
-url = "https://leetcode.com/problems/queries-on-a-permutation-with-key/"
+name = "HTML Entity Parser"
+ID = 1410
+url = "https://leetcode.com/problems/html-entity-parser/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
