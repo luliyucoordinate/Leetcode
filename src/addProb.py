@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "String Matching in an Array"
-ID = 1408
-url = "https://leetcode.com/problems/string-matching-in-an-array/"
-difficult = "Easy"
+name = "Queries on a Permutation With Key"
+ID = 1409
+url = "https://leetcode.com/problems/queries-on-a-permutation-with-key/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
