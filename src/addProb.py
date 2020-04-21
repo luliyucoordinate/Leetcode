@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "The k-th Lexicographical String of All Happy Strings of Length n"
-ID = 1415
-url = "https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/"
-difficult = "Medium"
+name = "Restore The Array"
+ID = 1416
+url = "https://leetcode.com/problems/restore-the-array/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
