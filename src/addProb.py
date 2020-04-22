@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Display Table of Food Orders in a Restaurant"
-ID = 1418
-url = "https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/"
+name = "Minimum Number of Frogs Croaking"
+ID = 1419
+url = "https://leetcode.com/problems/minimum-number-of-frogs-croaking/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
