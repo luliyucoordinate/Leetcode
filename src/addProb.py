@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Restore The Array"
-ID = 1416
-url = "https://leetcode.com/problems/restore-the-array/"
-difficult = "Hard"
+name = "Reformat The String"
+ID = 1417
+url = "https://leetcode.com/problems/reformat-the-string/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
