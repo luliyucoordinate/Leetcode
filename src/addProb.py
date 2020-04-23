@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Minimum Number of Frogs Croaking"
-ID = 1419
-url = "https://leetcode.com/problems/minimum-number-of-frogs-croaking/"
-difficult = "Medium"
+name = "Build Array Where You Can Find The Maximum Exactly K Comparisons"
+ID = 1420
+url = "https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
