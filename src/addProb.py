@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Constrained Subsequence Sum"
-ID = 1425
-url = "https://leetcode.com/problems/constrained-subsequence-sum/"
-difficult = "Hard"
+name = "Kids With the Greatest Number of Candies"
+ID = 1431
+url = "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
