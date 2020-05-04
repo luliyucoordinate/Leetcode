@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Maximum Points You Can Obtain from Cards"
-ID = 1423
-url = "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/"
+name = "Diagonal Traverse II"
+ID = 1424
+url = "https://leetcode.com/problems/diagonal-traverse-ii/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
