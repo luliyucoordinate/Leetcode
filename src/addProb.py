@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Diagonal Traverse II"
-ID = 1424
-url = "https://leetcode.com/problems/diagonal-traverse-ii/"
-difficult = "Medium"
+name = "Constrained Subsequence Sum"
+ID = 1425
+url = "https://leetcode.com/problems/constrained-subsequence-sum/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
