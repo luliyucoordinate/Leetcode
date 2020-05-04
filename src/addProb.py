@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Maximum Score After Splitting a String"
-ID = 1422
-url = "https://leetcode.com/problems/maximum-score-after-splitting-a-string/"
-difficult = "Easy"
+name = "Maximum Points You Can Obtain from Cards"
+ID = 1423
+url = "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
