@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Build Array Where You Can Find The Maximum Exactly K Comparisons"
-ID = 1420
-url = "https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/"
-difficult = "Hard"
+name = "Maximum Score After Splitting a String"
+ID = 1422
+url = "https://leetcode.com/problems/maximum-score-after-splitting-a-string/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
