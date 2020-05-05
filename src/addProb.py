@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Number of Ways to Wear Different Hats to Each Other"
-ID = 1434
-url = "https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/"
-difficult = "Hard"
+name = "Destination City"
+ID = 1436
+url = "https://leetcode.com/problems/destination-city/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
