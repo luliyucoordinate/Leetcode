@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Check If a String Can Break Another String"
-ID = 1433
-url = "https://leetcode.com/problems/check-if-a-string-can-break-another-string/"
-difficult = "Medium"
+name = "Number of Ways to Wear Different Hats to Each Other"
+ID = 1434
+url = "https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
