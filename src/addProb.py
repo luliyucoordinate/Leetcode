@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Max Difference You Can Get From Changing an Integer"
-ID = 1432
-url = "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/"
+name = "Check If a String Can Break Another String"
+ID = 1433
+url = "https://leetcode.com/problems/check-if-a-string-can-break-another-string/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
