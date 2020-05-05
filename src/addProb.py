@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Kids With the Greatest Number of Candies"
-ID = 1431
-url = "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/"
-difficult = "Easy"
+name = "Max Difference You Can Get From Changing an Integer"
+ID = 1432
+url = "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
