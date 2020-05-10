@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Check If All 1's Are at Least Length K Places Away"
-ID = 1437
-url = "https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/"
+name = "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit"
+ID = 1438
+url = "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
