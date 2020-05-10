@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit"
-ID = 1438
-url = "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/"
-difficult = "Medium"
+name = "Find the Kth Smallest Sum of a Matrix With Sorted Rows"
+ID = 1439
+url = "https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
