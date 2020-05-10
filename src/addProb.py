@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Find the Kth Smallest Sum of a Matrix With Sorted Rows"
-ID = 1439
-url = "https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/"
-difficult = "Hard"
+name = "Build an Array With Stack Operations"
+ID = 1441
+url = "https://leetcode.com/problems/build-an-array-with-stack-operations/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
