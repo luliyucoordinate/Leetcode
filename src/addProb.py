@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Build an Array With Stack Operations"
-ID = 1441
-url = "https://leetcode.com/problems/build-an-array-with-stack-operations/"
-difficult = "Easy"
+name = "Count Triplets That Can Form Two Arrays of Equal XOR"
+ID = 1442
+url = "https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
