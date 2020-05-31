@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Count Triplets That Can Form Two Arrays of Equal XOR"
-ID = 1442
-url = "https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/"
+name = "Minimum Time to Collect All Apples in a Tree"
+ID = 1443
+url = "https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
