@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Minimum Time to Collect All Apples in a Tree"
-ID = 1443
-url = "https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/"
-difficult = "Medium"
+name = "Number of Ways of Cutting a Pizza"
+ID = 1444
+url = "https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/"
+difficult = "Hard"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
 
 
