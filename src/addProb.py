@@ -6,7 +6,7 @@ name = "Flipping an Image"
 ID = 832
 url = "https://leetcode.com/problems/flipping-an-image/"
 difficult = "Easy"
-prog = ['c', 'cpp', 'py', 'go', 'js', 'java']
+prog = ['c', 'cpp', 'py', 'go', 'js', 'java', 'rust']
 
 
 # 创建题目文件夹和文件
@@ -28,18 +28,18 @@ tData = data[6:]
 insertData = [ID, '[' + name + ']' + '(' + url + ')', 'c']
 
 ### only for cpp ###
-fileName = './src/' + dirName + '/' + ID + '.' + 'cpp'
-insertData.append('[c++]' + '(' + fileName + ')')
-insertData += ['python'] + prog[3:]
+# fileName = './src/' + dirName + '/' + ID + '.' + 'cpp'
+# insertData.append('[c++]' + '(' + fileName + ')')
+# insertData += ['python'] + prog[3:]
 ### only for cpp ###
 
-# for p in prog[1:]:
-#     fileName = './src/' + dirName + '/' + ID + '.' + p
-#     if p == 'cpp':
-#         p = 'c++'
-#     elif p == 'py':
-#         p = 'python'
-#     insertData.append('[' + p + ']' + '(' + fileName + ')')
+for p in prog[1:]:
+    fileName = './src/' + dirName + '/' + ID + '.' + p
+    if p == 'cpp':
+        p = 'c++'
+    elif p == 'py':
+        p = 'python'
+    insertData.append('[' + p + ']' + '(' + fileName + ')')
 
 insertData.append(difficult)
 insertData = '|' + '|'.join(insertData) + '|'
