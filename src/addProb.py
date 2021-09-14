@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Random Pick with Weight"
-ID = 528
-url = "https://leetcode.com/problems/random-pick-with-weight/"
+name = "Valid Parenthesis String"
+ID = 678
+url = "https://leetcode.com/problems/valid-parenthesis-string/"
 difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java', 'rs']
 
