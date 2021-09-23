@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Valid Parenthesis String"
-ID = 678
-url = "https://leetcode.com/problems/valid-parenthesis-string/"
-difficult = "Medium"
+name = "Power of Three"
+ID = 326
+url = "https://leetcode-cn.com/problems/power-of-three/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java', 'rs']
 
 
