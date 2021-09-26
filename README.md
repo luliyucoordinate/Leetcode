@@ -284,6 +284,7 @@ LeetCode
 |0543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | c | [c++](./src/0543-Diameter-of-Binary-Tree/0543.cpp) |[python](./src/0543-Diameter-of-Binary-Tree/0543.py)|||||Easy|
 |0547|[Friend Circles](https://leetcode.com/problems/friend-circles/) | c | [c++](./src/0547-Friend-Circles/0547.cpp) |[python](./src/0547-Friend-Circles/0547.py)|||||Medium|
 |0560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | c | [c++](./src/0560-Subarray-Sum-Equals-K/0560.cpp) |[python](./src/0560-Subarray-Sum-Equals-K/0560.py)|||||Medium|
+|0583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)|c|[c++](./src/0583-Delete-Operation-for-Two-Strings/0583.cpp)|||||[rust](./src/0583-Delete-Operation-for-Two-Strings/0583.rs)|Medium|
 |0637|[Average of Levels in Binary Tree](https://leetcode.com/problems/subarray-sum-equals-k/) | c | [c++](./src/0637-Average-of-Levels-in-Binary-Tree/0637.cpp) |[python](./src/0637-Average-of-Levels-in-Binary-Tree/0637.py)|||||Easy|
 |0650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | c | [c++](./src/0650-2-Keys-Keyboard/0650.cpp) |[python](./src/0650-2-Keys-Keyboard/0650.py)|||||Medium|
 |0652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | c | [c++](./src/0652-Find-Duplicate-Subtrees/0652.cpp) |[python](./src/0652-Find-Duplicate-Subtrees/0652.py)|[go](./src/0652-Find-Duplicate-Subtrees/0652.go)|[js](./src/0652-Find-Duplicate-Subtrees/0652.js)|||Medium|

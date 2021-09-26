@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Power of Three"
-ID = 326
-url = "https://leetcode-cn.com/problems/power-of-three/"
-difficult = "Easy"
+name = "Delete Operation for Two Strings"
+ID = 583
+url = "https://leetcode.com/problems/delete-operation-for-two-strings/"
+difficult = "Medium"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java', 'rs']
 
 
