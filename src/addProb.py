@@ -2,10 +2,10 @@
 import os, bisect
 
 # 题目名称
-name = "Delete Operation for Two Strings"
-ID = 583
-url = "https://leetcode.com/problems/delete-operation-for-two-strings/"
-difficult = "Medium"
+name = "Minimum Moves to Equal Array Elements"
+ID = 453
+url = "https://leetcode.com/problems/minimum-moves-to-equal-array-elements/"
+difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java', 'rs']
 
 

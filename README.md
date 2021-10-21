@@ -266,6 +266,7 @@ LeetCode
 |0447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | c | [c++](./src/0447-Number-of-Boomerangs/0447.cpp) |[python](./src/0447-Number-of-Boomerangs/0447.py)||||[rust](./src/0447-Number-of-Boomerangs/0447.rs)|Medium|
 |0450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | c | [c++](./src/0450-Delete-Node-in-a-BST/0450.cpp) |[python](./src/0450-Delete-Node-in-a-BST/0450.py)|||||Medium|
 |0451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | c | [c++](./src/0451-Sort-Characters-By-Frequency/0451.cpp) |[python](./src/0451-Sort-Characters-By-Frequency/0451.py)|||||Easy|
+|0453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)||[c++](./src/0453-Minimum-Moves-to-Equal-Array-Elements/0453.cpp)|[python](./src/0453-Minimum-Moves-to-Equal-Array-Elements/0453.py)||||[rust](./src/0453-Minimum-Moves-to-Equal-Array-Elements/0453.rs)|Easy|
 |0454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | c | [c++](./src/0454-4Sum-II/0454.cpp) |[python](./src/0454-4Sum-II/0454.py)|||||Medium|
 |0455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | c | [c++](./src/0455-Assign-Cookies/0455.cpp) |[python](./src/0455-Assign-Cookies/0455.py)|||||Easy|
 |0458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/) | c | [c++](./src/0458-Poor-Pigs/0458.cpp) |[python](./src/0458-Poor-Pigs/0458.py)|||||Hard|
