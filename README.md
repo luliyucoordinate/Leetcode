@@ -69,7 +69,7 @@ LeetCode
 |0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | c | [c++](./src/0063-Unique-Paths-II/0063.cpp) |[python](./src/0063-Unique-Paths-II/0063.py)|||||Medium|
 |0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | c | [c++](./src/0064-Minimum-Path-Sum/0064.cpp) |[python](./src/0064-Minimum-Path-Sum/0064.py)|||||Medium|
 |0065|[Valid Number](https://leetcode.com/problems/valid-number/) | c | [c++](./src/0065-Valid-Number/0065.cpp) |[python](./src/0065-Valid-Number/0065.py)|||||Hard|
-|0066|[Plus One](https://leetcode.com/problems/plus-one/) | c | [c++](./src/0066-Plus-One/0066.cpp) |[python](./src/0066-Plus-One/0066.py)|||||Easy|
+|0066|[Plus One](https://leetcode.com/problems/plus-one/) | c | [c++](./src/0066-Plus-One/0066.cpp) |[python](./src/0066-Plus-One/0066.py)||||[rust](./src/0066-Plus-One/0066.rs)|Easy|
 |0067|[Add Binary](https://leetcode.com/problems/add-binary/) | c | [c++](./src/0067-Add-Binary/0067.cpp) |[python](./src/0067-Add-Binary/0067.py)|||||Easy|
 |0068|[Text Justification](https://leetcode.com/problems/text-justification/) | c | [c++](./src/0068-Text-Justification/0068.cpp) |[python](./src/0068-Text-Justification/0068.py)|||||Hard|
 |0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | c | [c++](./src/0069-Sqrt(x)/0069.cpp) |[python](./src/0069-Sqrt(x)/0069.py)|||||Easy|
