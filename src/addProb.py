@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Minimum Moves to Equal Array Elements"
-ID = 453
-url = "https://leetcode.com/problems/minimum-moves-to-equal-array-elements/"
+name = "Construct the Rectangle"
+ID = 492
+url = "https://leetcode.com/problems/construct-the-rectangle/"
 difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java', 'rs']
 

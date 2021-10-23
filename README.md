@@ -275,6 +275,7 @@ LeetCode
 |0473|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|c|[c++](./src/0473-Matchsticks-to-Square/0473.cpp)|[python](./src/0473-Matchsticks-to-Square/0473.py)|[go](./src/0473-Matchsticks-to-Square/0473.go)|[js](./src/0473-Matchsticks-to-Square/0473.js)|[java](./src/0473-Matchsticks-to-Square/0473.java)||Medium|
 |0474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | c | [c++](./src/0474-Ones-and-Zeroes/0474.cpp) |[python](./src/0474-Ones-and-Zeroes/0474.py)|||||Medium|
 |0486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | c | [c++](./src/0486-Predict-the-Winner/0486.cpp) |[python](./0486-Predict-the-Winner/0486.py)|||||Medium|
+|0492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)||[c++](./src/0492-Construct-the-Rectangle/0492.cpp)|||||[rust](./src/0492-Construct-the-Rectangle/0492.rs)|Easy|
 |0494|[Target Sum](https://leetcode.com/problems/target-sum/) | c | [c++](./src/0494-Target-Sum/0494.cpp) |[python](./src/0494-Target-Sum/0494.py)|||||Medium|
 |0496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | c | [c++](./src/0496-Next-Greater-Element-I/0496.cpp) |[python](./src/0496-Next-Greater-Element-I/0496.py)|||||Easy|
 |0503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-i/) | c | [c++](./src/0503-Next-Greater-Element-II/0503.cpp) |[python](./src/0503-Next-Greater-Element-II/0503.py)|||||Medium|
