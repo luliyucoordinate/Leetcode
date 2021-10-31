@@ -2,9 +2,9 @@
 import os, bisect
 
 # 题目名称
-name = "Power of Three"
-ID = 326
-url = "https://leetcode-cn.com/problems/power-of-three/"
+name = "Construct the Rectangle"
+ID = 492
+url = "https://leetcode.com/problems/construct-the-rectangle/"
 difficult = "Easy"
 prog = ['c', 'cpp', 'py', 'go', 'js', 'java', 'rs']
 

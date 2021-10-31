@@ -69,7 +69,7 @@ LeetCode
 |0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | c | [c++](./src/0063-Unique-Paths-II/0063.cpp) |[python](./src/0063-Unique-Paths-II/0063.py)|||||Medium|
 |0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | c | [c++](./src/0064-Minimum-Path-Sum/0064.cpp) |[python](./src/0064-Minimum-Path-Sum/0064.py)|||||Medium|
 |0065|[Valid Number](https://leetcode.com/problems/valid-number/) | c | [c++](./src/0065-Valid-Number/0065.cpp) |[python](./src/0065-Valid-Number/0065.py)|||||Hard|
-|0066|[Plus One](https://leetcode.com/problems/plus-one/) | c | [c++](./src/0066-Plus-One/0066.cpp) |[python](./src/0066-Plus-One/0066.py)|||||Easy|
+|0066|[Plus One](https://leetcode.com/problems/plus-one/) | c | [c++](./src/0066-Plus-One/0066.cpp) |[python](./src/0066-Plus-One/0066.py)||||[rust](./src/0066-Plus-One/0066.rs)|Easy|
 |0067|[Add Binary](https://leetcode.com/problems/add-binary/) | c | [c++](./src/0067-Add-Binary/0067.cpp) |[python](./src/0067-Add-Binary/0067.py)|||||Easy|
 |0068|[Text Justification](https://leetcode.com/problems/text-justification/) | c | [c++](./src/0068-Text-Justification/0068.cpp) |[python](./src/0068-Text-Justification/0068.py)|||||Hard|
 |0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | c | [c++](./src/0069-Sqrt(x)/0069.cpp) |[python](./src/0069-Sqrt(x)/0069.py)|||||Easy|
@@ -165,7 +165,7 @@ LeetCode
 |0166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | c | [c++](./src/0166-Fraction-to-Recurring-Decimal/0166.cpp) |[python](./src/0166-Fraction-to-Recurring-Decimal/0166.py)|||||Medium|
 |0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | c | [c++](./src/0167-Two-Sum-II-Input-array-is-sorted/0167.cpp) |[python](./src/0167-Two-Sum-II-Input-array-is-sorted/0167.py)|||||Easy|
 |0168|[Excel Sheet Column Title](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | c | [c++](./src/0168-Excel-Sheet-Column-Title/0168.cpp) |[python](./src/0168-Excel-Sheet-Column-Title/0168.py)|||||Easy|
-|0169|[Majority Element](https://leetcode.com/problems/majority-element/) | c | [c++](./src/0169-Majority-Element/0169.cpp) |[python](./src/0169-Majority-Element/0169.py)|||||Easy|
+|0169|[Majority Element](https://leetcode.com/problems/majority-element/) || [c++](./src/0169-Majority-Element/0169.cpp) |[python](./src/0169-Majority-Element/0169.py)||||[rust](./src/0169-Majority-Element/0169.rs)|Easy|
 |0171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | c | [c++](./src/0171-Excel-Sheet-Column-Number/0171.cpp) |[python](./src/0171-Excel-Sheet-Column-Number/0171.py)|||||Easy|
 |0172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | c | [c++](./src/0172-Factorial-Trailing-Zeroes/0172.cpp) |[python](./src/0172-Factorial-Trailing-Zeroes/0172.py)|||||Easy|
 |0173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | c | [c++](./src/0173-Binary-Search-Tree-Iterator/0173.cpp) |[python](./src/0173-Binary-Search-Tree-Iterator/0173.py)|||||Medium|
@@ -189,7 +189,7 @@ LeetCode
 |0208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | c | [c++](./src/0208-Implement-Trie-(Prefix-Tree)/0208.cpp) |[python](./src/0208-Implement-Trie-(Prefix-Tree)/0208.py)|||||Medium|
 |0209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | c | [c++](./src/0209-Minimum-Size-Subarray-Sum/0209.cpp) |[python](./src/0209-Minimum-Size-Subarray-Sum/0209.py)|||||Medium|
 |0210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | c | [c++](./src/0210-Course-Schedule-II/0210.cpp) |[python](./src/0210-Course-Schedule-II/0210.py)|[go](./src/0210-Course-Schedule-II/0210.go)|[js](./src/0210-Course-Schedule-II/0210.js)|||Medium|
-|0211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | c | [c++](./src/0211-Add-and-Search-Word-Data-structure-design/0211.cpp) |[python](./src/0211-Add-and-Search-Word-Data-structure-design/0211.py)|||||Medium|
+|0211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | c | [c++](./src/0211-Add-and-Search-Word-Data-structure-design/0211.cpp) |[python](./src/0211-Add-and-Search-Word-Data-structure-design/0211.py)||||[rust](./src/0211-Add-and-Search-Word-Data-structure-design/0211.rs)|Medium|
 |0212|[Word Search II](https://leetcode.com/problems/word-search-ii/) | c | [c++](./src/0212-Word-Search-II/0212.cpp) |[python](./src/0212-Word-Search-II/0212.py)|[go](./src/0212-Word-Search-II/0212.go)|[js](./src/0212-Word-Search-II/0212.js)|||Medium|
 |0213|[House Robber II](https://leetcode.com/problems/house-robber-ii/) | c | [c++](./src/0213-House-Robber-II/0213.cpp) |[python](./src/0213-House-Robber-II/0213.py)|||||Medium|
 |0215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | c | [c++](./src/0215-Kth-Largest-Element-in-an-Array/0215.cpp) |[python](./src/0215-Kth-Largest-Element-in-an-Array/0215.py)|||||Medium|
@@ -203,7 +203,7 @@ LeetCode
 |0224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/) | c | [c++](./src/0224-Basic-Calculator/0224.cpp) |[python](./src/0224-Basic-Calculator/0224.py)|[go](./src/0224-Basic-Calculator/0224.go)|[js](./src/0224-Basic-Calculator/0224.js)|||Hard|
 |0226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | c | [c++](./src/0226-Invert-Binary-Tree/0226.cpp) |[python](./src/0226-Invert-Binary-Tree/0226.py)|||||Easy|
 |0228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | c | [c++](./src/0228-Summary-Ranges/0228.cpp) |[python](./src/0228-Summary-Ranges/0228.py)|||||Medium|
-|0229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/) | c | [c++](./src/0229-Majority-Element-II/0229.cpp) |[python](./src/0229-Majority-Element-II/0229.py)|||||Medium|
+|0229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/) || [c++](./src/0229-Majority-Element-II/0229.cpp) |[python](./src/0229-Majority-Element-II/0229.py)||||[rust](./src/0229-Majority-Element-II/0229.rs)|Medium|
 |0230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | c | [c++](./src/0230-Kth-Smallest-Element-in-a-BST/0230.cpp) |[python](./src/0230-Kth-Smallest-Element-in-a-BST/0230.py)|||||Medium|
 |0234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | c | [c++](./src/0234-Palindrome-Linked-List/0234.cpp) |[python](./src/0234-Palindrome-Linked-List/0234.py)|||||Medium|
 |0235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | c | [c++](./src/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/0235.cpp) |[python](./src/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/0235.py)|||||Easy|
@@ -250,7 +250,7 @@ LeetCode
 |0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | c | [c++](./src/0350-Intersection-of-Two-Arrays-II/0350.cpp) |[python](./src/0350-Intersection-of-Two-Arrays-II/0350.py)|||||Easy|
 |0354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | c | [c++](./src/0354-Russian-Doll-Envelopes/0354.cpp) |[python](./src/0354-Russian-Doll-Envelopes/0354.py)|||||Hard|
 |0365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|c|[c++](./src/0365-Water-and-Jug-Problem/0365.cpp)|[python](./src/0365-Water-and-Jug-Problem/0365.py)|[go](./src/0365-Water-and-Jug-Problem/0365.go)|[js](./src/0365-Water-and-Jug-Problem/0365.js)|[java](./src/0365-Water-and-Jug-Problem/0365.java)||Medium|
-|0371|[Sum of Two Integers](https://leetcode.com/problems/russian-doll-envelopes/) | c | [c++](./src/0371-Sum-of-Two-Integers/0371.cpp) |[python](./src/0371-Sum-of-Two-Integers/0371.py)|||||Easy|
+|0371|[Sum of Two Integers](https://leetcode.com/problems/russian-doll-envelopes/) | c | [c++](./src/0371-Sum-of-Two-Integers/0371.cpp) |[python](./src/0371-Sum-of-Two-Integers/0371.py)||||[rust](./src/0371-Sum-of-Two-Integers/0371.rs)|Medium|
 |0377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | c | [c++](./src/0377-Combination-Sum-IV/0377.cpp) |[python](./src/0377-Combination-Sum-IV/0377.py)|||||Medium|
 |0389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | c | [c++](./src/0389-Find-the-Difference/0389.cpp) |[python](./src/0389-Find-the-Difference/0389.py)|||||Easy|
 |0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | c | [c++](./src/0392-Is-Subsequence/0392.cpp) |[python](./src/0392-Is-Subsequence/0392.py)|||||Medium|
@@ -266,6 +266,7 @@ LeetCode
 |0447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | c | [c++](./src/0447-Number-of-Boomerangs/0447.cpp) |[python](./src/0447-Number-of-Boomerangs/0447.py)||||[rust](./src/0447-Number-of-Boomerangs/0447.rs)|Medium|
 |0450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | c | [c++](./src/0450-Delete-Node-in-a-BST/0450.cpp) |[python](./src/0450-Delete-Node-in-a-BST/0450.py)|||||Medium|
 |0451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | c | [c++](./src/0451-Sort-Characters-By-Frequency/0451.cpp) |[python](./src/0451-Sort-Characters-By-Frequency/0451.py)|||||Easy|
+|0453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)||[c++](./src/0453-Minimum-Moves-to-Equal-Array-Elements/0453.cpp)|[python](./src/0453-Minimum-Moves-to-Equal-Array-Elements/0453.py)||||[rust](./src/0453-Minimum-Moves-to-Equal-Array-Elements/0453.rs)|Easy|
 |0454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | c | [c++](./src/0454-4Sum-II/0454.cpp) |[python](./src/0454-4Sum-II/0454.py)|||||Medium|
 |0455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | c | [c++](./src/0455-Assign-Cookies/0455.cpp) |[python](./src/0455-Assign-Cookies/0455.py)|||||Easy|
 |0458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/) | c | [c++](./src/0458-Poor-Pigs/0458.cpp) |[python](./src/0458-Poor-Pigs/0458.py)|||||Hard|
@@ -274,6 +275,7 @@ LeetCode
 |0473|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|c|[c++](./src/0473-Matchsticks-to-Square/0473.cpp)|[python](./src/0473-Matchsticks-to-Square/0473.py)|[go](./src/0473-Matchsticks-to-Square/0473.go)|[js](./src/0473-Matchsticks-to-Square/0473.js)|[java](./src/0473-Matchsticks-to-Square/0473.java)||Medium|
 |0474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | c | [c++](./src/0474-Ones-and-Zeroes/0474.cpp) |[python](./src/0474-Ones-and-Zeroes/0474.py)|||||Medium|
 |0486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | c | [c++](./src/0486-Predict-the-Winner/0486.cpp) |[python](./0486-Predict-the-Winner/0486.py)|||||Medium|
+|0492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)||[c++](./src/0492-Construct-the-Rectangle/0492.cpp)|||||[rust](./src/0492-Construct-the-Rectangle/0492.rs)|Easy|
 |0494|[Target Sum](https://leetcode.com/problems/target-sum/) | c | [c++](./src/0494-Target-Sum/0494.cpp) |[python](./src/0494-Target-Sum/0494.py)|||||Medium|
 |0496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | c | [c++](./src/0496-Next-Greater-Element-I/0496.cpp) |[python](./src/0496-Next-Greater-Element-I/0496.py)|||||Easy|
 |0503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-i/) | c | [c++](./src/0503-Next-Greater-Element-II/0503.cpp) |[python](./src/0503-Next-Greater-Element-II/0503.py)|||||Medium|
@@ -284,6 +286,7 @@ LeetCode
 |0543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | c | [c++](./src/0543-Diameter-of-Binary-Tree/0543.cpp) |[python](./src/0543-Diameter-of-Binary-Tree/0543.py)|||||Easy|
 |0547|[Friend Circles](https://leetcode.com/problems/friend-circles/) | c | [c++](./src/0547-Friend-Circles/0547.cpp) |[python](./src/0547-Friend-Circles/0547.py)|||||Medium|
 |0560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | c | [c++](./src/0560-Subarray-Sum-Equals-K/0560.cpp) |[python](./src/0560-Subarray-Sum-Equals-K/0560.py)|||||Medium|
+|0583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)|c|[c++](./src/0583-Delete-Operation-for-Two-Strings/0583.cpp)|||||[rust](./src/0583-Delete-Operation-for-Two-Strings/0583.rs)|Medium|
 |0637|[Average of Levels in Binary Tree](https://leetcode.com/problems/subarray-sum-equals-k/) | c | [c++](./src/0637-Average-of-Levels-in-Binary-Tree/0637.cpp) |[python](./src/0637-Average-of-Levels-in-Binary-Tree/0637.py)|||||Easy|
 |0650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | c | [c++](./src/0650-2-Keys-Keyboard/0650.cpp) |[python](./src/0650-2-Keys-Keyboard/0650.py)|||||Medium|
 |0652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | c | [c++](./src/0652-Find-Duplicate-Subtrees/0652.cpp) |[python](./src/0652-Find-Duplicate-Subtrees/0652.py)|[go](./src/0652-Find-Duplicate-Subtrees/0652.go)|[js](./src/0652-Find-Duplicate-Subtrees/0652.js)|||Medium|

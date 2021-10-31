@@ -8,11 +8,7 @@ class Solution:
         for num in nums:
             if cnt == 0:
                 res = num
-                cnt += 1
-            elif res == num:
-                cnt += 1
-            else:
-                cnt -= 1
+            cnt += 1 if res == num else -1
         return res
         
 if __name__ == "__main__":
