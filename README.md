@@ -253,6 +253,7 @@ LeetCode
 |0371|[Sum of Two Integers](https://leetcode.com/problems/russian-doll-envelopes/) | c | [c++](./src/0371-Sum-of-Two-Integers/0371.cpp) |[python](./src/0371-Sum-of-Two-Integers/0371.py)||||[rust](./src/0371-Sum-of-Two-Integers/0371.rs)|Medium|
 |0377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | c | [c++](./src/0377-Combination-Sum-IV/0377.cpp) |[python](./src/0377-Combination-Sum-IV/0377.py)|||||Medium|
 |0389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | c | [c++](./src/0389-Find-the-Difference/0389.cpp) |[python](./src/0389-Find-the-Difference/0389.py)|||||Easy|
+|0384|[Shuffle an Array](https://leetcode-cn.com/problems/shuffle-an-array/) | c | [c++](./src/0384-shuffle-an-array/0384.cpp) |||||[rust](./src/0384-shuffle-an-array/0384.rs)|Medium|
 |0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | c | [c++](./src/0392-Is-Subsequence/0392.cpp) |[python](./src/0392-Is-Subsequence/0392.py)|||||Medium|
 |0401|[Binary Watch](https://leetcode.com/problems/binary-watch/) | c | [c++](./src/0401-Binary-Watch/0401.cpp) |[python](./src/0401-Binary-Watch/0401.py)|||||Easy|
 |0404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | c | [c++](./src/0404-Sum-of-Left-Leaves/0404.cpp) |[python](./src/0404-Sum-of-Left-Leaves/0404.py)|||||Easy|
