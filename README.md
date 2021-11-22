@@ -237,7 +237,7 @@ LeetCode
 |0319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | c | [c++](./src/0319-Bulb-Switcher/0319.cpp) |[python](./src/0319-Bulb-Switcher/0319.py)|||||Medium|
 |0322|[Coin-Change](https://leetcode.com/problems/coin-change/) | c | [c++](./src/0322-Coin-Change/0322.cpp) |[python](./src/0322-Coin-Change/0322.py)|[go](./src/0322-Coin-Change/0322.go)|[js](./src/0322-Coin-Change/0322.js)|[java](./src/0322-Coin-Change/0322.java)||Medium|
 |0325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | c | [c++](./src/0325-Maximum-Size-Subarray-Sum-Equals-k/0325.cpp) |[python](./src/0325-Maximum-Size-Subarray-Sum-Equals-k/0325.py)|||||Medium|
-|0326|[Power of Three](https://leetcode-cn.com/problems/power-of-three/)|c|[c++](./src/0326-Power-of-Three/0326.cpp)|||||[rust](./src/0326-Power-of-Three/0326.rs)|Easy|
+|0326|[Power of Three](https://leetcode.com/problems/power-of-three/)|c|[c++](./src/0326-Power-of-Three/0326.cpp)|||||[rust](./src/0326-Power-of-Three/0326.rs)|Easy|
 |0328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | c | [c++](./src/0328-Odd-Even-Linked-List/0328.cpp) |[python](./src/0328-Odd-Even-Linked-List/0328.py)|||||Medium|
 |0331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/odd-even-linked-list/) | c | [c++](./src/0328-Odd-Even-Linked-List/0328.cpp) |[python](./src/0328-Odd-Even-Linked-List/0328.py)|||||Medium|
 |0337|[House Robber III](https://leetcode.com/problems/house-robber-iii/) | c | [c++](./src/0328-Odd-Even-Linked-List/0337.cpp) |[python](./src/0328-Odd-Even-Linked-List/0337.py)|||||Medium|
@@ -253,7 +253,7 @@ LeetCode
 |0371|[Sum of Two Integers](https://leetcode.com/problems/russian-doll-envelopes/) | c | [c++](./src/0371-Sum-of-Two-Integers/0371.cpp) |[python](./src/0371-Sum-of-Two-Integers/0371.py)||||[rust](./src/0371-Sum-of-Two-Integers/0371.rs)|Medium|
 |0377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | c | [c++](./src/0377-Combination-Sum-IV/0377.cpp) |[python](./src/0377-Combination-Sum-IV/0377.py)|||||Medium|
 |0389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | c | [c++](./src/0389-Find-the-Difference/0389.cpp) |[python](./src/0389-Find-the-Difference/0389.py)|||||Easy|
-|0384|[Shuffle an Array](https://leetcode-cn.com/problems/shuffle-an-array/) | c | [c++](./src/0384-shuffle-an-array/0384.cpp) |||||[rust](./src/0384-shuffle-an-array/0384.rs)|Medium|
+|0384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | c | [c++](./src/0384-shuffle-an-array/0384.cpp) |||||[rust](./src/0384-shuffle-an-array/0384.rs)|Medium|
 |0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | c | [c++](./src/0392-Is-Subsequence/0392.cpp) |[python](./src/0392-Is-Subsequence/0392.py)|||||Medium|
 |0401|[Binary Watch](https://leetcode.com/problems/binary-watch/) | c | [c++](./src/0401-Binary-Watch/0401.cpp) |[python](./src/0401-Binary-Watch/0401.py)|||||Easy|
 |0404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | c | [c++](./src/0404-Sum-of-Left-Leaves/0404.cpp) |[python](./src/0404-Sum-of-Left-Leaves/0404.py)|||||Easy|
@@ -291,6 +291,7 @@ LeetCode
 |0559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) || [c++](./src/0559-maximum-depth-of-n-ary-tree/0559.cpp) ||||||Easy|
 |0560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | c | [c++](./src/0560-Subarray-Sum-Equals-K/0560.cpp) |[python](./src/0560-Subarray-Sum-Equals-K/0560.py)|||||Medium|
 |0583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)|c|[c++](./src/0583-Delete-Operation-for-Two-Strings/0583.cpp)|||||[rust](./src/0583-Delete-Operation-for-Two-Strings/0583.rs)|Medium|
+|0594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) ||[c++](./src/0594-longest-harmonious-subsequence/0594.cpp)|||||[rust](./src/0594-longest-harmonious-subsequence/0594.rs)|Easy|
 |0637|[Average of Levels in Binary Tree](https://leetcode.com/problems/subarray-sum-equals-k/) | c | [c++](./src/0637-Average-of-Levels-in-Binary-Tree/0637.cpp) |[python](./src/0637-Average-of-Levels-in-Binary-Tree/0637.py)|||||Easy|
 |0638|[Shopping Offers](https://leetcode.com/problems/shopping-offers/)||[c++](./src/0638-Shopping-Offers/0638.cpp)|||||[rust](./src/0638-Shopping-Offers/0638.rs)|Medium|
 |0650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | c | [c++](./src/0650-2-Keys-Keyboard/0650.cpp) |[python](./src/0650-2-Keys-Keyboard/0650.py)|||||Medium|
