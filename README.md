@@ -205,6 +205,7 @@ LeetCode
 |0228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/) || [c++](./src/0228-Summary-Ranges/0228.cpp) |[python](./src/0228-Summary-Ranges/0228.py)|||||Medium|
 |0229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/) || [c++](./src/0229-Majority-Element-II/0229.cpp) |[python](./src/0229-Majority-Element-II/0229.py)||||[rust](./src/0229-Majority-Element-II/0229.rs)|Medium|
 |0230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) || [c++](./src/0230-Kth-Smallest-Element-in-a-BST/0230.cpp) |[python](./src/0230-Kth-Smallest-Element-in-a-BST/0230.py)|||||Medium|
+|0231|[Power of Two](https://leetcode.com/problems/power-of-two/) || [c++](./src/0231-Power-of-Two.cpp) |||Easy|
 |0234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) || [c++](./src/0234-Palindrome-Linked-List/0234.cpp) |[python](./src/0234-Palindrome-Linked-List/0234.py)|||||Medium|
 |0235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) || [c++](./src/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/0235.cpp) |[python](./src/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/0235.py)|||||Easy|
 |0236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) || [c++](./src/0236-Lowest-Common-Ancestor-of-a-Binary-Tree/0236.cpp) |[python](./src/0236-Lowest-Common-Ancestor-of-a-Binary-Tree/0236.py)|||||Medium|
