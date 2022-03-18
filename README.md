@@ -4,7 +4,7 @@ LeetCode
 
 | # | Title | c | c++ | python | go | js | java | rust | Difficulty |
 |---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-|0001|[Two Sum](https://leetcode.com/problems/two-sum/) | [c](./src/0001-Two-Sum/two_sum.c) | [c++](./src/0001-Two-Sum/two_sum.cpp) |[python](./src/0001-Two-Sum/two_sum.py)|[go](./src/0001-Two-Sum/two_sum.go)|[js](./src/0001-Two-Sum/two_sum.js)|||Easy|
+|0001|[Two Sum](https://leetcode.com/problems/two-sum/) | [c](./src/0001-Two-Sum/two_sum.c) | [c++](./src/0001-Two-Sum/two_sum.cpp) |[python](./src/0001-Two-Sum/two_sum.py)|[go](./src/0001-Two-Sum/two_sum.go)|[js](./src/0001-Two-Sum/two_sum.js)|[java](./src/0001-Two-Sum/two_sum.java)||Easy|
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [c](./src/0002-Add-Two-Numbers/Add_Two_Numbers.c) | [c++](./src/0002-Add-Two-Numbers/Add_Two_Numbers.cpp) |[python](./src/0002-Add-Two-Numbers/Add_Two_Numbers.py)|[go](./src/0002-Add-Two-Numbers/Add_Two_Numbers.go)||||Medium|
 |0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) || [c++](./src/0003-Longest-Substring-Without-Repeating-Characters/0003.cpp) |[python](./src/0003-Longest-Substring-Without-Repeating-Characters/0003.py)|[go](./src/0003-Longest-Substring-Without-Repeating-Characters/0003.go)||||Medium|
 |0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) || [c++](./src/0004-Median-of-Two-Sorted-Arrays/0004.cpp) |[python](./src/0004-Median-of-Two-Sorted-Arrays/0004.py)|||||Hard|
@@ -16,7 +16,7 @@ LeetCode
 |0010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) || [c++](./src/0010-Regular-Expression-Matching/0010.cpp) |[python](./src/0010-Regular-Expression-Matching/0010.py)|[go](./src/0010-Regular-Expression-Matching/0010.go)||||Hard|
 |0011|[Container With Most Water](https://leetcode.com/problems/queue-reconstruction-by-height/) || [c++](./src/0011-Container-With-Most-Water/0011.cpp)|[python](./src/0011-container-with-most-water/0011.py)|[go](./src/0011-container-with-most-water/0011.go)||||Medium|
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman) || [c++](./src/0012-Integer-to-Roman/0012.cpp) |[python](./src/0012-Integer-to-Roman/0012.py)|[go](./src/0012-Integer-to-Roman/0012.go)||||Medium|
-|0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) || [c++](./src/0013-Roman-to-Integer/0013.cpp) |[python](./src/0013-Roman-to-Integer/0013.py)|[go](./src/0013-Roman-to-Integer/0013.go)|[js](./src/0013-Roman-to-Integer/0013.js)|||Easy|
+|0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) || [c++](./src/0013-Roman-to-Integer/0013.cpp) |[python](./src/0013-Roman-to-Integer/0013.py)|[go](./src/0013-Roman-to-Integer/0013.go)|[js](./src/0013-Roman-to-Integer/0013.js)|[java](./src/0013-Roman-to-Integer/0013.java)||Easy|
 |0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) || [c++](./src/0014-Longest-Common-Prefix/0014.cpp) |[python](./src/0014-Longest-Common-Prefix/0014.py)|[go](./src/0014-Longest-Common-Prefix/0014.go)||||Easy|
 |0015|[3Sum](https://leetcode.com/problems/3sum/) || [c++](./src/0015-3Sum/0015.cpp) |[python](./src/0015-3Sum/0015.py)|||||Medium|
 |0016|[3Sum Closest](https://leetcode.com/problems/3Sum-Closest/) || [c++](./src/0016-3Sum-Closest/0016.cpp) |[python](./src/0016-3Sum-Closest/0016.py)|||||Medium|
