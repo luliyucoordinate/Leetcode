@@ -756,4 +756,4 @@ LeetCode
 |1546|[Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/)||[c++](./src/1546-Maximum-Number-of-Non-Overlapping-Subarrays-With-Sum-Equals-Target/maximum_number_of_nonoverlapping_with_sum_equals_target.cpp)||||||Medium|
 |1673|[Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)||[c++](./src/1673-Find-the-Most-Competitive-Subsequence/1673.cpp)||||||Medium|
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)||[c++](./src/1732-Find-the-Highest-Altitude/1732.cpp)||||||Easy|
-|1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|||[python](./src/1832-Check-if-the-Sentence-is-Pangram/1832.py)|||||Easy|
+|1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)||[c++](./src/1832-Check-if-the-Sentence-is-Pangram/1832.cpp)|[python](./src/1832-Check-if-the-Sentence-is-Pangram/1832.py)|||||Easy|
