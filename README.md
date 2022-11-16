@@ -758,3 +758,4 @@ LeetCode
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)||[c++](./src/1732-Find-the-Highest-Altitude/1732.cpp)||||||Easy|
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)||[c++](./src/1832-Check-if-the-Sentence-is-Pangram/1832.cpp)|[python](./src/1832-Check-if-the-Sentence-is-Pangram/1832.py)|||||Easy|
 |2469|[Convert the temperature](https://leetcode.com/problems/convert-the-temperature/)||[c++](./src/2469-Convert-the-Temperature/2469.cpp)||||||Easy|
+|2470|[Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/)||[c++](./src/2470-Number-of-Subarrays-With-LCM-Equal-to-K/2470.cpp)||||||Medium|
