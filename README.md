@@ -759,3 +759,4 @@ LeetCode
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)||[c++](./src/1832-Check-if-the-Sentence-is-Pangram/1832.cpp)|[python](./src/1832-Check-if-the-Sentence-is-Pangram/1832.py)|||||Easy|
 |2469|[Convert the temperature](https://leetcode.com/problems/convert-the-temperature/)||[c++](./src/2469-Convert-the-Temperature/2469.cpp)||||||Easy|
 |2470|[Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/)||[c++](./src/2470-Number-of-Subarrays-With-LCM-Equal-to-K/2470.cpp)||||||Medium|
+|2471|[Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/)||[c++](./src/2471-Minimum-Number-of-Operations-to-Sort-a-Binary-Tree-by-Level/2471.cpp)||||||Medium|
