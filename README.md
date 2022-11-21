@@ -758,6 +758,7 @@ LeetCode
 |1673|[Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)||[c++](./src/1673-Find-the-Most-Competitive-Subsequence/1673.cpp)||||||Medium|
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)||[c++](./src/1732-Find-the-Highest-Altitude/1732.cpp)||||||Easy|
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)||[c++](./src/1832-Check-if-the-Sentence-is-Pangram/1832.cpp)|[python](./src/1832-Check-if-the-Sentence-is-Pangram/1832.py)|||||Easy|
+|1926|[Minimum Number of Operations to Sort a Binary Tree by LevelNearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)||[c++](./src/1926-Nearest-Exit-from-Entrance-in-Maze/1926.cpp)||||||Medium|
 |2469|[Convert the temperature](https://leetcode.com/problems/convert-the-temperature/)||[c++](./src/2469-Convert-the-Temperature/2469.cpp)||||||Easy|
 |2470|[Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/)||[c++](./src/2470-Number-of-Subarrays-With-LCM-Equal-to-K/2470.cpp)||||||Medium|
 |2471|[Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/)||[c++](./src/2471-Minimum-Number-of-Operations-to-Sort-a-Binary-Tree-by-Level/2471.cpp)||||||Medium|
