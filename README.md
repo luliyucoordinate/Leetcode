@@ -266,6 +266,7 @@ LeetCode
 |0437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/) || [c++](./src/0437-Path-Sum-III/0437.cpp) |[python](./src/0437-Path-Sum-III/0437.py)|||||Easy|
 |0438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) || [c++](./src/0438-Find-All-Anagrams-in-a-String/0438.cpp) |[python](./src/0438-Find-All-Anagrams-in-a-String/0438.py)||||[rust](./src/0438-Find-All-Anagrams-in-a-String/0438.rs)|Medium|
 |0445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) || [c++](./src/0445-Add-Two-Numbers-II/0445.cpp) |[python](./src/0445-Add-Two-Numbers-II/0445.py)|||||Medium|
+|0446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) || [c++](./src/0446-Arithmetic-Slices-II-Subsequence/0446.cpp) ||||||Hard|
 |0447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) || [c++](./src/0447-Number-of-Boomerangs/0447.cpp) |[python](./src/0447-Number-of-Boomerangs/0447.py)||||[rust](./src/0447-Number-of-Boomerangs/0447.rs)|Medium|
 |0450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) || [c++](./src/0450-Delete-Node-in-a-BST/0450.cpp) |[python](./src/0450-Delete-Node-in-a-BST/0450.py)|||||Medium|
 |0451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) || [c++](./src/0451-Sort-Characters-By-Frequency/0451.cpp) |[python](./src/0451-Sort-Characters-By-Frequency/0451.py)|||||Easy|
