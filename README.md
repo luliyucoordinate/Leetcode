@@ -770,6 +770,7 @@ LeetCode
 |1758|[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)||[c++](./src/1758-Minimum-Changes-To-Make-Alternating-Binary-String/1758.cpp)||||||Easy|
 |1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)||[c++](./src/1779-Find-Nearest-Point-That-Has-the-Same-X-or-Y-Coordinate/1779.cpp)||||||Easy|
 |1796|[Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)||[c++](./src/1796-Second-Largest-Digit-in-a-String/1796.cpp)||||||Easy|
+|1812|[Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)||[c++](./src/1812-Determine-Color-of-a-Chessboard-Square/1812.cpp)||||||Easy|
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)||[c++](./src/1832-Check-if-the-Sentence-is-Pangram/1832.cpp)|[python](./src/1832-Check-if-the-Sentence-is-Pangram/1832.py)|||||Easy|
 |1926|[Minimum Number of Operations to Sort a Binary Tree by LevelNearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)||[c++](./src/1926-Nearest-Exit-from-Entrance-in-Maze/1926.cpp)||||||Medium|
 |2225|[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)||[c++](./src/2225-Find-Players-With-Zero-or-One-Losses/2225.cpp)||||||Medium|
