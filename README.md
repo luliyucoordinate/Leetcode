@@ -763,6 +763,7 @@ LeetCode
 |1546|[Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/)||[c++](./src/1546-Maximum-Number-of-Non-Overlapping-Subarrays-With-Sum-Equals-Target/maximum_number_of_nonoverlapping_with_sum_equals_target.cpp)||||||Medium|
 |1657|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)||[c++](./src/1657-Determine-if-Two-Strings-Are-Close/1657.cpp)||||||Medium|
 |1673|[Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)||[c++](./src/1673-Find-the-Most-Competitive-Subsequence/1673.cpp)||||||Medium|
+|1691|[Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/description/)||[c++](./src/1691-Maximum-Height-by-Stacking-Cuboids/1691.cpp)||||||Hard|
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)||[c++](./src/1704-Determine-if-String-Halves-Are-Alike/1704.cpp)||||||Easy|
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)||[c++](./src/1732-Find-the-Highest-Altitude/1732.cpp)||||||Easy|
 |1742|[Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/)||[c++](./src/1742-Maximum-Number-of-Balls-in-a-Box/1742.cpp)||||||Easy|
