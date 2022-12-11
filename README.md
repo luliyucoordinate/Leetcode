@@ -770,6 +770,7 @@ LeetCode
 |1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)||[c++](./src/1752-Check-if-Array-Is-Sorted-and-Rotated/1752.cpp)||||||Easy|
 |1758|[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)||[c++](./src/1758-Minimum-Changes-To-Make-Alternating-Binary-String/1758.cpp)||||||Easy|
 |1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)||[c++](./src/1779-Find-Nearest-Point-That-Has-the-Same-X-or-Y-Coordinate/1779.cpp)||||||Easy|
+|1780|[Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)||[c++](./src/2225-Find-Players-With-Zero-or-One-Losses/2225.cpp)||||||Medium|
 |1796|[Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)||[c++](./src/1796-Second-Largest-Digit-in-a-String/1796.cpp)||||||Easy|
 |1812|[Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)||[c++](./src/1812-Determine-Color-of-a-Chessboard-Square/1812.cpp)||||||Easy|
 |1827|[Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)||[c++](./src/1827-Minimum-Operations-to-Make-the-Array-Increasing/1827.cpp)||||||Easy|
