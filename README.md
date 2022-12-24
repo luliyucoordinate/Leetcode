@@ -315,6 +315,7 @@ LeetCode
 |0742|[Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/) || [c++](./src/0742-Closest-Leaf-in-a-Binary-Tree/0742.cpp) |[python](./src/0742-Closest-Leaf-in-a-Binary-Tree/0742.py)|||||Medium|
 |0776|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)||[c++](./src/0776-Toeplitz-Matrix/0776.cpp)||||||Easy|
 |0788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/) || [c++](./src/0788-Rotated-Digits/0788.cpp) |[python](./src/0788-Rotated-Digits/0788.py)|||||Easy|
+|0790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)||[c++](./src/0790-Domino-and-Tromino-Tiling/0790.cpp)||||||Medium|
 |0793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) || [c++](./src/0793-Preimage-Size-of-Factorial-Zeroes-Function/0793.cpp) |[python](./src/0793-Preimage-Size-of-Factorial-Zeroes-Function/0793.py)|[go](./src/0793-Preimage-Size-of-Factorial-Zeroes-Function/0793.go)|[js](./src/0793-Preimage-Size-of-Factorial-Zeroes-Function/0793.js)|||Hard|
 |0795|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) || [c++](./src/0795-Number-of-Subarrays-with-Bounded-Maximum/0795.cpp) ||||||Medium|
 |0813|[Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/) || [c++](./src/0813-Largest-Sum-of-Averages/0813.cpp) ||||||Medium|
