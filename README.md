@@ -767,6 +767,7 @@ LeetCode
 |1691|[Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/description/)||[c++](./src/1691-Maximum-Height-by-Stacking-Cuboids/1691.cpp)||||||Hard|
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)||[c++](./src/1704-Determine-if-String-Halves-Are-Alike/1704.cpp)||||||Easy|
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)||[c++](./src/1732-Find-the-Highest-Altitude/1732.cpp)||||||Easy|
+|1739|[Building Boxes](https://leetcode.com/problems/building-boxes/)||[c++](./src/1739-Building-Boxes/1739.cpp)||||||Hard|
 |1742|[Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/)||[c++](./src/1742-Maximum-Number-of-Balls-in-a-Box/1742.cpp)||||||Easy|
 |1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)||[c++](./src/1752-Check-if-Array-Is-Sorted-and-Rotated/1752.cpp)||||||Easy|
 |1758|[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)||[c++](./src/1758-Minimum-Changes-To-Make-Alternating-Binary-String/1758.cpp)||||||Easy|
