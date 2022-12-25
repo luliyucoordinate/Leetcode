@@ -781,6 +781,7 @@ LeetCode
 |1926|[Minimum Number of Operations to Sort a Binary Tree by LevelNearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)||[c++](./src/1926-Nearest-Exit-from-Entrance-in-Maze/1926.cpp)||||||Medium|
 |2225|[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)||[c++](./src/2225-Find-Players-With-Zero-or-One-Losses/2225.cpp)||||||Medium|
 |2256|[Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)||[c++](./src/2256-Minimum-Average-Difference/2256.cpp)||||||Medium|
+|2389|[Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)||[c++](./src/2389-Longest-Subsequence-With-Limited-Sum/2389.cpp)||||||Easy|
 |2469|[Convert the temperature](https://leetcode.com/problems/convert-the-temperature/)||[c++](./src/2469-Convert-the-Temperature/2469.cpp)||||||Easy|
 |2470|[Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/)||[c++](./src/2470-Number-of-Subarrays-With-LCM-Equal-to-K/2470.cpp)||||||Medium|
 |2471|[Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/)||[c++](./src/2471-Minimum-Number-of-Operations-to-Sort-a-Binary-Tree-by-Level/2471.cpp)||||||Medium|
