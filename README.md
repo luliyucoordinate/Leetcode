@@ -771,6 +771,7 @@ LeetCode
 |1742|[Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/)||[c++](./src/1742-Maximum-Number-of-Balls-in-a-Box/1742.cpp)||||||Easy|
 |1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)||[c++](./src/1752-Check-if-Array-Is-Sorted-and-Rotated/1752.cpp)||||||Easy|
 |1758|[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)||[c++](./src/1758-Minimum-Changes-To-Make-Alternating-Binary-String/1758.cpp)||||||Easy|
+|1759|[Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)||[c++](./src/1759-Count-Number-of-Homogenous-Substrings/1759.cpp)||||||Medium|
 |1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)||[c++](./src/1779-Find-Nearest-Point-That-Has-the-Same-X-or-Y-Coordinate/1779.cpp)||||||Easy|
 |1780|[Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)||[c++](./src/1780-Check-if-Number-is-a-Sum-of-Powers-of-Three/1780.cpp)||||||Medium|
 |1781|[Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/)||[c++](./src/1781-Sum-of-Beauty-of-All-Substrings/1781.cpp)||||||Medium|
