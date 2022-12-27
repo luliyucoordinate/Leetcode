@@ -785,6 +785,7 @@ LeetCode
 |2027|[Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/)||[c++](./src/2027-Minimum-Moves-to-Convert-String/2027.cpp)||||||Easy|
 |2225|[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)||[c++](./src/2225-Find-Players-With-Zero-or-One-Losses/2225.cpp)||||||Medium|
 |2256|[Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)||[c++](./src/2256-Minimum-Average-Difference/2256.cpp)||||||Medium|
+|2279|[Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)||[c++](./src/2279-Maximum-Bags-With-Full-Capacity-of-Rocks/2279.cpp)||||||Medium|
 |2389|[Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)||[c++](./src/2389-Longest-Subsequence-With-Limited-Sum/2389.cpp)||||||Easy|
 |2469|[Convert the temperature](https://leetcode.com/problems/convert-the-temperature/)||[c++](./src/2469-Convert-the-Temperature/2469.cpp)||||||Easy|
 |2470|[Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/)||[c++](./src/2470-Number-of-Subarrays-With-LCM-Equal-to-K/2470.cpp)||||||Medium|
