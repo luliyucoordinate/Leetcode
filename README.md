@@ -769,6 +769,7 @@ LeetCode
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)||[c++](./src/1732-Find-the-Highest-Altitude/1732.cpp)||||||Easy|
 |1739|[Building Boxes](https://leetcode.com/problems/building-boxes/)||[c++](./src/1739-Building-Boxes/1739.cpp)||||||Hard|
 |1742|[Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/)||[c++](./src/1742-Maximum-Number-of-Balls-in-a-Box/1742.cpp)||||||Easy|
+|1750|[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)||[c++](./src/1750-Minimum-Length-of-String-After-Deleting-Similar-Ends/1750.cpp)||||||Medium|
 |1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)||[c++](./src/1752-Check-if-Array-Is-Sorted-and-Rotated/1752.cpp)||||||Easy|
 |1758|[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)||[c++](./src/1758-Minimum-Changes-To-Make-Alternating-Binary-String/1758.cpp)||||||Easy|
 |1759|[Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)||[c++](./src/1759-Count-Number-of-Homogenous-Substrings/1759.cpp)||||||Medium|
