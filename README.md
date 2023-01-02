@@ -286,6 +286,7 @@ LeetCode
 |0494|[Target Sum](https://leetcode.com/problems/target-sum/) || [c++](./src/0494-Target-Sum/0494.cpp) |[python](./src/0494-Target-Sum/0494.py)|||||Medium|
 |0496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) || [c++](./src/0496-Next-Greater-Element-I/0496.cpp) |[python](./src/0496-Next-Greater-Element-I/0496.py)|||||Easy|
 |0503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-i/) || [c++](./src/0503-Next-Greater-Element-II/0503.cpp) |[python](./src/0503-Next-Greater-Element-II/0503.py)|||||Medium|
+|0520|[Detect Capital](https://leetcode.com/problems/detect-capital/) || [c++](./src/0520-Detect-Capital/0520.cpp) ||||||Easy|
 |0524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)||[c++](./src/0524-Longest-Word-in-Dictionary-through-Deleting/0524.cpp)|||||[rust](./src/0524-Longest-Word-in-Dictionary-through-Deleting/0524.rs)|Medium|
 |0525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/) || [c++](./src/0525-Contiguous-Array/0525.cpp) |[python](./src/0525-Contiguous-Array/0525.py)|||||Medium|
 |0528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)||[c++](./src/0528-Random-Pick-with-Weight/0528.cpp)|[python](./src/0528-Random-Pick-with-Weight/0528.py)|[go](./src/0528-Random-Pick-with-Weight/0528.go)|[js](./src/0528-Random-Pick-with-Weight/0528.js)|[java](./src/0528-Random-Pick-with-Weight/0528.java)|[rust](./src/0528-Random-Pick-with-Weight/0528.rs)|Medium|
