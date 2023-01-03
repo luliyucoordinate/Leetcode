@@ -791,6 +791,7 @@ LeetCode
 |2027|[Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/)||[c++](./src/2027-Minimum-Moves-to-Convert-String/2027.cpp)||||||Easy|
 |2032|[Two Out of Three](https://leetcode.com/problems/two-out-of-three/)||[c++](./src/2032-Two-Out-of-Three/2032.cpp)||||||Easy|
 |2037|[Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)||[c++](./src/2037-Minimum-Number-of-Moves-to-Seat-Everyone/2037.cpp)||||||Easy|
+|2042|[Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/)||[c++](./src/2042-Check-if-Numbers-Are-Ascending-in-a-Sentence/2042.cpp)||||||Easy|
 |2225|[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)||[c++](./src/2225-Find-Players-With-Zero-or-One-Losses/2225.cpp)||||||Medium|
 |2256|[Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)||[c++](./src/2256-Minimum-Average-Difference/2256.cpp)||||||Medium|
 |2279|[Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)||[c++](./src/2279-Maximum-Bags-With-Full-Capacity-of-Rocks/2279.cpp)||||||Medium|
