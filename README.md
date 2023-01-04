@@ -793,6 +793,7 @@ LeetCode
 |2037|[Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)||[c++](./src/2037-Minimum-Number-of-Moves-to-Seat-Everyone/2037.cpp)||||||Easy|
 |2042|[Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/)||[c++](./src/2042-Check-if-Numbers-Are-Ascending-in-a-Sentence/2042.cpp)||||||Easy|
 |2225|[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)||[c++](./src/2225-Find-Players-With-Zero-or-One-Losses/2225.cpp)||||||Medium|
+|2244|[Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)||[c++](./src/2244-Minimum-Rounds-to-Complete-All-Tasks/2244.cpp)||||||Medium|
 |2256|[Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)||[c++](./src/2256-Minimum-Average-Difference/2256.cpp)||||||Medium|
 |2279|[Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)||[c++](./src/2279-Maximum-Bags-With-Full-Capacity-of-Rocks/2279.cpp)||||||Medium|
 |2351|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)||[c++](./src/2351-First-Letter-to-Appear-Twice/2351.cpp)||||||Easy|
