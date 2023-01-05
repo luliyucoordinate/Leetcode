@@ -781,6 +781,7 @@ LeetCode
 |1781|[Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/)||[c++](./src/1781-Sum-of-Beauty-of-All-Substrings/1781.cpp)||||||Medium|
 |1796|[Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)||[c++](./src/1796-Second-Largest-Digit-in-a-String/1796.cpp)||||||Easy|
 |1801|[Number of Orders in the Backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog/)||[c++](./src/1801-Number-of-Orders-in-the-Backlog/1801.cpp)||||||Medium|
+|1802|[Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)||[c++](./src/1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array/1802.cpp)||||||Medium|
 |1805|[Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)||[c++](./src/1805-Number-of-Different-Integers-in-a-String/1805.cpp)||||||Easy|
 |1812|[Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)||[c++](./src/1812-Determine-Color-of-a-Chessboard-Square/1812.cpp)||||||Easy|
 |1827|[Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)||[c++](./src/1827-Minimum-Operations-to-Make-the-Array-Increasing/1827.cpp)||||||Easy|
