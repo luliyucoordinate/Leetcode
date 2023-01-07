@@ -786,7 +786,8 @@ LeetCode
 |1805|[Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)||[c++](./src/1805-Number-of-Different-Integers-in-a-String/1805.cpp)||||||Easy|
 |1812|[Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)||[c++](./src/1812-Determine-Color-of-a-Chessboard-Square/1812.cpp)||||||Easy|
 |1827|[Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)||[c++](./src/1827-Minimum-Operations-to-Make-the-Array-Increasing/1827.cpp)||||||Easy|
-|1834|[Single-Threaded-CPU](https://leetcode.com/problems/single-threaded-cpu/)||[c++](./src/1834-Single-Threaded-CPU/1827.cpp)||||||Medium|
+|1833|[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)||[c++](./src/1833-Maximum-Ice-Cream-Bars/1833.cpp)||||||Medium|
+|1834|[Single-Threaded-CPU](https://leetcode.com/problems/single-threaded-cpu/)||[c++](./src/1834-Single-Threaded-CPU/1834.cpp)||||||Medium|
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)||[c++](./src/1832-Check-if-the-Sentence-is-Pangram/1832.cpp)|[python](./src/1832-Check-if-the-Sentence-is-Pangram/1832.py)|||||Easy|
 |1926|[Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)||[c++](./src/1926-Nearest-Exit-from-Entrance-in-Maze/1926.cpp)||||||Medium|
 |1962|[Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)||[c++](./src/1962-Remove-Stones-to-Minimize-the-Total/1962.cpp)||||||Medium|
