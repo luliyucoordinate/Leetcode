@@ -797,6 +797,7 @@ LeetCode
 |2037|[Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)||[c++](./src/2037-Minimum-Number-of-Moves-to-Seat-Everyone/2037.cpp)||||||Easy|
 |2042|[Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/)||[c++](./src/2042-Check-if-Numbers-Are-Ascending-in-a-Sentence/2042.cpp)||||||Easy|
 |2180|[Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/)||[c++](./src/2180-Count-Integers-With-Even-Digit-Sum/2180.cpp)||||||Easy|
+|2185|[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)||[c++](./src/2185-Counting-Words-With-a-Given-Prefix/2185.cpp)||||||Easy|
 |2225|[Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)||[c++](./src/2225-Find-Players-With-Zero-or-One-Losses/2225.cpp)||||||Medium|
 |2244|[Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)||[c++](./src/2244-Minimum-Rounds-to-Complete-All-Tasks/2244.cpp)||||||Medium|
 |2256|[Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)||[c++](./src/2256-Minimum-Average-Difference/2256.cpp)||||||Medium|
