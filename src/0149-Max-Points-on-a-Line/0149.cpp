@@ -1,66 +1,25 @@
-#include <iostream>
-#include <vector>
-#include <unordered_map>
-#include <climits>
-#include <map>
-using namespace std;
+class Solution {
+ public:
+  int maxPoints(vector<vector<int>>& points) {
+    int res = 1, n = points.size();
+    unordered_map<int, int> lines;
+    for (int i = 0; i < n; i++) {
+      lines.clear();
+      for (int j = i + 1; j < n; j++) {
+        auto& p1 = points[i];
+        auto& p2 = points[j];
 
-
- //Definition for a point.
-struct Point {
-    int x;
-    int y;
-    Point() : x(0), y(0) {}
-    Point(int a, int b) : x(a), y(b) {}
-};
-
-static int x = []() {std::ios::sync_with_stdio(false); cin.tie(0); return 0; }();
-class Solution 
-{
-public:
-    int maxPoints(vector<Point> &points) 
-    {       
-        if(points.size() < 2) return points.size();     
-        int result = 0;   
-        map<pair<int, int>, int> lines; 
-        for(unsigned int i = 0; i < points.size(); i++) {    
-            lines.clear();
-            int duplicate = 1, vertical = 1;           
-            for(unsigned int j = i + 1; j < points.size(); j++) 
-            {                
-                if(points[j].x == points[i].x && points[j].y == points[i].y) 
-                {                    
-                    duplicate++;
-                    continue;
-                }
-                else if(points[j].x == points[i].x) vertical++;
-                else 
-                {    
-                    int a = points[j].x - points[i].x;
-                    int b = points[j].y - points[i].y;
-                    int gcd = GCD(a, b);
-                    a /= gcd; b /= gcd;
-                    lines[make_pair(a, b)]++;
-                }
-            }  
-            if (result < duplicate) result = duplicate;
-            if (result < vertical) result = vertical;
-            for (auto& line : lines)
-            {
-                int tmp = duplicate + line.second;
-                if (result < tmp) result = tmp;
-            }      
-        }        
-        return result;
+        auto a = p1[0] - p2[0];
+        auto b = p1[1] - p2[1];
+        auto c = GCD(a, b);
+        a /= c, b /= c;
+        lines[a * 20000 + b]++;
+      }
+      for (auto& [x, y] : lines) {
+        res = max(res, y + 1);
+      }
     }
-private:
-    int GCD(int a, int b) 
-    {      
-        if(b == 0) return a;
-        else return GCD(b, a % b);
-    }
+    return res;
+  }
+  int GCD(int a, int b) { return b == 0 ? a : GCD(b, a % b); }
 };
-int main()
-{
-    return 0;
-}
