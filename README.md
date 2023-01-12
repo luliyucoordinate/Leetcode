@@ -785,6 +785,7 @@ LeetCode
 |1802|[Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)||[c++](./src/1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array/1802.cpp)||||||Medium|
 |1805|[Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)||[c++](./src/1805-Number-of-Different-Integers-in-a-String/1805.cpp)||||||Easy|
 |1806|[Minimum Number of Operations to Reinitialize a Permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)||[c++](./src/1806-Minimum-Number-of-Operations-to-Reinitialize-a-Permutation/1806.cpp)||||||Medium|
+|1807|[Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)||[c++](./src/1807-Evaluate-the-Bracket-Pairs-of-a-String/1807.cpp)||||||Medium|
 |1812|[Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)||[c++](./src/1812-Determine-Color-of-a-Chessboard-Square/1812.cpp)||||||Easy|
 |1827|[Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)||[c++](./src/1827-Minimum-Operations-to-Make-the-Array-Increasing/1827.cpp)||||||Easy|
 |1833|[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)||[c++](./src/1833-Maximum-Ice-Cream-Bars/1833.cpp)||||||Medium|
