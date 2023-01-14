@@ -806,6 +806,7 @@ LeetCode
 |2244|[Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)||[c++](./src/2244-Minimum-Rounds-to-Complete-All-Tasks/2244.cpp)||||||Medium|
 |2256|[Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)||[c++](./src/2256-Minimum-Average-Difference/2256.cpp)||||||Medium|
 |2279|[Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)||[c++](./src/2279-Maximum-Bags-With-Full-Capacity-of-Rocks/2279.cpp)||||||Medium|
+|2287|[Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/)||[c++](./src/2287-Rearrange-Characters-to-Make-Target-String/2287.cpp)||||||Easy|
 |2351|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)||[c++](./src/2351-First-Letter-to-Appear-Twice/2351.cpp)||||||Easy|
 |2389|[Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)||[c++](./src/2389-Longest-Subsequence-With-Limited-Sum/2389.cpp)||||||Easy|
 |2469|[Convert the temperature](https://leetcode.com/problems/convert-the-temperature/)||[c++](./src/2469-Convert-the-Temperature/2469.cpp)||||||Easy|
