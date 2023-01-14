@@ -472,6 +472,7 @@ LeetCode
 |1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) || [c++](./src/1052-Grumpy-Bookstore-Owner/1052.cpp) |[python](./src/1052-Grumpy-Bookstore-Owner/1052.py)|||||Medium|
 |1053|[Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/) || [c++](./src/1053-Previous-Permutation-With-One-Swap/1053.cpp) |[python](./src/1053-Previous-Permutation-With-One-Swap/1053.py)|||||Medium|
 |1054|[Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) || [c++](./src/1054-Distant-Barcodes/1054.cpp) |[python](./src/1054-Distant-Barcodes/1054.py)|||||Medium|
+|1061|[Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) ||[c++](./src/1061-Lexicographically-Smallest-Equivalent-String/1061.cpp)||||||Medium|
 |1064|[Fixed Point](https://leetcode.com/contest/biweekly-contest-1/problems/fixed-point/) || [c++](./src/1064-Fixed-Point/1064.cpp) |[python](./src/1064-Fixed-Point/1064.py)|||||Easy|
 |1065|[Index Pairs of a String](https://leetcode.com/contest/biweekly-contest-1/problems/index-pairs-of-a-string/) || [c++](./src/1065-Index-Pairs-of-a-String/1065.cpp) |[python](./src/1065-Index-Pairs-of-a-String/1065.py)|||||Easy|
 |1066|[Campus Bikes II](https://leetcode.com/contest/biweekly-contest-1/problems/campus-bikes-ii/) || [c++](./src/1066-Campus-Bikes-II/1066.cpp) |[python](./src/1066-Campus-Bikes-II/1066.py)|||||Medium|
