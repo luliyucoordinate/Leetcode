@@ -1,27 +1,30 @@
-#include <vector>
-using namespace std;
-
-static int x = []() {std::ios::sync_with_stdio(false); cin.tie(0); return 0; }();
-class Solution 
-{
-public:
-    vector<Interval> insert(vector<Interval>& intervals, Interval newInterval) 
-    {
-        vector<Interval> res;
-        int i = 0;
-        while (i < intervals.size() and intervals[i].end < newInterval.start)
-        {
-            res.push_back(intervals[i++]);
-        }
-        
-        while (i < intervals.size() and intervals[i].start <= newInterval.end)
-        {
-            newInterval.start = min(intervals[i].start, newInterval.start);
-            newInterval.end = max(intervals[i].end, newInterval.end);
-            ++i;
-        }
-        res.push_back(newInterval);
-        for (; i < intervals.size(); ++i) res.push_back(intervals[i]);
-        return res;
+class Solution {
+ public:
+  vector<vector<int>> insert(vector<vector<int>>& intervals,
+                             vector<int>& newInterval) {
+    vector<vector<int>> res;
+    int n = intervals.size(), i = 0;
+    while (i < n) {
+      auto& a = intervals[i];
+      if (a[1] >= newInterval[0]) break;
+      res.push_back(a);
+      i++;
     }
+
+    int x = newInterval[0], y = newInterval[1];
+    while (i < n) {
+      auto& a = intervals[i];
+      if (a[0] > y) break;
+      y = max(y, a[1]);
+      x = min(x, a[0]);
+      i++;
+    }
+
+    res.push_back({x, y});
+    while (i < n) {
+      res.push_back(intervals[i++]);
+    }
+
+    return res;
+  }
 };

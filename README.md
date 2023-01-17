@@ -60,7 +60,7 @@ LeetCode
 |0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) || [c++](./src/0054-Spiral-Matrix/0054.cpp) |[python](./src/0054-Spiral-Matrix/0054.py)|||||Medium|
 |0055|[Jump Game](https://leetcode.com/problems/jump-game/) || [c++](./src/0055-Jump-Game/0055.cpp) |[python](./src/0055-Jump-Game/0055.py)|||||Medium|
 |0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) || [c++](./src/0056-Merge-Intervals/0056.cpp) |[python](./src/0056-Merge-Intervals/0056.py)|||||Medium|
-|0057|[Insert Interval](https://leetcode.com/problems/insert-interval/) || [c++](./src/0057-Insert-Interval/0057.cpp) |[python](./src/0057-Insert-Interval/0057.py)|||||Hard|
+|0057|[Insert Interval](https://leetcode.com/problems/insert-interval/) || [c++](./src/0057-Insert-Interval/0057.cpp) ||||||Medium|
 |0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) || [c++](./src/0058-Length-of-Last-Word/0058.cpp) |[python](./src/0058-Length-of-Last-Word/0058.py)||[js](./src/0058-Length-of-Last-Word/0058.js)|| [rust](./src/0058-Length-of-Last-Word/0058.rs)|Easy|
 |0059|[Spiral Matrix II](https://leetcode.com/problem/spiral-matrix-ii/) || [c++](./src/0059-Spiral-Matrix-II/0059.cpp) |[python](./src/0059-Spiral-Matrix-II/0059.py)|||||Hard|
 |0060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) || [c++](./src/0060-Permutation-Sequence/0060.cpp) |[python](./src/0060-Permutation-Sequence/0060.py)|||||Medium|
