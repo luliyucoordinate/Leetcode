@@ -788,6 +788,7 @@ LeetCode
 |1806|[Minimum Number of Operations to Reinitialize a Permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)||[c++](./src/1806-Minimum-Number-of-Operations-to-Reinitialize-a-Permutation/1806.cpp)||||||Medium|
 |1807|[Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)||[c++](./src/1807-Evaluate-the-Bracket-Pairs-of-a-String/1807.cpp)||||||Medium|
 |1812|[Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)||[c++](./src/1812-Determine-Color-of-a-Chessboard-Square/1812.cpp)||||||Easy|
+|1813|[Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/)||[c++](./src/1813-Sentence-Similarity-III/1813.cpp)||||||Medium|
 |1819|[Number of Different Subsequences GCDs](https://leetcode.com/problems/number-of-different-subsequences-gcds/)||[c++](./src/1812-Determine-Color-of-a-Chessboard-Square/1812.cpp)||||||Hard|
 |1827|[Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)||[c++](./src/1827-Minimum-Operations-to-Make-the-Array-Increasing/1827.cpp)||||||Easy|
 |1833|[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)||[c++](./src/1833-Maximum-Ice-Cream-Bars/1833.cpp)||||||Medium|
