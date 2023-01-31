@@ -815,6 +815,7 @@ LeetCode
 |2287|[Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/)||[c++](./src/2287-Rearrange-Characters-to-Make-Target-String/2287.cpp)||||||Easy|
 |2293|[Min Max Game](https://leetcode.com/problems/min-max-game/)||[c++](./src/2293-Min-Max-Game/2293.cpp)||||||Easy|
 |2315|[Count Asterisks](https://leetcode.com/problems/count-asterisks/)||[c++](./src/2315-Count-Asterisks/2315.cpp)||||||Easy|
+|2319|[Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)||[c++](./src/2319-Check-if-Matrix-Is-X-Matrix/2319.cpp)||||||Easy|
 |2351|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)||[c++](./src/2351-First-Letter-to-Appear-Twice/2351.cpp)||||||Easy|
 |2389|[Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)||[c++](./src/2389-Longest-Subsequence-With-Limited-Sum/2389.cpp)||||||Easy|
 |2469|[Convert the temperature](https://leetcode.com/problems/convert-the-temperature/)||[c++](./src/2469-Convert-the-Temperature/2469.cpp)||||||Easy|
