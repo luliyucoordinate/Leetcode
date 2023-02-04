@@ -297,6 +297,7 @@ LeetCode
 |0547|[Friend Circles](https://leetcode.com/problems/friend-circles/) || [c++](./src/0547-Friend-Circles/0547.cpp) |[python](./src/0547-Friend-Circles/0547.py)|||||Medium|
 |0559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) || [c++](./src/0559-Maximum-Depth-of-N-ary-Tree/0559.cpp) ||||||Easy|
 |0560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) || [c++](./src/0560-Subarray-Sum-Equals-K/0560.cpp) |[python](./src/0560-Subarray-Sum-Equals-K/0560.py)|||||Medium|
+|0567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/) || [c++](./src/0567-Permutation-in-String/0567.cpp) ||||||Medium|
 |0583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)||[c++](./src/0583-Delete-Operation-for-Two-Strings/0583.cpp)|||||[rust](./src/0583-Delete-Operation-for-Two-Strings/0583.rs)|Medium|
 |0587|[Erect the Fence](https://leetcode.com/problems/erect-the-fence/)||[c++](./src/0587-Erect-the-Fence/0587.cpp)||||||Hard|
 |0594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) ||[c++](./src/0594-Longest-Harmonious-Subsequence/0594.cpp)|||||[rust](./src/0594-Longest-Harmonious-Subsequence/0594.rs)|Easy|
