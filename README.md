@@ -350,6 +350,7 @@ LeetCode
 |0895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) || [c++](./src/0895-Maximum-Frequency-Stack/0895.cpp) ||||||Hard|
 |0901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/) || [c++](./src/0901-Online-Stock-Span/0901.cpp) |[python](./src/0901-Online-Stock-Span/0901.py)|||||Medium|
 |0902|[Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) || [c++](./src/0902-Numbers-At-Most-N-Given-Digit-Set/0902.cpp) |[python](./src/0902-Numbers-At-Most-N-Given-Digit-Set/0902.py)|||||Hard|
+|0904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) || [c++](./src/0904-Fruit-Into-Baskets/0904.cpp)||||||Medium|
 |0907|[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) || [c++](./src/0907-Sum-of-Subarray-Minimums/0907.cpp) |[python](./src/0907-Sum-of-Subarray-Minimums/0907.py)|||||Medium|
 |0914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)||[c++](./src/0914-X-of-a-Kind-in-a-Deck-of-Cards/0914.cpp)|[python](./src/0914-X-of-a-Kind-in-a-Deck-of-Cards/0914.py)|[go](./src/0914-X-of-a-Kind-in-a-Deck-of-Cards/0914.go)|[js](./src/0914-X-of-a-Kind-in-a-Deck-of-Cards/0914.js)|[java](./src/0914-X-of-a-Kind-in-a-Deck-of-Cards/0914.java)||Easy|
 |0917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) || [c++](./src/0917-Reverse-Only-Letters/0917.cpp) |[python](./src/0917-Reverse-Only-Letters/0917.py)|||||Easy|
