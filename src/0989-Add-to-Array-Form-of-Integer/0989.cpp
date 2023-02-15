@@ -1,20 +1,14 @@
-static int x = [](){std::ios::sync_with_stdio(false);cin.tie(0);return 0;}();
-class Solution 
-{
-public:
-    vector<int> addToArrayForm(vector<int>& A, int K) 
-    {
-        for (int i = A.size() - 1; i >= 0 and K > 0; --i)
-        {
-            A[i] += K;
-            K = A[i] / 10;
-            A[i] %= 10;
-        }
-        while (K)
-        {
-            A.insert(A.begin(), K % 10);
-            K /= 10;
-        }
-        return A;
+class Solution {
+ public:
+  vector<int> addToArrayForm(vector<int>& num, int k) {
+    vector<int> res;
+    for (int i = num.size() - 1; ~i; i--) {
+      k += num[i];
+      res.push_back(k % 10);
+      k /= 10;
     }
+    while (k) res.push_back(k % 10), k /= 10;
+    reverse(res.begin(), res.end());
+    return res;
+  }
 };
