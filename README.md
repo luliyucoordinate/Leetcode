@@ -829,6 +829,7 @@ LeetCode
 |2469|[Convert the temperature](https://leetcode.com/problems/convert-the-temperature/)||[c++](./src/2469-Convert-the-Temperature/2469.cpp)||||||Easy|
 |2470|[Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/)||[c++](./src/2470-Number-of-Subarrays-With-LCM-Equal-to-K/2470.cpp)||||||Medium|
 |2471|[Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/)||[c++](./src/2471-Minimum-Number-of-Operations-to-Sort-a-Binary-Tree-by-Level/2471.cpp)||||||Medium|
+|2477|[Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/)||[c++](./src/2477-Minimum-Number-of-Operations-to-Sort-a-Binary-Tree-by-Level/2477.cpp)||||||Medium|
 |2549|[Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/)||[c++](./src/2549-Count-Distinct-Numbers-on-Board/2549.cpp)||||||Easy|
 |2550|[Count Collisions of Monkeys on a Polygon](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/)||[c++](./src/2550-Count-Collisions-of-Monkeys-on-a-Polygon/2550.cpp)||||||Medium|
 |2551|[Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/)||[c++](./src/2551-Put-Marbles-in-Bags/2551.cpp)||||||Hard|
