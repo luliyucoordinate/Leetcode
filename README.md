@@ -318,6 +318,7 @@ LeetCode
 |0739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) || [c++](./src/0739-Daily-Temperatures/0739.cpp) |[python](./src/0739-Daily-Temperatures/0739.py)|||||Medium|
 |0742|[Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/) || [c++](./src/0742-Closest-Leaf-in-a-Binary-Tree/0742.cpp) |[python](./src/0742-Closest-Leaf-in-a-Binary-Tree/0742.py)|||||Medium|
 |0776|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)||[c++](./src/0776-Toeplitz-Matrix/0776.cpp)||||||Easy|
+|0783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)||[c++](./src/0783-Minimum-Distance-Between-BST-Nodes/0783.cpp)||||||Easy|
 |0788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/) || [c++](./src/0788-Rotated-Digits/0788.cpp) |[python](./src/0788-Rotated-Digits/0788.py)|||||Easy|
 |0790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)||[c++](./src/0790-Domino-and-Tromino-Tiling/0790.cpp)||||||Medium|
 |0793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) || [c++](./src/0793-Preimage-Size-of-Factorial-Zeroes-Function/0793.cpp) |[python](./src/0793-Preimage-Size-of-Factorial-Zeroes-Function/0793.py)|[go](./src/0793-Preimage-Size-of-Factorial-Zeroes-Function/0793.go)|[js](./src/0793-Preimage-Size-of-Factorial-Zeroes-Function/0793.js)|||Hard|
