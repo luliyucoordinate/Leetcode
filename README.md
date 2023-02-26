@@ -828,6 +828,7 @@ LeetCode
 |2341|[Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)||[c++](./src/2341-Maximum-Number-of-Pairs-in-Array/2341.cpp)||||||Easy|
 |2347|[Best Poker Hand](https://leetcode.com/problems/best-poker-hand/)||[c++](./src/2347-Best-Poker-Hand/2347.cpp)||||||Easy|
 |2351|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)||[c++](./src/2351-First-Letter-to-Appear-Twice/2351.cpp)||||||Easy|
+|2357|[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/first-letter-to-appear-twice/)||[c++](./src/2351-First-Letter-to-Appear-Twice/2351.cpp)||||||Easy|
 |2389|[Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)||[c++](./src/2389-Longest-Subsequence-With-Limited-Sum/2389.cpp)||||||Easy|
 |2469|[Convert the temperature](https://leetcode.com/problems/convert-the-temperature/)||[c++](./src/2469-Convert-the-Temperature/2469.cpp)||||||Easy|
 |2470|[Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/)||[c++](./src/2470-Number-of-Subarrays-With-LCM-Equal-to-K/2470.cpp)||||||Medium|
