@@ -301,6 +301,7 @@ LeetCode
 |0583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)||[c++](./src/0583-Delete-Operation-for-Two-Strings/0583.cpp)|||||[rust](./src/0583-Delete-Operation-for-Two-Strings/0583.rs)|Medium|
 |0587|[Erect the Fence](https://leetcode.com/problems/erect-the-fence/)||[c++](./src/0587-Erect-the-Fence/0587.cpp)||||||Hard|
 |0594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) ||[c++](./src/0594-Longest-Harmonious-Subsequence/0594.cpp)|||||[rust](./src/0594-Longest-Harmonious-Subsequence/0594.rs)|Easy|
+|0605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)||[c++](./src/0605-Can-Place-Flowers/0605.cpp)||||||Easy|
 |0637|[Average of Levels in Binary Tree](https://leetcode.com/problems/subarray-sum-equals-k/) || [c++](./src/0637-Average-of-Levels-in-Binary-Tree/0637.cpp) |[python](./src/0637-Average-of-Levels-in-Binary-Tree/0637.py)|||||Easy|
 |0638|[Shopping Offers](https://leetcode.com/problems/shopping-offers/)||[c++](./src/0638-Shopping-Offers/0638.cpp)|||||[rust](./src/0638-Shopping-Offers/0638.rs)|Medium|
 |0650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) || [c++](./src/0650-2-Keys-Keyboard/0650.cpp) |[python](./src/0650-2-Keys-Keyboard/0650.py)|||||Medium|
