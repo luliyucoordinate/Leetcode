@@ -58,7 +58,7 @@ LeetCode
 |0052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/) || [c++](./src/0052-N-Queens-II/0052.cpp) |[python](./src/0052-N-Queens-II/0052.py)|||||Hard|
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) || [c++](./src/0053-Maximum-Subarray/0053.cpp) |[python](./src/0053-Maximum-Subarray/0053.py)|||||Easy|
 |0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) || [c++](./src/0054-Spiral-Matrix/0054.cpp) |[python](./src/0054-Spiral-Matrix/0054.py)|||||Medium|
-|0055|[Jump Game](https://leetcode.com/problems/jump-game/) || [c++](./src/0055-Jump-Game/0055.cpp) |[python](./src/0055-Jump-Game/0055.py)|||||Medium|
+|0055|[Jump Game](https://leetcode.com/problems/jump-game/) || [c++](./src/0055-Jump-Game/0055.cpp) |[python](./src/0055-Jump-Game/0055.py)|[go](./src/0055-Jump-Game/0055.go)||||Medium|
 |0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) || [c++](./src/0056-Merge-Intervals/0056.cpp) |[python](./src/0056-Merge-Intervals/0056.py)|||||Medium|
 |0057|[Insert Interval](https://leetcode.com/problems/insert-interval/) || [c++](./src/0057-Insert-Interval/0057.cpp) ||||||Medium|
 |0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) || [c++](./src/0058-Length-of-Last-Word/0058.cpp) |[python](./src/0058-Length-of-Last-Word/0058.py)||[js](./src/0058-Length-of-Last-Word/0058.js)|| [rust](./src/0058-Length-of-Last-Word/0058.rs)|Easy|
