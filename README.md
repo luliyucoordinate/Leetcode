@@ -835,6 +835,7 @@ LeetCode
 |2357|[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/first-letter-to-appear-twice/)||[c++](./src/2351-First-Letter-to-Appear-Twice/2351.cpp)||||||Easy|
 |2389|[Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)||[c++](./src/2389-Longest-Subsequence-With-Limited-Sum/2389.cpp)||||||Easy|
 |2395|[Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/)||[c++](./src/2395-Find-Subarrays-With-Equal-Sum/2395.cpp)||||||Easy|
+|2427|[Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)||[c++](./src/2427-Number-of-Common-Factors/2427.cpp)||||||Easy|
 |2469|[Convert the temperature](https://leetcode.com/problems/convert-the-temperature/)||[c++](./src/2469-Convert-the-Temperature/2469.cpp)||||||Easy|
 |2470|[Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/)||[c++](./src/2470-Number-of-Subarrays-With-LCM-Equal-to-K/2470.cpp)||||||Medium|
 |2471|[Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/)||[c++](./src/2471-Minimum-Number-of-Operations-to-Sort-a-Binary-Tree-by-Level/2471.cpp)||||||Medium|
