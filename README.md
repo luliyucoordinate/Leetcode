@@ -139,7 +139,7 @@ LeetCode
 |0133|[Clone Graph](https://leetcode.com/problems/clone-graph/) || [c++](./src/0133-Clone-Graph/0133.cpp) |[python](./src/0133-Clone-Graph/0133.py)|||||Medium|
 |0134|[Gas Station](https://leetcode.com/problems/gas-station/) || [c++](./src/0134-Gas-Station/0134.cpp) |[python](./src/0134-Gas-Station/0134.py)|||||Medium|
 |0135|[Candy](https://leetcode.com/problems/gas-station/) || [c++](./src/0134-Gas-Station/0134.cpp) |[python](./src/0134-Gas-Station/0134.py)|||||Hard|
-|0136|[Single Number](https://leetcode.com/problems/single-number/) || [c++](./src/0136-Single-Number/0136.cpp) |[python](./src/0136-Single-Number/0136.py)|||||Easy|
+|0136|[Single Number](https://leetcode.com/problems/single-number/) || [c++](./src/0136-Single-Number/0136.cpp) |[python](./src/0136-Single-Number/0136.py)|[go](./src/0136-Single-Number/0136.go)||||Easy|
 |0137|[Single Number II](https://leetcode.com/problems/single-number-ii/) || [c++](./src/0137-Single-Number-II/0137.cpp) |[python](./src/0137-Single-Number-II/0137.py)|||||Medium|
 |0138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) || [c++](./src/0138-Copy-List-with-Random-Pointer/0138.cpp) |[python](./src/0138-Copy-List-with-Random-Pointer/0138.py)|||||Medium|
 |0139|[Word Break](https://leetcode.com/problems/word-break/) || [c++](./src/0139-Word-Break/0139.cpp) |[python](./src/0139-Word-Break/0139.py)|||||Medium|
