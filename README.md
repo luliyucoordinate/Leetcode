@@ -220,7 +220,7 @@ LeetCode
 |0260|[Single Number III](https://leetcode.com/problems/single-number-iii/) || [c++](./src/0260-Single-Number-III/0260.cpp) |[python](./src/0260-Single-Number-III/0260.py)|||[java](./src/0260-Single-Number-III/0260.java)||Medium|
 |0263|[Ugly Number](https://leetcode.com/problems/ugly-number/) || [c++](./src/0263-Ugly-Number/0263.cpp) |[python](./src/0263-Ugly-Number/0263.py)|||||Easy|
 |0264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) || [c++](./src/0264-Ugly-Number-II/0264.cpp) |[python](./src/0264-Ugly-Number-II/0264.py)|||||Medium|
-|0268|[Missing Number](https://leetcode.com/problems/missing-number/) || [c++](./src/0268-Missing-Number/0268.cpp) |[python](./src/0268-Missing-Number/0268.py)|||||Easy|
+|0268|[Missing Number](https://leetcode.com/problems/missing-number/) || [c++](./src/0268-Missing-Number/0268.cpp) |[python](./src/0268-Missing-Number/0268.py)|[go](./src/0268-Missing-Number/0268.go)||||Easy|
 |0274|[H-Index](https://leetcode.com/problems/h-index/) || [c++](./src/0274-H-Index/0274.cpp) |[python](./src/0274-H-Index/0274.py)|[go](./src/0274-H-Index/0274.go)||||Medium|
 |0275|[H-Index](https://leetcode.com/problems/h-index-ii/) || [c++](./src/0275-H-Index-II/0275.cpp) |[python](./src/0275-H-Index-II/0275.py)|[go](./src/0275-H-Index-II/0275.go)||||Medium|
 |0278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) || [c++](./src/0278-First-Bad-Version/0278.cpp) |[python](./src/0278-First-Bad-Version/0278.py)|[go](./src/0278-First-Bad-Version/0278.go)||||Easy|
