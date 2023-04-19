@@ -131,7 +131,7 @@ LeetCode
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) || [c++](./src/0125-Valid-Palindrome/0125.cpp) |[python](./src/0125-Valid-Palindrome/0125.py)|||||Easy|
 |0126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) || [c++](./src/0126-Word-Ladder-II/0126.cpp) |[python](./src/0126-Word-Ladder-II/0126.py)|||||Hard|
 |0127|[Word Ladder](https://leetcode.com/problems/word-ladder/) || [c++](./src/0127-Word-Ladder/0127.cpp) |[python](./src/0127-Word-Ladder/0127.py)|||||Medium|
-|0128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) || [c++](./src/0128-Longest-Consecutive-Sequence/0128.cpp) |[python](./src/0128-Longest-Consecutive-Sequence/0128.py)|||||Hard|
+|0128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) || [c++](./src/0128-Longest-Consecutive-Sequence/0128.cpp) |[python](./src/0128-Longest-Consecutive-Sequence/0128.py)|[go](./src/0128-Longest-Consecutive-Sequence/0128.go)||||Hard|
 |0129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) || [c++](./src/0129-Sum-Root-to-Leaf-Numbers/0129.cpp) |[python](./src/0129-Sum-Root-to-Leaf-Numbers/0129.py)|||||Medium|
 |0130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) || [c++](./src/0130-Surrounded-Regions/0130.cpp) |[python](./src/0130-Surrounded-Regions/0130.py)|||||Medium|
 |0131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) || [c++](./src/0131-Palindrome-Partitioning/0131.cpp) |[python](./src/0131-Palindrome-Partitioning/0131.py)|||||Medium|
