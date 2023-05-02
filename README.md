@@ -316,7 +316,7 @@ LeetCode
 |0698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)||[c++](./src/0698-Partition-to-K-Equal-Sum-Subsets/0698.cpp)|[python](./src/0698-Partition-to-K-Equal-Sum-Subsets/0698.py)|[go](./src/0698-Partition-to-K-Equal-Sum-Subsets/0698.go)|[js](./src/0698-Partition-to-K-Equal-Sum-Subsets/0698.js)|[java](./src/0698-Partition-to-K-Equal-Sum-Subsets/0698.java)||Medium|
 |0700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)||[c++](./src/0700-Search-in-a-Binary-Search-Tree/0700.cpp)|||||[rust](./src/0700-Search-in-a-Binary-Search-Tree/0700.rs)|Easy|
 |0733|[Flood Fill](https://leetcode.com/problems/flood-fill/) || [c++](./src/0733-Flood-Fill/0733.cpp) |[python](./src/0733-Flood-Fill/0733.py)|||||Easy|
-|0739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) || [c++](./src/0739-Daily-Temperatures/0739.cpp) |[python](./src/0739-Daily-Temperatures/0739.py)|||||Medium|
+|0739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) || [c++](./src/0739-Daily-Temperatures/0739.cpp) |[python](./src/0739-Daily-Temperatures/0739.py)|[go](./src/0739-Daily-Temperatures/0739.go)||||Medium|
 |0742|[Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/) || [c++](./src/0742-Closest-Leaf-in-a-Binary-Tree/0742.cpp) |[python](./src/0742-Closest-Leaf-in-a-Binary-Tree/0742.py)|||||Medium|
 |0776|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)||[c++](./src/0776-Toeplitz-Matrix/0776.cpp)||||||Easy|
 |0783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)||[c++](./src/0783-Minimum-Distance-Between-BST-Nodes/0783.cpp)||||||Easy|
