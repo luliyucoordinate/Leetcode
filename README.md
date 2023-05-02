@@ -214,7 +214,7 @@ LeetCode
 |0239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) || [c++](./src/0239-Sliding-Window-Maximum/0239.cpp) |[python](./src/0239-Sliding-Window-Maximum/0239.py)|||||Medium|
 |0240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) || [c++](./src/0240-Search-a-2D-Matrix-II/0240.cpp) |[python](./src/0240-Search-a-2D-Matrix-II/0240.py)|||||Medium|
 |0241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) || [c++](./src/0241-Different-Ways-to-Add-Parentheses/0241.cpp) |[python](./src/0241-Different-Ways-to-Add-Parentheses/0241.py)|||||Medium|
-|0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) || [c++](./src/0242-Valid-Anagram/0242.cpp) |[python](./src/0242-Valid-Anagram/0242.py)|||||Easy|
+|0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) || [c++](./src/0242-Valid-Anagram/0242.cpp) |[python](./src/0242-Valid-Anagram/0242.py)|[go](./src/0242-Valid-Anagram/0242.go)||||Easy|
 |0242|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) || [c++](./src/0257-Binary-Tree-Paths/0257.cpp) |[python](./src/0257-Binary-Tree-Paths/0257.py)|||||Easy|
 |0253|[Meeting Rooms II](https://leetcode.com/meeting-rooms-ii) || [c++](./src/0253-Meeting-Rooms-II/0253.cpp) |[python](./src/0253-Meeting-Rooms-II/0253.py)|||||Medium|
 |0260|[Single Number III](https://leetcode.com/problems/single-number-iii/) || [c++](./src/0260-Single-Number-III/0260.cpp) |[python](./src/0260-Single-Number-III/0260.py)|||[java](./src/0260-Single-Number-III/0260.java)||Medium|
