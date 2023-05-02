@@ -52,7 +52,7 @@ LeetCode
 |0046|[Permutations](https://leetcode.com/problems/permutations/) || [c++](./src/0046-Permutations/0046.cpp) |[python](./src/0046-Permutations/0046.py)|||[java](./src/0046-Permutations/0046.java)||Medium|
 |0047|[Permutations II](https://leetcode.com/problems/permutations-ii/) || [c++](./src/0047-Permutations-II/0047.cpp) |[python](./src/0047-Permutations-II/0047.py)|||[java](./src/0047-Permutations-II/0047.java)||Medium|
 |0048|[Rotate Image](https://leetcode.com/problems/rotate-image/) || [c++](./src/0048-Rotate-Image/0048.cpp) |[python](./src/0048-Rotate-Image/0048.py)|||||Medium|
-|0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) || [c++](./src/0049-Group-Anagrams/0049.cpp) |[python](./src/0049-Group-Anagrams/0049.py)|||||Medium|
+|0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) || [c++](./src/0049-Group-Anagrams/0049.cpp) |[python](./src/0049-Group-Anagrams/0049.py)|[go](./src/0049-Group-Anagrams/0049.go)||||Medium|
 |0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/) || [c++](./src/0050-Pow(x,n)/0050.cpp) |[python](./src/0050-Pow(x,n)/0050.py)|||||Medium|
 |0051|[N-Queens](https://leetcode.com/problems/n-queens/) || [c++](./src/0051-N-Queens/0051.cpp) |[python](./src/0051-N-Queens/0051.py)|||||Hard|
 |0052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/) || [c++](./src/0052-N-Queens-II/0052.cpp) |[python](./src/0052-N-Queens-II/0052.py)|||||Hard|
