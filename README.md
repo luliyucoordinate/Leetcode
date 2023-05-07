@@ -78,7 +78,7 @@ LeetCode
 |0072|[Edit Distance](https://leetcode.com/problems/edit-distance/) || [c++](./src/0072-Edit-Distance/0072.cpp) |[python](./src/0072-Edit-Distance/0072.py)|||||Hard|
 |0073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) || [c++](./src/0073-Set-Matrix-Zeroes/0073.cpp) |[python](./src/0073-Set-Matrix-Zeroes/0073.py)|||||Medium|
 |0074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) || [c++](./src/0074-Search-a-2D-Matrix/0074.cpp) |[python](./src/0074-Search-a-2D-Matrix/0074.py)|||||Medium|
-|0075|[Sort Colors](https://leetcode.com/problems/sort-colors/) || [c++](./src/0075-Sort-Colors/0075.cpp) |[python](./src/0075-Sort-Colors/0075.py)|||||Medium|
+|0075|[Sort Colors](https://leetcode.com/problems/sort-colors/) || [c++](./src/0075-Sort-Colors/0075.cpp) |[python](./src/0075-Sort-Colors/0075.py)|[go](./src/0075-Sort-Colors/0075.go)||||Medium|
 |0076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) || [c++](./src/0076-Minimum-Window-Substring/0076.cpp) |[python](./src/0076-Minimum-Window-Substring/0076.py)|||||Easy|
 |0077|[Combinations](https://leetcode.com/problems/combinations/) || [c++](./src/0077-Combinations/0077.cpp) |[python](./src/0077-Combinations/0077.py)|||||Medium|
 |0078|[Subsets](https://leetcode.com/problems/subsets/) || [c++](./src/0078-Subsets/0078.cpp) |[python](./src/0078-Subsets/0078.py)|||||Medium|
