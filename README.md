@@ -72,7 +72,7 @@ LeetCode
 |0066|[Plus One](https://leetcode.com/problems/plus-one/) || [c++](./src/0066-Plus-One/0066.cpp) |[python](./src/0066-Plus-One/0066.py)||||[rust](./src/0066-Plus-One/0066.rs)|Easy|
 |0067|[Add Binary](https://leetcode.com/problems/add-binary/) || [c++](./src/0067-Add-Binary/0067.cpp) |[python](./src/0067-Add-Binary/0067.py)|||||Easy|
 |0068|[Text Justification](https://leetcode.com/problems/text-justification/) || [c++](./src/0068-Text-Justification/0068.cpp) |[python](./src/0068-Text-Justification/0068.py)|||||Hard|
-|0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) || [c++](./src/0069-Sqrt(x)/0069.cpp) |[python](./src/0069-Sqrt(x)/0069.py)|||||Easy|
+|0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) || [c++](./src/0069-Sqrt(x)/0069.cpp) |[python](./src/0069-Sqrt(x)/0069.py)|[go](./src/0069-Sqrt(x)/0069.go)||||Easy|
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) || [c++](./src0070-Climbing-Stairs/0070.cpp) |[python](./src/0070-Climbing-Stairs/0070.py)|[go](./src/0070-Climbing-Stairs/0070.go)||||Easy|
 |0071|[Simplify Path](https://leetcode.com/problems/simplify-path/) || [c++](./src/0071-Simplify-Path/0071.cpp) |[python](./src/0071-Simplify-Path/0071.py)|||||Medium|
 |0072|[Edit Distance](https://leetcode.com/problems/edit-distance/) || [c++](./src/0072-Edit-Distance/0072.cpp) |[python](./src/0072-Edit-Distance/0072.py)|||||Hard|
