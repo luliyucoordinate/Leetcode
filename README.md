@@ -218,7 +218,7 @@ LeetCode
 |0242|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) || [c++](./src/0257-Binary-Tree-Paths/0257.cpp) |[python](./src/0257-Binary-Tree-Paths/0257.py)|||||Easy|
 |0253|[Meeting Rooms II](https://leetcode.com/meeting-rooms-ii) || [c++](./src/0253-Meeting-Rooms-II/0253.cpp) |[python](./src/0253-Meeting-Rooms-II/0253.py)|||||Medium|
 |0260|[Single Number III](https://leetcode.com/problems/single-number-iii/) || [c++](./src/0260-Single-Number-III/0260.cpp) |[python](./src/0260-Single-Number-III/0260.py)|||[java](./src/0260-Single-Number-III/0260.java)||Medium|
-|0263|[Ugly Number](https://leetcode.com/problems/ugly-number/) || [c++](./src/0263-Ugly-Number/0263.cpp) |[python](./src/0263-Ugly-Number/0263.py)|||||Easy|
+|0263|[Ugly Number](https://leetcode.com/problems/ugly-number/) || [c++](./src/0263-Ugly-Number/0263.cpp) |[python](./src/0263-Ugly-Number/0263.py)|[go](./src/0263-Ugly-Number/0263.go)||||Easy|
 |0264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) || [c++](./src/0264-Ugly-Number-II/0264.cpp) |[python](./src/0264-Ugly-Number-II/0264.py)|||||Medium|
 |0268|[Missing Number](https://leetcode.com/problems/missing-number/) || [c++](./src/0268-Missing-Number/0268.cpp) |[python](./src/0268-Missing-Number/0268.py)|[go](./src/0268-Missing-Number/0268.go)||||Easy|
 |0274|[H-Index](https://leetcode.com/problems/h-index/) || [c++](./src/0274-H-Index/0274.cpp) |[python](./src/0274-H-Index/0274.py)|[go](./src/0274-H-Index/0274.go)||||Medium|
