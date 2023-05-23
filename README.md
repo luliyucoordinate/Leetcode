@@ -236,7 +236,7 @@ LeetCode
 |0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) || [c++](./src/0309-Best-Time-to-Buy-and-Sel-Stock-with-Cooldown/0309.cpp) |[python](./src/0309-Best-Time-to-Buy-and-Sel-Stock-with-Cooldown/0309.py)|||||Medium|
 |0310|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) || [c++](./src/0310-Insert-Delete-GetRandom-O(1)/0310.cpp) ||||||Medium|
 |0316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) || [c++](./src/0316-Remove-Duplicate-Letters/0316.cpp) |[python](./src/0316-Remove-Duplicate-Letters/0316.py)|||||Hard|
-|0319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) || [c++](./src/0319-Bulb-Switcher/0319.cpp) |[python](./src/0319-Bulb-Switcher/0319.py)|||||Medium|
+|0319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) || [c++](./src/0319-Bulb-Switcher/0319.cpp) |[python](./src/0319-Bulb-Switcher/0319.py)|[go](./src/0319-Bulb-Switcher/0319.go)||||Medium|
 |0322|[Coin-Change](https://leetcode.com/problems/coin-change/) || [c++](./src/0322-Coin-Change/0322.cpp) |[python](./src/0322-Coin-Change/0322.py)|[go](./src/0322-Coin-Change/0322.go)|[js](./src/0322-Coin-Change/0322.js)|[java](./src/0322-Coin-Change/0322.java)||Medium|
 |0325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) || [c++](./src/0325-Maximum-Size-Subarray-Sum-Equals-k/0325.cpp) |[python](./src/0325-Maximum-Size-Subarray-Sum-Equals-k/0325.py)|||||Medium|
 |0326|[Power of Three](https://leetcode.com/problems/power-of-three/)||[c++](./src/0326-Power-of-Three/0326.cpp)|||||[rust](./src/0326-Power-of-Three/0326.rs)|Easy|
