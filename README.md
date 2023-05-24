@@ -239,7 +239,7 @@ LeetCode
 |0319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) || [c++](./src/0319-Bulb-Switcher/0319.cpp) |[python](./src/0319-Bulb-Switcher/0319.py)|[go](./src/0319-Bulb-Switcher/0319.go)||||Medium|
 |0322|[Coin-Change](https://leetcode.com/problems/coin-change/) || [c++](./src/0322-Coin-Change/0322.cpp) |[python](./src/0322-Coin-Change/0322.py)|[go](./src/0322-Coin-Change/0322.go)|[js](./src/0322-Coin-Change/0322.js)|[java](./src/0322-Coin-Change/0322.java)||Medium|
 |0325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) || [c++](./src/0325-Maximum-Size-Subarray-Sum-Equals-k/0325.cpp) |[python](./src/0325-Maximum-Size-Subarray-Sum-Equals-k/0325.py)|||||Medium|
-|0326|[Power of Three](https://leetcode.com/problems/power-of-three/)||[c++](./src/0326-Power-of-Three/0326.cpp)|||||[rust](./src/0326-Power-of-Three/0326.rs)|Easy|
+|0326|[Power of Three](https://leetcode.com/problems/power-of-three/)||[c++](./src/0326-Power-of-Three/0326.cpp)||[go](./src/0326-Power-of-Three/0326.go)|||[rust](./src/0326-Power-of-Three/0326.rs)|Easy|
 |0328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) || [c++](./src/0328-Odd-Even-Linked-List/0328.cpp) |[python](./src/0328-Odd-Even-Linked-List/0328.py)|||||Medium|
 |0331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/odd-even-linked-list/) || [c++](./src/0328-Odd-Even-Linked-List/0328.cpp) |[python](./src/0328-Odd-Even-Linked-List/0328.py)|||||Medium|
 |0337|[House Robber III](https://leetcode.com/problems/house-robber-iii/) || [c++](./src/0328-Odd-Even-Linked-List/0337.cpp) |[python](./src/0328-Odd-Even-Linked-List/0337.py)|||||Medium|
